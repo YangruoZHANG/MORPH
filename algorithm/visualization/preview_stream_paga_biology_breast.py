@@ -20,8 +20,8 @@ import pandas as pd
 import preview_angular_all_roots_dualspace_breast as base
 
 
-EXPR = (base.PROJECT / "outputs" / "reports_v7_8_1_FROZEN"
-        / "trajectory_evidence_v781_frozen_A0" / "node_expression_cache"
+EXPR = (base.PROJECT / "outputs" / "reports_FROZEN"
+        / "trajectory_evidence_frozen_A0" / "node_expression_cache"
         / "xenium_breast_node_expression.npz")
 OUT = base.OUTPUT / "biology_first_legend"
 PROGRAMS = {
@@ -250,12 +250,12 @@ def main():
     assert expression.shape[0] == len(positions)
     call_rows, composition_rows = [], []
     trend_table = pd.read_csv(
-        base.PROJECT / "outputs" / "reports_v7_8_1_FROZEN"
-        / "trajectory_evidence_v781_frozen_A0" / "TRAJECTORY_PROGRAM_TRENDS.csv"
+        base.PROJECT / "outputs" / "reports_FROZEN"
+        / "trajectory_evidence_frozen_A0" / "TRAJECTORY_PROGRAM_TRENDS.csv"
     )
     gene_table = pd.read_csv(
-        base.PROJECT / "outputs" / "reports_v7_8_1_FROZEN"
-        / "trajectory_evidence_v781_frozen_A0" / "TRAJECTORY_GENE_TRENDS.csv"
+        base.PROJECT / "outputs" / "reports_FROZEN"
+        / "trajectory_evidence_frozen_A0" / "TRAJECTORY_GENE_TRENDS.csv"
     )
     component_sets = {root: set(all_pt.loc[all_pt.root.eq(root), "node_id"])
                       for root in base.ROOTS}

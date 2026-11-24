@@ -11,9 +11,9 @@ import subprocess
 import sys
 
 ROOT=Path(__file__).resolve().parent
-BENCH=ROOT/'outputs/manuscript_revision_20260920/expanded_benchmark_1000'
-FROZEN=ROOT/'outputs/NicheForest_current_frozen_complete_package_20260812'
-DEV=ROOT/'algorithm/experimental/final_tree_method_development'
+BENCH=ROOT/'data/supplied_root'
+FROZEN=ROOT/'data/historical_comparisons'
+DEV=ROOT/'algorithm/evaluation/branch_state'
 for key in ['OMP_NUM_THREADS','MKL_NUM_THREADS','OPENBLAS_NUM_THREADS','NUMEXPR_NUM_THREADS']:
     os.environ.setdefault(key,'1')
 os.environ.setdefault('NUMBA_DISABLE_JIT','1')
@@ -26,9 +26,9 @@ def load_module(name,path):
 
 
 def run_plot():
-    subprocess.run([sys.executable,str(ROOT/'algorithm/visualization/plot_figure3_redesign.py'),
+    subprocess.run([sys.executable,str(ROOT/'algorithm/visualization/plot_benchmark.py'),
         '--data-root',str(FROZEN),'--benchmark-root',str(BENCH),
-        '--summary-root',str(ROOT/'chatgpt_handoff_1000'),
+        '--summary-root',str(ROOT/'summary'),
         '--outdir',str(ROOT/'reproduced/Figure3')],check=True,cwd=ROOT)
 
 
@@ -59,20 +59,20 @@ def scores(limit=None,historical=False):
     import pandas as pd
     from scipy.stats import spearmanr
     from sklearn.metrics import adjusted_rand_score
-    d=load_module('handoff_original_hierarchical',DEV/'diagnose_phase_a_hierarchical_v10.py')
+    d=load_module('handoff_original_hierarchical',DEV/'hierarchical_branch_diagnostics.py')
     Q=d.V2.Q
     if historical:
         base=FROZEN/'results/NicheForest_paper_frozen_candidate/P4_root_conditioned_benchmark/runs'
-        paths=sorted(base.glob('*/nicheforest_run/phase_a/T0_STATE_NODE_ASSIGNMENTS.csv'))
+        paths=sorted(base.glob('*/forest_run/phase_a/T0_STATE_NODE_ASSIGNMENTS.csv'))
         expected=pd.read_csv(base.parent/'P4_CORE_COMPARISON.csv')
     else:
-        paths=sorted((BENCH/'runs').glob('*/nicheforest_run/phase_a/T0_STATE_NODE_ASSIGNMENTS.csv'))
+        paths=sorted((BENCH/'runs').glob('*/forest_run/phase_a/T0_STATE_NODE_ASSIGNMENTS.csv'))
     if limit:paths=paths[:limit]
     records=[];errors=[]
     for index,path in enumerate(paths):
         phase=path.parent;run=phase.parent;folder=run.parent;dataset=folder.name
-        inputs=folder/'nicheforest_inputs'
-        fixed=run/'generic_upstream_v1_exact_root/FIXED_ROOT_INPUT.csv'
+        inputs=folder/'forest_inputs'
+        fixed=run/'supplied_root_inputs/FIXED_ROOT_INPUT.csv'
         truth=d.load_truth_for_metacells(run,inputs,fixed)
         n=pd.read_csv(inputs/'cell_to_metacell_mapping.csv').shape[0]
         for case,method in [('current_root_conditioned_msf','root-conditioned MSF'),
@@ -125,7 +125,7 @@ def summary():
     for p in sorted((BENCH/'runs').glob('*/METRICS.json')):rows.extend(json.loads(p.read_text()))
     frame=pd.DataFrame(rows);out=ROOT/'reproduced';out.mkdir(exist_ok=True)
     result=[]
-    frozen=pd.read_csv(ROOT/'chatgpt_handoff_1000/overall_metrics.csv')
+    frozen=pd.read_csv(ROOT/'summary/overall_metrics.csv')
     for label,key in [('Coverage','coverage'),('Branch ARI','branch_ARI_rootwise'),('State-edge F1','topology_F1'),('Signed pseudotime rho','pseudotime_spearman')]:
         tab=frame.pivot(index='dataset',columns='method',values=key)
         delta=tab['current branch-scale T0']-tab['root-conditioned MSF']
@@ -180,7 +180,7 @@ def main():
         sys.path.insert(0,str(ROOT/'algorithm/validation'))
         import anndata as ad
         import pandas as pd
-        from run_paper_p4_root_conditioned_benchmark import _run_core
+        from run_supplied_root_benchmark import _run_core
         data=pd.read_csv(BENCH/'datasets/manifest.csv').dataset.tolist()
         if a.limit:data=data[:a.limit]
         for ds in data:

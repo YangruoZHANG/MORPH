@@ -30,12 +30,12 @@ STOPS = {
     "C00": ("#07357c", "#a8c7fa"),
     "C21": ("#064a2d", "#a5d8b6"),
 }
-BASE = PROJECT / "outputs" / "CB_figure_v7_8_1_FROZEN_trajectory_embedding_connected_rebuild"
-AUDIT_PATH = BASE / "05_tree_refinement_before_after_v6_2" / DATASET / "connected_representative_display_audit.csv"
-EMBED = PROJECT / "outputs" / "v7_8_1_frozen_A0_trajectory_aware_embedding" / DATASET
-DIRECTION = PROJECT / "outputs" / "v7_8_1_frozen_direction" / DATASET
-TREE = PROJECT / "outputs" / "v7_8_1_frozen_formal_tree_inputs" / DATASET
-FORMAL_DATA = PROJECT / "NicheForest_v7_4_6_all7_reproduction_bundle" / "data" / DATASET
+BASE = PROJECT / "outputs" / "CB_figure_FROZEN_trajectory_embedding_connected_rebuild"
+AUDIT_PATH = BASE / "tree_refinement" / DATASET / "connected_representative_display_audit.csv"
+EMBED = PROJECT / "data" / "supplementary_embeddings" / DATASET
+DIRECTION = PROJECT / "data" / "supplementary_directed_trees" / DATASET
+TREE = PROJECT / "data" / "supplementary_tree_inputs" / DATASET
+FORMAL_DATA = PROJECT / "NicheForest_all7_reproduction_bundle" / "data" / DATASET
 OUTPUT = PROJECT / "outputs" / "trajectory_visualization_preview_xenium_breast" / "angular_all_roots"
 
 

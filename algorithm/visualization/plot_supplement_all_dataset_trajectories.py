@@ -44,8 +44,8 @@ STATES = [
 
 
 def load_dataset(ds):
-    embed=ROOT/'outputs/v7_8_1_frozen_A0_trajectory_aware_embedding'/ds
-    formal=ROOT/'NicheForest_v7_4_6_all7_reproduction_bundle/data'/ds
+    embed=ROOT/'data/supplementary_embeddings'/ds
+    formal=ROOT/'data/supplementary_cell_maps'/ds
     raw=pd.read_csv(embed/'raw_cell_dense_coordinates.csv.gz',
                     usecols=['cell_id','spatial_1','spatial_2','umap_1','umap_2'])
     mapping=pd.read_csv(formal/'cell_to_metacell.csv',usecols=['cell_name','metacell_id'])
@@ -61,11 +61,11 @@ def load_dataset(ds):
     umap=pd.read_csv(embed/f'{ds}_metacells_selected_umap.csv').set_index('node_id')
     pos=pos.join(umap[['umap_1','umap_2']],validate='one_to_one')
     assert pos.notna().all().all()
-    audit=pd.read_csv(ROOT/'outputs/CB_figure_v7_8_1_FROZEN_trajectory_embedding_connected_rebuild'
-                      /'05_tree_refinement_before_after_v6_2'/ds/'connected_representative_display_audit.csv')
-    edges=pd.read_csv(ROOT/'outputs/v7_8_1_frozen_direction'/ds/'DIRECTED_COMPONENT_MST_EDGES.csv')
-    pt=pd.read_csv(ROOT/'outputs/v7_8_1_frozen_direction'/ds/'NODE_PSEUDOTIME_BY_ROOT_COMPONENT.csv')
-    cache=np.load(ROOT/'outputs/reports_v7_8_1_FROZEN/trajectory_evidence_v781_frozen_A0'
+    audit=pd.read_csv(ROOT/'data/supplementary_representatives'
+                      /'tree_refinement'/ds/'connected_representative_display_audit.csv')
+    edges=pd.read_csv(ROOT/'data/supplementary_directed_trees'/ds/'DIRECTED_COMPONENT_MST_EDGES.csv')
+    pt=pd.read_csv(ROOT/'data/supplementary_directed_trees'/ds/'NODE_PSEUDOTIME_BY_ROOT_COMPONENT.csv')
+    cache=np.load(ROOT/'data/supplementary_expression'
                   /'node_expression_cache'/f'{ds}_node_expression.npz',allow_pickle=True)
     assert cache['expression'].shape[0]==len(domains), ds
     paths=[]; parts=[]

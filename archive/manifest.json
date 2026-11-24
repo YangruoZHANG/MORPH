@@ -90,22 +90,22 @@
     ]
   },
   {
-    "path": "results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv",
+    "path": "results/breast_morph/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv",
     "bytes": 4095097,
     "sha256": "457d5c17ecae7e2734fde09631f02cea529861688bb6c6743a98b9f8d54becbe",
     "parts": [
-      "archive/results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/001.part",
-      "archive/results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/002.part",
-      "archive/results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/003.part"
+      "archive/results/breast_morph/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/001.part",
+      "archive/results/breast_morph/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/002.part",
+      "archive/results/breast_morph/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/003.part"
     ]
   },
   {
-    "path": "results/breast_v70/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv",
+    "path": "results/breast_morph/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv",
     "bytes": 2816883,
     "sha256": "3cb510dfc58247f48e4714e7fdb96c3bd8413e233feb9db11aeea618e1c225b6",
     "parts": [
-      "archive/results/breast_v70/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv/001.part",
-      "archive/results/breast_v70/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv/002.part"
+      "archive/results/breast_morph/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv/001.part",
+      "archive/results/breast_morph/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv/002.part"
     ]
   }
 ]

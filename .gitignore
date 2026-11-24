@@ -8,13 +8,11 @@ benchmark/reproduced/
 modules/candidate_contacts/inputs/
 modules/candidate_contacts/results/
 outputs/
-data/
+/data/
 *.h5ad
-!benchmark/outputs/
-!benchmark/outputs/manuscript_revision_20260920/
-!benchmark/outputs/manuscript_revision_20260920/expanded_benchmark_1000/
-!benchmark/outputs/manuscript_revision_20260920/expanded_benchmark_1000/datasets/
-!benchmark/outputs/manuscript_revision_20260920/expanded_benchmark_1000/datasets/ambig_K2_rep00.h5ad
+!benchmark/data/supplied_root/
+!benchmark/data/supplied_root/datasets/
+!benchmark/data/supplied_root/datasets/ambig_K2_rep00.h5ad
 *.npz
 *.zip
 *.log
