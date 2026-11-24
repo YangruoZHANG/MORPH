@@ -1,0 +1,19 @@
+{
+  "archive_sha256": "a3ea6ec05ec5ad12a275019883c95a117072e50551ca0cc367f9155b65897795",
+  "selection": "all supplied final source, results and figures; Python bytecode excluded",
+  "stored_result_hashes_verified": {
+    "by_dataset.csv": true,
+    "by_root.csv": true,
+    "manuscript_table.csv": true,
+    "provenance.json": true,
+    "spatial_null_negative_control.csv": true,
+    "summary_all_conditions_long.csv": true,
+    "summary_long.csv": true
+  },
+  "raw_prediction_rescore": "NOT_RUN; source benchmark and prediction input not included in supplied archive",
+  "packaging_changes": [
+    "functional directory name",
+    "portable required source argument",
+    "remove development labels from package title"
+  ]
+}

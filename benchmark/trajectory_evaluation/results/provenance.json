@@ -1,0 +1,33 @@
+{
+  "scorer_version": "1.0.0",
+  "frozen_source": "D:\\Desktop\\大学\\论文\\26.9\\10.15-虚拟数据方法对比\\重新设计_v6_20261101",
+  "simulation_reused_without_modification": true,
+  "simulation_source_sha256": {
+    "code\\prepare.py": "80827f49d4a2e7f6eee4d9c78d3b578a8a8535f335ff354410a269428ee6ae1d",
+    "data\\partitions.csv": "4b1381d5be708786218310f61cb9c8bffab95b0167e23cb30e9a43897126302e"
+  },
+  "methods": [
+    "NF_v70",
+    "stLearn",
+    "Palantir",
+    "scFates",
+    "Slingshot",
+    "Monocle3",
+    "PAGA_DPT",
+    "CellRank_DPT",
+    "TSCAN"
+  ],
+  "display_names": {
+    "NF_v70": "MORPH",
+    "stLearn": "stL",
+    "Palantir": "Pal",
+    "scFates": "scF",
+    "Slingshot": "Sli",
+    "Monocle3": "Mon",
+    "PAGA_DPT": "PAG",
+    "CellRank_DPT": "CeR",
+    "TSCAN": "TSC"
+  },
+  "n_root_partitions": 40,
+  "n_datasets": 30
+}

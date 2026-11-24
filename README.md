@@ -38,3 +38,6 @@ The figure benchmark uses its original supplied-root branch/state pipeline. Supp
 ## Restore and cite
 
 Run `python restore_artifacts.py` to verify and restore the large figure and table originals to `restored_artifacts/`. [The archive manifest](archive/manifest.json) records each original file's SHA-256. [The repository checksum list](SHA256SUMS.txt) covers this checkout, and [source provenance](SOURCE_PROVENANCE.csv) records the baseline commit and underlying Git objects. See [CITATION.cff](CITATION.cff) for authorship.
+## Trajectory evaluation
+
+The [trajectory evaluation module](benchmark/trajectory_evaluation/) contains the final supplied six-metric scoring implementation, nine-method result tables and publication figures for 25 trajectory datasets and five spatial null controls. Its seven unit tests and stored-result validation passed. Raw prediction inputs are required to repeat full scoring.

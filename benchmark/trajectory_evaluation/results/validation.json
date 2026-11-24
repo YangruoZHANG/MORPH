@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "root_rows": 360,
+  "dataset_rows": 270,
+  "all_method_fits_ok": true,
+  "metric_ranges_ok": true,
+  "lineage_f1_mean_exceeds_segment_audit_mean": true,
+  "all_method_topology_means_filled": true,
+  "branchless_methods_use_declared_fate_star": true,
+  "result_file_sha256": {
+    "by_dataset.csv": "c21c877fe0c7d0ff13947f5dfa5026c39ac84c2616dd0e8b1993e0d06cf1ed58",
+    "by_root.csv": "ccdbe7deb5a4445c9de12dbac52dfce2b2e9f6e96dbc147f5cad8747b4b42d1c",
+    "manuscript_table.csv": "fc8d1d99d378c2dbedc843bc2abdc881ae6f6715126e6d59c63e669a8a9ca183",
+    "provenance.json": "e05b282f4a6a7ec0451bc071b13d1e4d79c52838ce1b12b2fc309ca1f7cb2e12",
+    "spatial_null_negative_control.csv": "597d2df76eaa7cab546b6dcf36b33ab9ec0126fdf92cd18f11e1bb5f236a6a57",
+    "summary_all_conditions_long.csv": "c5bc13980b1e7bce0cfbda3d9f073869360be83567b55f297964b1fabe9039b1",
+    "summary_long.csv": "4218a3bc7db78a1d36f857a4810c40073a65f3c33873194abaed710fdcbed823"
+  }
+}

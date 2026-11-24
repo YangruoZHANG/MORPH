@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this evaluation package, please cite the MORPH manuscript and Saelens et al. (2019)."
+title: "MORPH trajectory evaluation"
+version: 1.0.0
+date-released: 2026-11-23
+type: software
+references:
+  - type: article
+    title: "A comparison of single-cell trajectory inference methods"
+    authors:
+      - family-names: Saelens
+        given-names: Wouter
+    doi: 10.1038/s41587-019-0071-9
+    year: 2019
+
