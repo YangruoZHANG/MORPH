@@ -1,0 +1,12 @@
+{
+  "hypothesis": "The regional anchor defines an initial state estimate, not many diverse cells all experimentally known to be time0. Preserve every actual source-cell ID but aggregate its normalized source state into ONE observed regional ensemble per root/identity. Independently, reduce count noise through small identity/stage-pure spatial states.",
+  "mode": "ensemble",
+  "raw_population": "Same99224nuclear-supported, non-conflicted original cells as the marker-disjoint core; original author labels are priors. No new cells, counts, positions or source cells.",
+  "local_pools": "Coordinate-only widest-axis median partition, <=original median metacell membership (9), maximum diameter300um matching the pre-existing radius150um source-niche diameter. No minimum pool mass or forced bridge. Source ensembles contain all original same-root/same-identity/same-stage source cells, even if >9. No genes select memberships.",
+  "observation_model": "Fit unchanged per-RAW-cell theta100Pearson residual/PCA15 within identity; exclude ALL27identity genes and every tested entire gene panel before any feature fitting. Mean normalized raw-cell PCs inside units; NEVER apply a single-cell NB model to variable-mass summed counts. Exact count sums are separately preserved.",
+  "graph": "Identical count-admissible reciprocal30NN edge set. Gaussian molecular evidence times Cauchy physical evidence, with physical30NN self-scales. Cost=sqrt(molecular_cost**2+log1p(d**2/(scale_i*scale_j))). Same.97multipath solver, source IDs and minimum raw source mass6; no new candidate, spatial radius or length target.",
+  "coordinate": "Each display coordinate is an observed member nearest its coordinate mean; no artificial cell or displaced raw cell. Original regional anchor positions unchanged.",
+  "response": "Mean per-raw-cell nuclear programme scores within a unit, not repeated cell-level observations masquerading as independent replicates. Partial rank includes mean nonpanel nuclear depth, mean nucleus area, raw-cell mass and measured representative x/y;9999block flips at250/500/750um, joint family BH.",
+  "clinical_prior": "Original DCIS/invasive input admissibility retained. Earliest eligible stage source roster was already frozen on raw cells before pooling; do not re-require6pooled units or silently reselect source stage.",
+  "scope": "A region-conditioned state forest, not proof of literal single-cell ancestry or migration. All prior raw source IDs preserved as explicit members. No automatic paper-final flag or main artifact overwrite."
+}

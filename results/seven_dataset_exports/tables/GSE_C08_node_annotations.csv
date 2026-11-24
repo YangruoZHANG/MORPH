@@ -1,0 +1,544 @@
+node_id,label,score_Cycling,score_Cytotoxic markers,score_Stress-response markers,score_ECM-remodeling markers
+15,Perivascular / muscle,-0.53754705,0.14964464,-0.31294888,-0.2976999
+27,Perivascular / muscle,-0.38035342,0.85645944,-0.27430284,-0.15131533
+33,Perivascular / muscle,-0.037506375,0.23646002,-0.15279467,-0.13243863
+38,Perivascular / muscle,-0.54873395,0.15424721,-0.36213025,-3.0
+39,Perivascular / muscle,-0.32867044,0.23609605,-0.20349711,-0.1795278
+44,Perivascular / muscle,-0.9749134,0.03848558,-0.46896672,-0.38774216
+54,Perivascular / muscle,-1.0609629,0.32373434,-0.43045968,-0.5393644
+58,Perivascular / muscle,-0.72859204,0.19398883,-0.25822324,-0.28309697
+62,Perivascular / muscle,-0.70639145,0.1991331,-0.372446,-0.1723295
+77,Perivascular / muscle,-0.48282728,0.028749716,-0.3741666,-0.5889636
+81,Perivascular / muscle,-0.556001,0.29135445,-0.39476782,-0.024274312
+111,Perivascular / muscle,-0.4778163,0.123150185,-0.31473124,-0.3096639
+114,Perivascular / muscle,-0.47128522,0.4656879,-0.31916946,-0.18893138
+118,Perivascular / muscle · ECM-remodeling markers,-0.7541518,0.71662915,-0.36017197,1.1441818
+122,Perivascular / muscle,-0.71566415,0.031318057,-0.0034529977,-0.2392422
+134,Perivascular / muscle,0.25507385,0.7035816,0.50116336,0.12927707
+194,Perivascular / muscle,-0.5848906,0.058010213,-0.2962323,-0.21530844
+208,Perivascular / muscle,-0.07166044,0.21645327,-0.2193479,-0.19258286
+216,Perivascular / muscle,-0.45253685,0.2758548,-0.010560166,-0.2916212
+226,Perivascular / muscle,0.25333282,0.28698987,-0.1832485,-0.20925936
+258,Perivascular / muscle,-0.54438615,0.16485956,-0.3877778,-0.46927738
+266,Perivascular / muscle,-0.39945447,0.13068789,-0.19392939,-0.28724024
+284,Perivascular / muscle · ECM-remodeling markers,-0.9409639,0.39085868,-0.48743072,0.65988624
+299,Perivascular / muscle,0.10549073,0.40100592,-0.13452397,-0.23307052
+329,Perivascular / muscle,-0.89628446,0.092150025,-0.047191996,-3.0
+360,Perivascular / muscle,-0.83166933,0.30649891,-0.57216865,-0.19928983
+363,Perivascular / muscle,-0.062849134,0.25583988,-0.19924636,-0.33142895
+396,Perivascular / muscle · Stress-response markers,-0.15773194,0.25397918,0.65879166,0.15552853
+428,Perivascular / muscle,-0.10209169,0.35555923,-0.06763072,-0.104600646
+450,Perivascular / muscle · ECM-remodeling markers,-0.9405085,0.053959746,-0.19331956,0.771321
+459,Perivascular / muscle,-0.47417694,0.36450982,-0.3355922,0.10888176
+469,Perivascular / muscle,-0.049004283,0.28129545,0.0350355,-0.0061651394
+492,Perivascular / muscle · ECM-remodeling markers,-1.2695227,0.2147193,-0.22559457,0.7213204
+496,Perivascular / muscle,-0.94360435,0.2552146,-0.5654229,-3.0
+504,Perivascular / muscle,-0.7322315,-0.031962346,-0.46550047,-0.12414517
+506,Perivascular / muscle,-0.29673505,0.39322013,-0.30483657,0.60303086
+535,Perivascular / muscle,-0.7228712,0.053310703,-0.31165802,0.6443556
+558,Perivascular / muscle,0.46714464,0.25137827,-0.018372942,-0.07449072
+567,Perivascular / muscle,-0.0077009983,0.12812993,-0.11549774,-0.138408
+610,Perivascular / muscle,-0.4692481,0.19848946,-0.21401769,-0.29428262
+620,Perivascular / muscle,-0.19169848,0.15445878,-0.07933232,-0.18246844
+625,Perivascular / muscle,-0.6847837,0.059696056,-0.67622423,-0.35461652
+647,Perivascular / muscle · Stress-response markers,0.44259864,0.65039754,1.0118191,0.034179807
+667,Perivascular / muscle,-0.21590394,0.23535147,0.36570448,0.4525275
+679,Perivascular / muscle,0.182759,0.41646296,-0.1197865,0.60096794
+706,Perivascular / muscle,-0.18513133,0.2734166,-0.2562865,-0.0525664
+725,Perivascular / muscle,-0.11372774,0.902593,-0.09260123,-3.0
+731,Perivascular / muscle,0.46247742,0.38993698,-0.051946852,-0.042853482
+735,Perivascular / muscle,-0.58333886,0.17470352,-0.2894608,-0.2506204
+741,Perivascular / muscle,-0.36277494,0.40599877,-0.39118475,-0.32411367
+745,Perivascular / muscle,-0.56688935,0.18670358,0.36992317,0.19644365
+747,Perivascular / muscle · ECM-remodeling markers,-0.86697155,0.14741892,-0.32158992,0.79165494
+754,Perivascular / muscle,-0.021206263,0.36438006,-0.08076382,-0.18420318
+757,Perivascular / muscle,0.048298135,0.69377327,-0.17167741,-3.0
+758,Perivascular / muscle · ECM-remodeling markers,-0.7324149,0.26801008,-0.45036328,0.91909313
+760,Perivascular / muscle,-0.45405853,0.42161694,-0.3025021,-0.09509937
+765,Perivascular / muscle · Stress-response markers,0.47569382,0.0943943,0.72571176,-0.14045133
+772,Perivascular / muscle,0.10632979,0.13095236,-0.14908627,-0.3965794
+781,Perivascular / muscle,-0.74632484,0.27574894,-0.41075662,-0.5710222
+791,Perivascular / muscle,-0.9502611,0.23591673,-0.47450495,0.30633074
+793,Perivascular / muscle,0.087875955,0.1993555,0.007999964,0.053508602
+799,Perivascular / muscle,0.04419893,0.18075618,-0.009708263,0.3790534
+803,Perivascular / muscle,0.5176286,0.10813153,-0.010012361,0.106686436
+851,Perivascular / muscle,-1.133959,0.3768034,-0.5491624,0.16189647
+863,Perivascular / muscle · ECM-remodeling markers,-0.52254665,0.23219147,-0.3594494,1.1229001
+867,Perivascular / muscle,-0.6246734,0.18191734,-0.31073743,-0.1815545
+871,Perivascular / muscle,-0.652585,0.06820412,-0.23126952,-0.36451116
+887,Perivascular / muscle,-0.8723349,0.28856796,-0.47587436,0.43376255
+901,Perivascular / muscle,-0.4861638,0.19781713,-0.37096912,-0.34286037
+906,Perivascular / muscle,-0.057152405,1.0807264,-0.25203755,0.051169805
+927,Perivascular / muscle,-0.160749,0.52223015,-0.31364322,0.088073015
+932,Perivascular / muscle,-0.87387335,0.3916853,-0.516059,0.5683075
+933,Perivascular / muscle,-0.44310486,0.062179565,-0.2639471,-0.26425323
+942,Perivascular / muscle,-0.17486398,0.20247038,-0.3923853,-0.45687592
+946,Perivascular / muscle,-0.6224498,0.34885484,-0.3745929,-0.101943016
+962,Perivascular / muscle,-0.33458805,0.2419904,-0.30749485,-3.0
+966,Perivascular / muscle,-0.84071374,0.21825823,-0.5516453,-0.026946485
+971,Perivascular / muscle,0.33631906,0.60900325,-0.23496845,0.42931935
+973,Perivascular / muscle,-0.7435038,1.2715938,-3.0,-3.0
+976,Perivascular / muscle,-1.153511,0.10798298,-0.62173176,-3.0
+986,Perivascular / muscle · Stress-response markers,0.38233638,0.21414337,0.8264149,0.22437103
+989,Perivascular / muscle,-0.36834666,0.26347685,0.04152679,-0.20123352
+1018,Perivascular / muscle,-0.3105645,0.34123078,-0.36764786,-0.2935965
+1038,Perivascular / muscle · Stress-response markers,-0.19823146,-3.0,0.8997501,-3.0
+1053,Perivascular / muscle,0.5332499,1.4024322,-3.0,0.35271445
+1054,Perivascular / muscle,-0.6707005,0.1492223,0.2258622,0.4633606
+1056,Perivascular / muscle,0.059096083,0.26983562,-0.003499439,-0.06096995
+1083,Perivascular / muscle,0.34772772,0.28888232,-0.08634537,-0.28217965
+1094,Perivascular / muscle,0.39319363,0.80415237,-0.015561491,-0.2307921
+1105,Perivascular / muscle,-0.9727308,0.1520612,-0.37514725,0.122635536
+1108,Perivascular / muscle,-0.89116514,0.18782136,-0.30417743,0.36471623
+1111,Perivascular / muscle,-0.18639933,-3.0,-3.0,-3.0
+1114,Perivascular / muscle,-0.86403,0.239229,-0.39037952,-0.5211147
+1134,Perivascular / muscle,0.41520438,0.49726167,0.1372666,-0.19235238
+1139,Perivascular / muscle,-0.6544174,0.30858532,-0.2810331,-0.2136913
+1142,Perivascular / muscle,-0.63784885,0.07951195,-0.3801886,-0.27008596
+1145,Perivascular / muscle,0.0510457,0.3099946,-0.3404386,-0.2573797
+1147,Perivascular / muscle · ECM-remodeling markers,-0.29137203,0.10756111,0.14675523,0.7799562
+1150,Perivascular / muscle,-0.34027612,0.30237907,-0.16870005,0.4378517
+1156,Perivascular / muscle,-1.2086186,-3.0,0.440719,-3.0
+1174,Perivascular / muscle,-0.7200372,0.35878998,-0.17205353,-0.17412609
+1175,Perivascular / muscle,-0.5038101,0.29398412,-0.42550993,-0.44240627
+1197,Perivascular / muscle,-0.26716515,0.48998833,-0.39078894,0.15579882
+1199,Perivascular / muscle · Cycling,0.7825401,-3.0,0.30676883,-3.0
+1201,Perivascular / muscle · ECM-remodeling markers,-1.2776899,0.38608307,-0.15894152,0.91214633
+1207,Perivascular / muscle,0.45958477,-3.0,0.06150741,-3.0
+1210,Perivascular / muscle,0.058567956,0.4498372,0.014259316,-0.0977284
+1212,Perivascular / muscle,-0.48516327,0.26009026,-0.10823971,0.5065345
+1223,Perivascular / muscle · ECM-remodeling markers,-0.9800763,0.19931872,-0.14189996,0.7930684
+1240,Perivascular / muscle,-1.1054302,0.047536753,-0.50734997,0.009227909
+1247,Perivascular / muscle,-0.33329967,-3.0,-3.0,-3.0
+1259,Perivascular / muscle,-0.6880635,1.6356609,0.745939,0.8068167
+1263,Perivascular / muscle · ECM-remodeling markers,-1.0359752,0.23924991,0.12396941,0.72735435
+1265,Perivascular / muscle · ECM-remodeling markers,-3.0,-3.0,-3.0,1.9101126
+1267,Perivascular / muscle,-0.3452145,-3.0,0.27324247,-3.0
+1270,Perivascular / muscle,0.30474743,0.21065024,-0.012750711,-0.31979418
+1276,Perivascular / muscle · ECM-remodeling markers,-0.3680458,0.3663699,0.5364602,0.7993378
+1306,Perivascular / muscle,0.01806922,0.114772104,-3.0,-3.0
+1309,Perivascular / muscle,-0.6413778,0.15995325,-0.13139902,0.39209825
+1315,Perivascular / muscle,-0.07043348,0.634079,0.025055502,0.20270377
+1316,Perivascular / muscle · ECM-remodeling markers,-0.6323492,-0.009260935,0.0903949,0.7096813
+1321,Perivascular / muscle,-0.03284557,0.23342839,-0.2759374,0.3489117
+1323,Perivascular / muscle · ECM-remodeling markers,0.47258958,0.5538763,-0.18421781,0.7025195
+1367,Perivascular / muscle · ECM-remodeling markers,-1.2169955,-0.022259016,0.015271492,0.71172804
+1388,Perivascular / muscle,-0.28500044,0.16776937,-0.46301097,-0.18530907
+1415,Perivascular / muscle,0.5598165,0.082140125,0.012220338,0.118294686
+1423,Perivascular / muscle · Cycling,0.6732315,0.058211923,0.5386826,-3.0
+1427,Perivascular / muscle,0.3373611,0.58385265,0.29314542,0.0025355145
+1433,Perivascular / muscle · ECM-remodeling markers,-1.1599305,1.0423161,-0.33517605,1.465336
+1437,Perivascular / muscle,-0.030388635,0.22121143,0.07529501,0.18326242
+1440,Perivascular / muscle · Stress-response markers,-0.042048752,-3.0,1.0960006,-3.0
+1445,Perivascular / muscle,0.5443227,1.2025725,-3.0,0.6124699
+1447,Perivascular / muscle · ECM-remodeling markers,-1.1797745,0.15013781,-0.012139536,1.4487655
+1459,Perivascular / muscle,-0.71049356,0.43437085,-0.344145,-3.0
+1469,Perivascular / muscle,0.59200025,-3.0,-3.0,-3.0
+1482,Perivascular / muscle,0.5196705,1.1352828,-3.0,-3.0
+1503,Perivascular / muscle,0.21047795,0.17741993,0.07922112,0.09166889
+1508,Perivascular / muscle,-0.2905528,0.3383966,-0.12139811,0.44374612
+1530,Perivascular / muscle,-0.2683076,0.26936013,-0.39021885,-0.33515304
+1535,Perivascular / muscle,-0.6559919,0.039016698,0.19392182,0.174379
+1566,Perivascular / muscle,-0.3283447,0.6568728,-0.45966893,-3.0
+1574,Perivascular / muscle,-0.27473545,0.28884846,-0.047717597,0.39466152
+1582,Perivascular / muscle,-0.35392916,0.5788401,0.37266287,0.11251095
+1597,Perivascular / muscle,0.098354094,0.09026076,0.061511725,0.21711239
+1611,Perivascular / muscle,-0.6261981,0.22483154,-0.365743,-3.0
+1633,Perivascular / muscle,0.17194532,1.2795063,0.09164384,-3.0
+1645,Perivascular / muscle · Stress-response markers,0.35409096,0.8218756,1.162447,0.7266512
+1650,Perivascular / muscle · ECM-remodeling markers,0.24666815,0.6701609,0.25988317,0.6934792
+1652,Perivascular / muscle,-0.8183545,0.19762895,-0.3326804,0.35311496
+1657,Perivascular / muscle,0.5829006,0.49870425,0.5823562,-0.23496993
+1700,Perivascular / muscle,0.58350796,0.10186763,0.16845539,0.10584834
+1709,Perivascular / muscle · Stress-response markers,0.71535313,-3.0,1.8370185,-3.0
+1712,Perivascular / muscle,-0.9903525,0.11854626,-0.3207525,0.60059404
+1715,Perivascular / muscle,-0.17148334,0.65573454,0.52590716,0.1906921
+1716,Perivascular / muscle,-1.1835736,0.11775049,-0.35764557,0.5176164
+1724,Perivascular / muscle,0.1042488,0.4303786,-0.035412528,0.14284782
+1733,Perivascular / muscle,0.086308695,0.23767991,-0.22808579,-0.12830731
+1777,Perivascular / muscle,-0.5516592,0.050676893,-0.31230202,0.56835043
+1796,Perivascular / muscle · ECM-remodeling markers,-0.9453645,0.6924406,-3.0,1.3268036
+1797,Perivascular / muscle,0.049633726,0.38425434,-0.08760602,-3.0
+1800,Perivascular / muscle,0.12891862,0.16986856,-0.22963174,-0.37889448
+1811,Perivascular / muscle,-0.64331275,0.14985636,0.6129378,-3.0
+1818,Perivascular / muscle,0.31038207,0.31723732,0.3532687,-0.19221894
+1819,Perivascular / muscle,-0.44689187,0.096441776,-0.33597147,-0.41953847
+1828,Perivascular / muscle,0.47302532,0.3979877,0.22005588,0.065928474
+1841,Perivascular / muscle · ECM-remodeling markers,0.5845827,-3.0,-3.0,1.720379
+1848,Perivascular / muscle · ECM-remodeling markers,0.38649434,0.5041532,0.16058362,0.66890824
+1849,Perivascular / muscle,-0.95376027,-3.0,0.31518775,-3.0
+1857,Perivascular / muscle,-0.49670526,0.3976903,-0.037471734,-0.044127256
+1860,Perivascular / muscle,-0.8246857,0.2306343,0.40343863,-0.15360084
+1881,Perivascular / muscle,-0.17667285,0.20079143,0.47815514,0.47708243
+1900,Perivascular / muscle · Cycling,0.6851192,-3.0,-3.0,-3.0
+1917,Perivascular / muscle · Stress-response markers,-3.0,1.0317072,1.6356876,-3.0
+1918,Perivascular / muscle,0.41840768,0.3273992,0.040147953,0.17798373
+1933,Perivascular / muscle,-0.046011522,0.15481123,0.015309162,-0.1064103
+1953,Perivascular / muscle,-1.1600432,0.14256957,-0.6060645,-0.0234766
+1981,Perivascular / muscle,0.038172513,-3.0,-3.0,-3.0
+1998,Perivascular / muscle,-0.3003712,0.38972902,0.17674404,0.08511113
+2003,Perivascular / muscle,0.23605761,0.19042477,-0.16678135,-3.0
+2005,Perivascular / muscle,-0.16586928,0.23656309,-0.16709405,0.41855836
+2006,Perivascular / muscle,0.09338665,0.7982896,0.08774145,-3.0
+2009,Perivascular / muscle · ECM-remodeling markers,-0.88020307,0.39405224,-0.18819192,0.7190986
+2021,Perivascular / muscle,-0.46536565,-3.0,-3.0,-3.0
+2039,Perivascular / muscle,0.060313657,0.15689586,0.49089146,0.0260396
+2064,Perivascular / muscle,0.086509824,0.3540263,-0.26157925,-0.040195554
+2071,Perivascular / muscle,0.40838283,0.5387217,0.2690545,-3.0
+2090,Perivascular / muscle,0.6111708,0.17188054,0.11509797,0.29063863
+2094,Perivascular / muscle,0.17146608,-3.0,-0.020207472,-3.0
+2098,Perivascular / muscle,0.69141203,1.8134239,-3.0,1.5847337
+2112,Perivascular / muscle,0.29633045,0.25209308,0.5358293,-0.1634503
+2115,Perivascular / muscle,0.40592796,0.31734362,0.58601654,0.58739525
+2127,Perivascular / muscle,0.37721744,0.31744772,0.26051044,-0.48612812
+2129,Perivascular / muscle,-0.10238869,0.93306,0.51798046,0.33708358
+2132,Perivascular / muscle,0.5172516,0.76234245,0.54643655,-3.0
+2133,Perivascular / muscle,-0.06817404,0.470956,0.18677643,0.6090215
+2138,Perivascular / muscle,0.347051,0.5098431,0.09730758,0.20080781
+2140,Perivascular / muscle,-0.65797365,0.14012726,-0.2747287,-3.0
+2145,Perivascular / muscle,-0.31501374,-3.0,0.40910417,-3.0
+2162,Perivascular / muscle,-0.014546116,0.2746914,0.087646246,-0.37426603
+2167,Perivascular / muscle,0.2877383,1.1182724,0.788443,0.92360467
+2176,Perivascular / muscle · Cycling,0.9806534,-3.0,-3.0,0.5600102
+2190,Perivascular / muscle,-0.016774762,0.63908935,-0.042668007,-3.0
+2195,Perivascular / muscle,0.011158407,-3.0,0.39494634,0.5055053
+2205,Perivascular / muscle,-0.8279457,0.31534377,-0.2062734,-0.21658376
+2227,Perivascular / muscle,0.4876249,0.3137103,-0.01746215,-3.0
+2236,Perivascular / muscle · Stress-response markers,-0.535133,0.7861946,0.856759,0.62861335
+2297,Perivascular / muscle · Stress-response markers,0.46490645,0.7950594,0.8363403,-3.0
+2300,Perivascular / muscle,0.50742567,0.92621183,0.22736585,0.29574287
+2310,Perivascular / muscle · Stress-response markers,0.12111762,-3.0,1.1711147,-3.0
+2311,Perivascular / muscle,-0.34098008,0.7012006,0.34866428,-3.0
+2342,Perivascular / muscle · Stress-response markers,-0.4585209,-0.016020428,1.9764557,-0.45100865
+2345,Perivascular / muscle,0.40005904,0.6153296,-3.0,-3.0
+2374,Perivascular / muscle,0.046225965,-3.0,0.62688196,0.53896224
+2382,Perivascular / muscle,-0.7579504,0.43236795,0.6403766,-3.0
+2383,Perivascular / muscle,0.4679287,0.2643726,0.16597162,-0.19817302
+2410,Perivascular / muscle · Cycling,0.87154615,-3.0,-3.0,-3.0
+2412,Perivascular / muscle,0.14103857,0.26467976,0.15571578,0.20849776
+2417,Perivascular / muscle,0.5646653,0.9802388,0.40027422,0.17783664
+2426,Perivascular / muscle,-0.515008,0.7282489,0.033977956,0.36354136
+2442,Perivascular / muscle,-0.35818762,-3.0,-3.0,-3.0
+2443,Perivascular / muscle,0.35969415,0.798645,0.05710201,0.65354717
+2447,Perivascular / muscle,-0.88587236,0.85381794,0.24073997,-3.0
+2448,Perivascular / muscle,0.0829453,1.2087134,-3.0,-3.0
+2458,Perivascular / muscle · Stress-response markers,-0.23020363,-3.0,0.79796976,0.56651413
+2463,Perivascular / muscle,0.33917925,0.36285844,0.27562335,0.18018271
+2466,Perivascular / muscle,0.3029102,0.40219536,-0.10324285,0.09947817
+2468,Perivascular / muscle,-0.5381366,-3.0,-0.08720566,0.43373096
+2469,Perivascular / muscle,0.35688522,0.716539,-3.0,0.3696875
+2470,Perivascular / muscle,0.52459157,0.33390608,0.118005954,-3.0
+2476,Perivascular / muscle,0.027346134,1.1566054,0.055951882,-3.0
+2477,Perivascular / muscle,-0.0404941,0.8788015,0.60157174,0.567209
+2489,Perivascular / muscle · Stress-response markers,-0.5024145,-3.0,0.8103395,0.13949367
+2493,Perivascular / muscle,0.44606215,-3.0,-3.0,-3.0
+2501,Perivascular / muscle,0.436034,0.6873295,-3.0,-3.0
+2504,Perivascular / muscle · Stress-response markers,-0.19600579,0.046136342,2.5338526,-0.29728428
+2506,Perivascular / muscle,0.33508128,-3.0,0.5797728,0.4771791
+2514,Perivascular / muscle,0.35967803,0.2536583,-0.50830406,-3.0
+2580,Perivascular / muscle,0.33554295,0.17069873,0.027627595,-3.0
+2597,Perivascular / muscle · ECM-remodeling markers,-1.0627015,0.65462244,0.032137632,0.8461476
+2602,Perivascular / muscle,-0.56343687,0.47762442,0.15771121,0.37602648
+2614,Perivascular / muscle,-0.55294204,-3.0,-0.015509257,-3.0
+2615,Perivascular / muscle,0.2664761,-3.0,-3.0,-3.0
+2616,Perivascular / muscle,0.0861858,0.7861493,0.14347896,-3.0
+2617,Perivascular / muscle,0.46779093,1.817194,0.3063522,-0.03535279
+2618,Perivascular / muscle,0.2814677,-3.0,-3.0,0.49509555
+2629,Perivascular / muscle · ECM-remodeling markers,0.48785448,-3.0,-3.0,1.5750823
+2634,Perivascular / muscle,-0.34317124,0.50171006,0.015600061,-3.0
+2643,Perivascular / muscle,0.6248394,0.91517746,-0.06644204,0.038075835
+2655,Perivascular / muscle · ECM-remodeling markers,-1.014484,-3.0,0.7769222,0.9145905
+2665,Perivascular / muscle,-0.23390701,0.9152664,0.39571428,0.5475758
+2675,Perivascular / muscle · Stress-response markers,-3.0,-3.0,2.2776792,-3.0
+2692,Perivascular / muscle · Stress-response markers,0.1906521,-0.0006529987,0.92507493,0.9069236
+2699,Perivascular / muscle,0.69777286,0.7237544,0.23545122,0.6561595
+2711,Perivascular / muscle,0.06724627,1.8065042,-0.16557078,-3.0
+2717,Perivascular / muscle,0.43020204,-3.0,0.051641352,-3.0
+2726,Perivascular / muscle,0.3029968,0.029769713,-0.30641794,0.15801252
+2759,Perivascular / muscle · Cycling,0.7007727,-3.0,0.2347369,-3.0
+2765,Perivascular / muscle,0.55890477,0.41877365,-0.20564103,-3.0
+2799,Perivascular / muscle,0.3768219,0.6947062,0.14457902,0.16841137
+2831,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+2868,Perivascular / muscle,0.12502085,0.49678865,0.02092579,-0.12527329
+2872,Perivascular / muscle · Cycling,0.7695237,-3.0,-3.0,-3.0
+2873,Perivascular / muscle,0.48259068,0.13271306,-0.068971075,-3.0
+2878,Perivascular / muscle · Stress-response markers,0.31461743,-3.0,0.73258567,-0.09163893
+2885,Perivascular / muscle,0.52663195,0.85132426,0.6358838,0.41757575
+2891,Perivascular / muscle,-0.11897221,-3.0,0.2207632,-3.0
+2911,Perivascular / muscle · ECM-remodeling markers,0.41859287,-3.0,-3.0,1.7311009
+2915,Perivascular / muscle,-0.47820503,0.7607657,0.17372212,-0.054279007
+2920,Perivascular / muscle · Stress-response markers,0.54333997,-3.0,2.7397933,-3.0
+2946,Perivascular / muscle,0.31032342,0.2954144,-0.46166378,-0.006039396
+2967,Perivascular / muscle,-0.118960425,-3.0,0.3899296,-3.0
+2974,Perivascular / muscle,0.4781443,1.5111605,-0.16011143,0.6090898
+2984,Perivascular / muscle · Stress-response markers,-0.20385312,0.7505784,0.8742197,0.10576601
+2985,Perivascular / muscle,0.1289445,0.2402666,-0.036824003,-0.16647016
+3002,Perivascular / muscle · Stress-response markers,0.63416207,-3.0,1.5176156,0.32166472
+3004,Perivascular / muscle · ECM-remodeling markers,-0.6337341,0.46767274,-0.046993405,0.75357676
+3035,Perivascular / muscle · Stress-response markers,-0.5775109,0.36536974,1.838637,-3.0
+3042,Perivascular / muscle,0.18195651,-3.0,0.3459683,-3.0
+3050,Perivascular / muscle,0.27079135,0.1760654,0.38055933,0.15173846
+3077,Perivascular / muscle,-0.16623205,0.884968,0.26521608,0.18917859
+3104,Perivascular / muscle,0.51776654,0.46977133,0.16052602,-3.0
+3105,Perivascular / muscle,0.28586912,-3.0,0.3256737,-3.0
+3120,Perivascular / muscle,0.11372626,0.9273969,0.07495046,-3.0
+3131,Perivascular / muscle,0.61569905,0.6695515,0.16031687,-3.0
+3158,Perivascular / muscle,0.37286246,0.47475004,0.6209604,-0.08821359
+3178,Perivascular / muscle,0.12670985,-3.0,-3.0,-3.0
+3183,Perivascular / muscle · Stress-response markers,0.39079046,0.6091167,0.7825422,-3.0
+3188,Perivascular / muscle,0.58297503,0.3308479,0.47908533,-0.053202957
+3189,Perivascular / muscle,0.50964,-3.0,-3.0,-3.0
+3219,Perivascular / muscle · Stress-response markers,-3.0,-3.0,2.7394562,-3.0
+3226,Perivascular / muscle · Stress-response markers,0.84493995,-3.0,1.1536944,-3.0
+3237,Perivascular / muscle,0.28147683,0.5436815,0.49574226,0.5214141
+3290,Perivascular / muscle · Stress-response markers,0.078387804,-3.0,1.2499791,-3.0
+3325,Perivascular / muscle,-0.04847943,0.3257958,-3.0,-3.0
+3336,Perivascular / muscle,0.6014298,-3.0,-3.0,-3.0
+3346,Perivascular / muscle,0.62962365,0.76306134,0.595135,-3.0
+3355,Perivascular / muscle · Stress-response markers,0.24444413,0.3854023,1.0774055,-0.12486786
+3359,Perivascular / muscle,-0.2560083,-3.0,0.040377013,0.6149378
+3378,Perivascular / muscle · Stress-response markers,-0.0028256476,1.0617912,1.1295308,-0.07740553
+3380,Perivascular / muscle,0.3797995,-3.0,-3.0,-3.0
+3422,Perivascular / muscle · Stress-response markers,-0.028944235,-3.0,0.95619303,0.10719472
+3426,Perivascular / muscle,-0.005353093,0.696664,-3.0,-3.0
+3444,Perivascular / muscle · Stress-response markers,-0.13633019,0.4731411,1.8162653,-0.31071335
+3447,Perivascular / muscle,-0.83589816,-0.059938066,0.08580037,0.581133
+3453,Perivascular / muscle,-0.111970045,0.37137717,0.017763093,0.07560356
+3480,Perivascular / muscle,0.36193773,0.41232473,0.41194713,-0.0445377
+3500,Perivascular / muscle,0.54290736,0.16514733,0.5680231,-3.0
+3508,Perivascular / muscle,-0.19013971,0.0794927,0.17462519,-3.0
+3541,Perivascular / muscle · Stress-response markers,0.04974874,0.27721184,1.4692845,-0.30767828
+3558,Perivascular / muscle,0.2320317,0.0052906154,0.17445357,-0.27011532
+3594,Perivascular / muscle,-0.21779248,2.0717428,0.09097475,-0.025084347
+3605,Perivascular / muscle,0.036366284,1.0787529,-3.0,-3.0
+3610,Perivascular / muscle · Cycling,0.6850631,0.4281971,0.34816104,-0.07697053
+3621,Perivascular / muscle,0.39771044,0.9817492,0.3491575,-3.0
+3632,Perivascular / muscle,-0.06963323,0.3197724,0.08286501,0.048473164
+3648,Perivascular / muscle · Stress-response markers,0.6670683,0.35486442,1.0423585,-3.0
+3649,Perivascular / muscle,0.21392769,0.5775348,0.53500956,-3.0
+3658,Perivascular / muscle,0.07468925,0.22955842,0.07631095,-3.0
+3675,Perivascular / muscle · Stress-response markers,-0.8433536,-3.0,1.4677551,-3.0
+3696,Perivascular / muscle,-0.03559049,0.40524158,0.35336587,0.18069603
+3717,Perivascular / muscle,0.47167206,-3.0,-3.0,-3.0
+3755,Perivascular / muscle · ECM-remodeling markers,0.37159875,-3.0,-3.0,1.1505615
+3769,Perivascular / muscle,-0.72337544,0.7161948,0.41402423,0.70660985
+3773,Perivascular / muscle,-0.25958854,1.300804,1.1492126,-3.0
+3775,Perivascular / muscle · Stress-response markers,-0.27162477,0.17733969,1.0967759,-3.0
+3783,Perivascular / muscle · Stress-response markers,0.84998906,0.8245484,2.7476282,-3.0
+3792,Perivascular / muscle,0.5165979,-3.0,-3.0,-3.0
+3824,Perivascular / muscle,0.42264897,0.2544366,0.39725745,-0.21578836
+3843,Perivascular / muscle · ECM-remodeling markers,0.38534546,-3.0,0.53042626,0.73846394
+3844,Perivascular / muscle,-0.5226717,0.16728574,0.48754764,0.4914457
+3857,Perivascular / muscle · ECM-remodeling markers,0.18785474,1.2535335,-3.0,1.470741
+3860,Perivascular / muscle,0.27914453,0.72801226,0.5032533,-3.0
+3880,Perivascular / muscle,-1.3583426,0.42941195,-3.0,-3.0
+3894,Perivascular / muscle,-0.31936085,-3.0,0.31861627,-3.0
+3905,Perivascular / muscle · Stress-response markers,-1.0278003,0.34921214,0.7777812,-3.0
+3910,Perivascular / muscle · Stress-response markers,0.3750449,-3.0,1.116312,0.11042321
+3921,Perivascular / muscle,0.0063754767,0.509015,0.364313,0.40193778
+3936,Perivascular / muscle,-0.47912902,0.35811257,0.40761727,0.4359643
+3941,Perivascular / muscle · Stress-response markers,-0.40339208,-3.0,0.7368651,0.31773227
+3951,Perivascular / muscle,0.340079,-3.0,-3.0,-3.0
+3962,Perivascular / muscle · ECM-remodeling markers,0.49280024,0.41628474,-3.0,0.8219472
+3993,Perivascular / muscle · ECM-remodeling markers,-0.14420784,-3.0,-3.0,1.2720149
+3997,Perivascular / muscle,-0.60543096,1.3310164,0.14507179,0.5523708
+4002,Perivascular / muscle,0.2832322,0.73885536,-0.0606096,0.3890775
+4003,Perivascular / muscle,0.51940674,0.656093,0.34114262,-3.0
+4008,Perivascular / muscle,0.06230682,-3.0,0.40427765,0.3021117
+4021,Perivascular / muscle · Stress-response markers,0.29508057,0.25261846,0.7511435,-0.1701883
+4053,Perivascular / muscle,0.47086236,-3.0,0.48365706,0.5648141
+4061,Perivascular / muscle,-0.0530474,0.33079398,0.02874285,0.64538234
+4079,Perivascular / muscle · Stress-response markers,0.80401826,-3.0,1.0916038,-3.0
+4086,Perivascular / muscle · Stress-response markers,0.331738,1.1131968,2.0472393,-3.0
+4096,Perivascular / muscle · Stress-response markers,0.720035,-3.0,0.9102276,0.55145013
+4118,Perivascular / muscle,-0.15423638,0.53682804,-3.0,0.3855344
+4151,Perivascular / muscle,0.26088902,0.76132554,0.012414046,-3.0
+4156,Perivascular / muscle,0.3152747,0.65697265,-3.0,-3.0
+4166,Perivascular / muscle · Stress-response markers,-3.0,-3.0,1.9729922,-3.0
+4174,Perivascular / muscle,-0.54220957,-3.0,-0.18085599,-0.07591346
+4178,Perivascular / muscle,-0.55678654,-0.025245275,-0.32898986,0.09433848
+4184,Perivascular / muscle,-0.8303592,0.3591049,-0.21510525,-3.0
+4192,Perivascular / muscle,-0.651999,0.22574072,-0.34786972,0.24362917
+4195,Perivascular / muscle,-0.38989735,0.2691963,0.13497105,0.2841698
+4205,Perivascular / muscle,0.115932174,0.7547745,-3.0,-0.14383031
+4212,Perivascular / muscle,-0.7753487,0.87519205,-0.25801784,-3.0
+4219,Perivascular / muscle,0.11162773,1.4878334,0.9489498,-3.0
+4232,Perivascular / muscle,-0.3348889,1.1923445,0.3160728,-3.0
+4237,Perivascular / muscle · ECM-remodeling markers,-3.0,1.0521708,1.3013959,1.9318806
+4250,Perivascular / muscle · Stress-response markers,-0.32304767,0.66180694,1.5556448,-3.0
+4276,Perivascular / muscle,-0.03369055,0.19133702,0.15025474,0.582237
+4287,Perivascular / muscle,0.20066759,0.32043418,-0.12219377,-3.0
+4289,Perivascular / muscle · Stress-response markers,-0.13012667,0.9400681,1.26441,-0.19137956
+4333,Perivascular / muscle · ECM-remodeling markers,-1.1232936,-3.0,-3.0,1.502046
+4339,Perivascular / muscle,0.14610633,-3.0,-3.0,-3.0
+4340,Perivascular / muscle · ECM-remodeling markers,-0.7576186,0.35328203,0.020092655,0.8842355
+4351,Perivascular / muscle · ECM-remodeling markers,-0.8790574,-3.0,-3.0,1.19953
+4352,Perivascular / muscle · ECM-remodeling markers,0.45620537,0.52686334,0.46551403,0.748632
+4358,Perivascular / muscle,0.3001637,-3.0,0.19633877,0.026039332
+4369,Perivascular / muscle,-0.11180552,1.3920664,1.0978404,0.85369456
+4371,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+4390,Perivascular / muscle,-0.3336056,0.4221918,0.44084358,0.37075394
+4393,Perivascular / muscle · Stress-response markers,-0.4360001,0.028479576,2.009688,-0.069291346
+4407,Perivascular / muscle,-0.32457608,0.20346506,0.11318569,-3.0
+4410,Perivascular / muscle · Cycling,0.71691364,-3.0,-3.0,-3.0
+4416,Perivascular / muscle,-0.19935173,0.6263092,0.41368508,-3.0
+4421,Perivascular / muscle · Cycling,0.6841462,0.64629257,0.2954007,-3.0
+4433,Perivascular / muscle · Stress-response markers,-0.21655388,-3.0,1.305728,-3.0
+4441,Perivascular / muscle · Stress-response markers,-0.20384032,-3.0,1.999772,-3.0
+4451,Perivascular / muscle,-0.45807403,0.5387263,0.56294626,0.4420781
+4469,Perivascular / muscle,-1.258383,-3.0,-3.0,-3.0
+4491,Perivascular / muscle,-1.2553464,0.25667468,-0.35502315,0.17644238
+4496,Perivascular / muscle,0.16332632,-3.0,-0.15545525,-0.022057384
+4511,Perivascular / muscle,0.0899616,-3.0,-3.0,-3.0
+4558,Perivascular / muscle,0.43672293,1.3957834,0.32578874,-3.0
+4562,Perivascular / muscle · ECM-remodeling markers,-0.08734501,-3.0,-3.0,1.4596262
+4566,Perivascular / muscle · Stress-response markers,-0.96332616,0.48468465,1.6079925,0.93994874
+4594,Perivascular / muscle,0.14869404,-3.0,-3.0,-3.0
+4604,Perivascular / muscle,0.4270373,0.53283215,0.33047083,-3.0
+4605,Perivascular / muscle · Stress-response markers,-0.40586346,-3.0,2.937131,-3.0
+4607,Perivascular / muscle,0.07737844,1.8,-3.0,-3.0
+4653,Perivascular / muscle,-0.56448305,-3.0,0.11655627,-3.0
+4656,Perivascular / muscle · ECM-remodeling markers,-0.50921476,-3.0,-3.0,1.0588695
+4667,Perivascular / muscle,0.22167985,1.0924568,0.27412894,-3.0
+4670,Perivascular / muscle,0.37547353,0.79095656,-0.07177137,0.26745307
+4688,Perivascular / muscle · Stress-response markers,0.12906751,0.50171787,0.71981806,0.28939474
+4706,Perivascular / muscle · Stress-response markers,0.019699737,0.057472516,0.8998925,0.22427338
+4709,Perivascular / muscle,-0.0024010986,-3.0,0.3604266,-3.0
+4728,Perivascular / muscle · ECM-remodeling markers,0.15593563,0.3929005,0.05522956,0.8845256
+4738,Perivascular / muscle,0.4310726,-3.0,-3.0,-3.0
+4756,Perivascular / muscle,0.24727014,1.2458265,0.102635466,1.0127256
+4760,Perivascular / muscle · ECM-remodeling markers,0.4281937,-3.0,1.387753,1.6275492
+4766,Perivascular / muscle · ECM-remodeling markers,0.047215253,0.64908206,0.30513325,0.80227464
+4767,Perivascular / muscle · Stress-response markers,-0.11092183,-3.0,2.0831513,-3.0
+4769,Perivascular / muscle,0.35352367,-3.0,0.32232186,-3.0
+4780,Perivascular / muscle,0.5251905,1.0404568,-3.0,1.0028226
+4790,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+4805,Perivascular / muscle,0.10425214,0.7821544,-0.5620732,0.37219355
+4808,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+4829,Perivascular / muscle,-3.0,0.9118492,-3.0,-3.0
+4856,Perivascular / muscle,0.22988996,1.150098,0.99103934,-3.0
+4888,Perivascular / muscle · ECM-remodeling markers,0.39448923,-3.0,0.12850468,0.66115224
+4914,Perivascular / muscle · ECM-remodeling markers,-0.19355842,-3.0,0.3068844,1.1301272
+4929,Perivascular / muscle · ECM-remodeling markers,-3.0,-3.0,-3.0,1.948718
+4938,Perivascular / muscle · ECM-remodeling markers,0.10299343,0.96355724,0.59442115,1.6780297
+4943,Perivascular / muscle,0.38135,1.2396901,0.25585115,-3.0
+4944,Perivascular / muscle · Stress-response markers,0.3862468,0.71129584,0.72508174,-3.0
+4958,Perivascular / muscle,0.59905064,-3.0,-3.0,-3.0
+4985,Perivascular / muscle · ECM-remodeling markers,-0.3659179,-3.0,0.064907625,1.6153017
+4989,Perivascular / muscle,-1.2857332,-3.0,-0.24700294,0.5762352
+5002,Perivascular / muscle · ECM-remodeling markers,-0.2717734,-3.0,-3.0,1.4006165
+5006,Perivascular / muscle · ECM-remodeling markers,-0.32409334,0.685231,-3.0,0.95781076
+5008,Perivascular / muscle · ECM-remodeling markers,0.5850577,0.10199897,-3.0,0.65821284
+5009,Perivascular / muscle · ECM-remodeling markers,0.5018773,-3.0,0.36898708,1.7052443
+5032,Perivascular / muscle,0.16727461,-3.0,-3.0,-3.0
+5062,Perivascular / muscle,0.84325755,1.1131968,-3.0,-3.0
+5066,Perivascular / muscle,-0.45439485,0.9959779,0.8699189,-3.0
+5123,Perivascular / muscle,0.28129953,1.1645569,-3.0,-3.0
+5138,Perivascular / muscle,0.72632563,2.4,-3.0,-3.0
+5163,Perivascular / muscle,0.02366577,0.19990405,-0.042294778,0.56882864
+5164,Perivascular / muscle · ECM-remodeling markers,0.46111485,-3.0,1.0317302,1.6552161
+5173,Perivascular / muscle,-0.3201423,0.9308151,-3.0,0.8888488
+5181,Perivascular / muscle · Cycling,0.74857724,-3.0,-3.0,-3.0
+5182,Perivascular / muscle,0.3514673,1.0424731,-0.16870871,-3.0
+5197,Perivascular / muscle,-0.0045281574,0.9306036,-0.2159541,-3.0
+5215,Perivascular / muscle · Stress-response markers,-0.5564524,-3.0,1.3641726,0.31386507
+5218,Perivascular / muscle,0.14968699,-3.0,-3.0,-3.0
+5228,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+5230,Perivascular / muscle,0.25817642,1.2191867,-3.0,-3.0
+5236,Perivascular / muscle · ECM-remodeling markers,0.22682066,0.37585467,-3.0,0.7278056
+5240,Perivascular / muscle · ECM-remodeling markers,-0.3512146,0.7260811,1.0227802,1.4593885
+5246,Perivascular / muscle,0.5806159,0.70981157,0.0033299178,0.3381714
+5255,Perivascular / muscle,-0.66328716,-3.0,0.1664074,-3.0
+5265,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+5270,Perivascular / muscle,0.29304528,0.66172564,0.2633077,-0.052667543
+5309,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+5319,Perivascular / muscle,0.12862884,-3.0,-3.0,-3.0
+5348,Perivascular / muscle · Cycling,0.75462544,-3.0,-3.0,-3.0
+5359,Perivascular / muscle · ECM-remodeling markers,0.62099314,-3.0,-3.0,1.9694585
+5370,Perivascular / muscle,0.4260562,0.42047492,-0.038100258,0.4024881
+5375,Perivascular / muscle,0.54902154,0.22177663,0.4585653,0.5982654
+5388,Perivascular / muscle · Stress-response markers,-0.6089567,0.11543268,1.1300002,0.3152942
+5401,Perivascular / muscle · Stress-response markers,0.015857033,0.33062157,0.8282408,-3.0
+5411,Perivascular / muscle · ECM-remodeling markers,0.06060978,0.55124253,0.7570394,2.040461
+5420,Perivascular / muscle · Stress-response markers,0.4201684,-3.0,1.7664752,-3.0
+5422,Perivascular / muscle,0.46599394,-3.0,-3.0,-3.0
+5425,Perivascular / muscle,0.487339,-3.0,-3.0,-3.0
+5453,Perivascular / muscle,0.3113695,0.51278496,-3.0,-0.05525294
+5484,Perivascular / muscle · Cycling,0.67538726,-3.0,-3.0,-3.0
+5496,Perivascular / muscle,-0.08470124,1.2054065,0.25610796,0.47542554
+5497,Perivascular / muscle,0.27494723,-3.0,0.23357467,0.46051222
+5499,Perivascular / muscle · ECM-remodeling markers,0.59023786,-3.0,-3.0,1.4232714
+5505,Perivascular / muscle · ECM-remodeling markers,-0.06973086,0.31819716,-3.0,0.6595186
+5509,Perivascular / muscle · ECM-remodeling markers,0.78521466,1.0641301,-3.0,1.5509503
+5512,Perivascular / muscle · Stress-response markers,-3.0,-3.0,2.2982173,-3.0
+5513,Perivascular / muscle,-0.57581645,-3.0,0.05579362,-3.0
+5523,Perivascular / muscle,-0.69837064,-3.0,-3.0,-3.0
+5527,Perivascular / muscle · Stress-response markers,0.3974433,-3.0,1.3117486,-3.0
+5528,Perivascular / muscle · ECM-remodeling markers,0.41179413,-3.0,-3.0,0.7133043
+5538,Perivascular / muscle · Stress-response markers,-0.90466905,0.2484158,0.657649,0.5420069
+5539,Perivascular / muscle · ECM-remodeling markers,-0.22962692,1.713197,1.0636047,1.8417153
+5552,Perivascular / muscle · Stress-response markers,0.56901073,-3.0,1.4068627,-3.0
+5565,Perivascular / muscle · Cycling,0.8276471,0.7024037,0.4152466,0.64609975
+5575,Perivascular / muscle,0.1487607,0.13564996,0.24140641,0.36117303
+5597,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+5606,Perivascular / muscle,-0.20192999,-3.0,0.63774085,0.286557
+5607,Perivascular / muscle · ECM-remodeling markers,-0.20801377,0.36725134,0.36988232,1.7045789
+5611,Perivascular / muscle · Stress-response markers,-0.65100557,0.31438476,1.3082289,-3.0
+5615,Perivascular / muscle · Stress-response markers,-0.2600544,0.4596305,0.823299,-3.0
+5633,Perivascular / muscle · Cycling,0.81563866,-3.0,-3.0,0.11139965
+5671,Perivascular / muscle,0.23411934,-3.0,0.25024801,0.23294175
+5674,Perivascular / muscle,-0.08606295,0.56432533,-3.0,0.61346537
+5711,Perivascular / muscle · ECM-remodeling markers,0.3963854,-3.0,-3.0,1.6273274
+5719,Perivascular / muscle · Cycling,0.6883745,-3.0,-3.0,-3.0
+5727,Perivascular / muscle · Stress-response markers,0.99985975,-3.0,1.8479886,0.9087971
+5730,Perivascular / muscle,0.24479517,-3.0,-3.0,-3.0
+5749,Perivascular / muscle,-0.41340384,-3.0,-3.0,-3.0
+5758,Perivascular / muscle · ECM-remodeling markers,-3.0,-3.0,-3.0,2.2913089
+5770,Perivascular / muscle · Stress-response markers,0.178535,-3.0,1.7471945,-3.0
+5795,Perivascular / muscle,-0.10317782,-3.0,0.022813827,-3.0
+5801,Perivascular / muscle,-0.06413722,-3.0,-3.0,-3.0
+5825,Perivascular / muscle,0.26290983,0.9024836,-3.0,0.20538065
+5834,Perivascular / muscle · ECM-remodeling markers,-0.9125813,-3.0,0.437402,1.2318804
+5841,Perivascular / muscle,0.109639205,-3.0,-3.0,-3.0
+5861,Perivascular / muscle,0.61970234,-3.0,0.26080883,-3.0
+5876,Perivascular / muscle,0.3979056,0.76129,0.11628984,0.50254333
+5893,Perivascular / muscle,0.3633259,-3.0,-3.0,-3.0
+5907,Perivascular / muscle · Stress-response markers,0.80016893,-3.0,0.81048405,-3.0
+5911,Perivascular / muscle,0.54996777,1.0998396,-3.0,-3.0
+5915,Perivascular / muscle,0.27153277,0.65915924,0.42322993,-3.0
+5933,Perivascular / muscle · Cycling,0.6562653,-3.0,-3.0,-3.0
+5951,Perivascular / muscle,0.5890888,-3.0,0.09566667,-3.0
+5966,Perivascular / muscle · Cycling,0.6998038,-3.0,-3.0,-3.0
+6016,Perivascular / muscle · ECM-remodeling markers,0.18202755,-3.0,-3.0,1.0765542
+6029,Perivascular / muscle,-0.15494093,0.8953379,0.46193278,0.45422316
+6034,Perivascular / muscle,0.22827208,1.1843002,-3.0,0.3611661
+6035,Perivascular / muscle · ECM-remodeling markers,0.34882292,0.7524288,-3.0,0.9269146
+6073,Perivascular / muscle · ECM-remodeling markers,-0.513722,-3.0,-3.0,1.747495
+6075,Perivascular / muscle · ECM-remodeling markers,0.4944156,1.0777538,-3.0,1.3868606
+6083,Perivascular / muscle,0.5304861,2.2588792,-3.0,1.622223
+6102,Perivascular / muscle,-0.36714655,-3.0,-3.0,-3.0
+6105,Perivascular / muscle · Cycling,0.78960276,-3.0,-3.0,-3.0
+6113,Perivascular / muscle · Cycling,0.7194729,-3.0,0.22179657,-3.0
+6115,Perivascular / muscle · ECM-remodeling markers,0.57980335,-3.0,-3.0,1.6338087
+6132,Perivascular / muscle,0.62662303,-3.0,-3.0,-3.0
+6133,Perivascular / muscle,0.5889582,-3.0,-3.0,-3.0
+6137,Perivascular / muscle,0.036123484,-3.0,0.20162058,-3.0
+6143,Perivascular / muscle · ECM-remodeling markers,0.567137,-3.0,-3.0,1.1950829
+6148,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+6162,Perivascular / muscle · Stress-response markers,-3.0,-3.0,2.2498424,-3.0
+6170,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+6172,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+6225,Perivascular / muscle,0.013629921,-3.0,-3.0,-3.0
+6227,Perivascular / muscle · Stress-response markers,0.86152124,-3.0,1.6983032,-3.0
+6236,Perivascular / muscle · ECM-remodeling markers,-0.6853178,-3.0,-3.0,1.0578887
+6242,Perivascular / muscle,-0.024454132,-3.0,-3.0,-3.0
+6246,Perivascular / muscle,0.028497145,-3.0,-3.0,-3.0
+6266,Perivascular / muscle · ECM-remodeling markers,0.115601465,-3.0,-3.0,1.8141947
+6277,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+6281,Perivascular / muscle · ECM-remodeling markers,0.7772075,-3.0,-3.0,1.2883437
+6282,Perivascular / muscle · ECM-remodeling markers,-0.41234607,-3.0,0.02809126,1.0789229
+6289,Perivascular / muscle · ECM-remodeling markers,-0.9863527,1.2462194,-3.0,1.3451182
+6300,Perivascular / muscle,-3.0,-3.0,-3.0,-3.0
+6315,Perivascular / muscle · ECM-remodeling markers,-3.0,-3.0,-3.0,1.7393423
+6358,Perivascular / muscle,-3.0,1.6022218,-3.0,-3.0
+6369,Perivascular / muscle,-3.0,3.0,-3.0,-3.0

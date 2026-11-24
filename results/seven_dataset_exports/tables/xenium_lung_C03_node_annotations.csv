@@ -1,0 +1,1362 @@
+node_id,label,score_Cycling,score_Cytotoxic markers
+3,Epithelial / tumor,-0.20004575,0.19094916
+4,Epithelial / tumor,-0.37173274,0.17008159
+5,Epithelial / tumor,-0.070012376,-3.0
+6,Epithelial / tumor,0.24705572,0.48308095
+10,Epithelial / tumor,-0.16308163,0.0836823
+11,Epithelial / tumor,-0.2798387,0.12429335
+12,Epithelial / tumor,-0.059842393,0.3595566
+16,Epithelial / tumor · Cycling,0.74028045,-3.0
+18,Epithelial / tumor,0.032262806,0.034966238
+21,Epithelial / tumor,0.015820678,0.17007083
+22,Epithelial / tumor,-0.00045063347,0.090383545
+23,Epithelial / tumor,0.15316018,0.28224087
+25,Epithelial / tumor,-0.13689157,0.19981505
+26,Epithelial / tumor,-0.25575992,0.2670501
+27,Epithelial / tumor,0.11619732,0.15074517
+28,Epithelial / tumor,0.3420334,0.080971606
+29,Epithelial / tumor,-0.25782245,-3.0
+30,Epithelial / tumor,-0.34734225,0.44868103
+31,Epithelial / tumor,-0.2158286,0.19076033
+32,Epithelial / tumor,-0.21201268,0.20966208
+33,Epithelial / tumor,-0.007119268,0.35904086
+34,Epithelial / tumor,-0.38713706,0.019975252
+35,Epithelial / tumor,-0.08096977,0.3294985
+37,Epithelial / tumor,-0.21224064,0.53465396
+38,Epithelial / tumor,-0.10373314,0.18469954
+40,Epithelial / tumor,0.30640966,0.13767853
+41,Epithelial / tumor,-0.21742572,0.06410604
+42,Epithelial / tumor,0.29673868,0.5119453
+43,Epithelial / tumor,-0.28321803,0.15428844
+45,Epithelial / tumor,-0.22238395,0.1672254
+46,Epithelial / tumor · Cycling,0.7315263,0.4776877
+47,Epithelial / tumor,0.15655756,0.51888007
+48,Epithelial / tumor,-0.15292883,0.1775726
+51,Epithelial / tumor,0.024795063,0.7861899
+52,Epithelial / tumor,-0.1825383,0.2854107
+53,Epithelial / tumor,-0.08540477,0.56321895
+56,Epithelial / tumor,-0.15651116,0.39667487
+58,Epithelial / tumor,-0.35716015,0.36950037
+60,Epithelial / tumor,0.773602,0.9178128
+61,Epithelial / tumor,-0.12622459,0.1434733
+62,Epithelial / tumor,-0.24099207,0.20770964
+63,Epithelial / tumor,0.2893649,0.36686203
+65,Epithelial / tumor,-0.44891948,0.12661693
+67,Epithelial / tumor,0.14688861,0.19306889
+68,Epithelial / tumor · Cycling,1.2039566,0.03330397
+69,Epithelial / tumor,-0.45746225,0.15208405
+72,Epithelial / tumor,-0.14067468,0.31668556
+73,Epithelial / tumor,0.049363837,0.5307721
+83,Epithelial / tumor,-0.05574339,0.52007776
+84,Epithelial / tumor,-0.19513997,0.12474905
+86,Epithelial / tumor,-0.18291831,0.056120336
+88,Epithelial / tumor,0.22396547,0.25852364
+93,Epithelial / tumor,0.13976298,0.53152055
+94,Epithelial / tumor,0.523502,-3.0
+97,Epithelial / tumor,-0.021763198,0.3187322
+98,Epithelial / tumor,-0.026951745,0.40627152
+100,Epithelial / tumor,0.19355398,0.8230864
+102,Epithelial / tumor,-0.05263863,0.17069343
+103,Epithelial / tumor,0.17239173,-3.0
+105,Epithelial / tumor,0.2894764,0.30206054
+111,Epithelial / tumor,0.05056259,0.40852886
+112,Epithelial / tumor · Cycling,1.4845123,0.07386226
+113,Epithelial / tumor,0.112164274,0.3540709
+114,Epithelial / tumor,0.17073867,0.46826392
+117,Epithelial / tumor,-0.3000649,0.2293696
+121,Epithelial / tumor,-0.18465385,0.20851597
+122,Epithelial / tumor · Cycling,2.5849977,0.24573429
+123,Epithelial / tumor,-0.23371583,0.5263413
+124,Epithelial / tumor,-0.13806355,0.4305768
+127,Epithelial / tumor,0.06717689,0.32398322
+129,Epithelial / tumor,-0.19007716,0.26957428
+131,Epithelial / tumor,-0.3475062,0.03548438
+135,Epithelial / tumor,-0.0012361631,0.4351874
+136,Epithelial / tumor,-0.101996064,0.23851356
+137,Epithelial / tumor,-0.08696898,0.3301865
+142,Epithelial / tumor,-0.34231326,0.14350297
+143,Epithelial / tumor,-0.29623172,0.21305208
+145,Epithelial / tumor,-0.23409808,0.1749977
+146,Epithelial / tumor,-0.19913492,0.21649364
+147,Epithelial / tumor,-0.19216213,0.07912469
+148,Epithelial / tumor,-0.0834724,0.15966561
+157,Epithelial / tumor,-0.27764696,0.26072484
+158,Epithelial / tumor,-0.04450741,0.5249731
+161,Epithelial / tumor,-0.26381415,0.12199197
+163,Epithelial / tumor,-0.21550475,0.101998106
+164,Epithelial / tumor,0.02636303,0.14867851
+165,Epithelial / tumor · Cycling,0.99894166,0.11936338
+166,Epithelial / tumor,-0.12346077,0.2639223
+177,Epithelial / tumor,-0.033860557,0.14481352
+178,Epithelial / tumor,-0.15209614,0.35135618
+182,Epithelial / tumor · Cycling,0.75891674,0.3095271
+191,Epithelial / tumor · Cycling,0.81792283,0.17709424
+194,Epithelial / tumor,-0.13102736,0.09137723
+195,Epithelial / tumor,-0.44903946,0.15922308
+196,Epithelial / tumor,0.09556441,0.36666897
+197,Epithelial / tumor,-0.40038204,0.06062392
+198,Epithelial / tumor,0.2374565,0.32933548
+199,Epithelial / tumor,-0.012969568,-0.0064841
+200,Epithelial / tumor,-0.34562552,0.15360627
+201,Epithelial / tumor,-0.37716648,0.09226544
+202,Epithelial / tumor · Cycling,0.8140342,-3.0
+204,Epithelial / tumor,-0.07452512,0.26667026
+205,Epithelial / tumor,-0.13399485,-3.0
+213,Epithelial / tumor,-0.11037937,0.541928
+215,Epithelial / tumor,-0.22899249,0.1736815
+216,Epithelial / tumor,-0.25179103,0.12305607
+224,Epithelial / tumor,-0.07671049,0.381672
+225,Epithelial / tumor,-0.4024286,0.28019103
+227,Epithelial / tumor,-0.1750553,-3.0
+229,Epithelial / tumor,0.08989535,0.3155384
+232,Epithelial / tumor · Cycling,0.69206214,0.26348257
+234,Epithelial / tumor,-0.41273278,0.35407862
+236,Epithelial / tumor,-0.2465109,0.1978481
+237,Epithelial / tumor,-0.30515465,0.1289374
+239,Epithelial / tumor,-0.12145784,1.4688934
+240,Epithelial / tumor,-0.1272167,0.11948792
+241,Epithelial / tumor,-0.17309049,0.19393893
+242,Epithelial / tumor,0.03873299,0.23688576
+247,Epithelial / tumor,-0.19945693,-3.0
+252,Epithelial / tumor,0.053871065,0.088445626
+255,Epithelial / tumor · Cycling,1.4637599,0.25890082
+256,Epithelial / tumor,-0.016226366,0.1328537
+259,Epithelial / tumor,-0.345364,0.037597228
+261,Epithelial / tumor,-0.024633506,0.5317117
+262,Epithelial / tumor,-0.0111391395,0.19482902
+263,Epithelial / tumor,0.45413238,-3.0
+265,Epithelial / tumor,-0.3369577,0.178279
+266,Epithelial / tumor,0.24790037,-3.0
+277,Epithelial / tumor,-0.08083244,0.16929774
+279,Epithelial / tumor,0.07697557,0.250783
+281,Epithelial / tumor,-0.21462291,0.33010527
+283,Epithelial / tumor,0.20631851,0.2680479
+286,Epithelial / tumor,0.009396732,0.23686445
+291,Epithelial / tumor · Cycling,1.4007392,0.07369157
+293,Epithelial / tumor,0.10448411,0.06787272
+295,Epithelial / tumor,-0.13526681,0.44713134
+296,Epithelial / tumor,-0.1308465,0.4735209
+298,Epithelial / tumor,-0.05447751,0.021736775
+306,Epithelial / tumor,-0.0042400993,0.31639698
+307,Epithelial / tumor,0.290668,-3.0
+310,Epithelial / tumor,0.09770411,0.3203272
+313,Epithelial / tumor,-0.0064845905,0.2866512
+315,Epithelial / tumor,-0.056639142,0.403917
+316,Epithelial / tumor,0.1039014,0.3833173
+319,Epithelial / tumor,0.13273913,0.24005309
+321,Epithelial / tumor,-0.3703647,0.45057186
+323,Epithelial / tumor,-0.05134637,0.13141145
+329,Epithelial / tumor,-0.13464858,0.4317347
+330,Epithelial / tumor,0.25592977,0.1538294
+331,Epithelial / tumor,-0.22419113,0.42144173
+335,Epithelial / tumor,0.6278268,0.10661383
+337,Epithelial / tumor,-0.13836633,0.3421819
+338,Epithelial / tumor,-0.29265773,0.23974793
+341,Epithelial / tumor,0.0883782,0.02116313
+342,Epithelial / tumor,-0.36834908,0.13900611
+343,Epithelial / tumor,-0.09252633,0.13816598
+344,Epithelial / tumor,-0.11720893,0.36623877
+345,Epithelial / tumor,0.058406323,0.4590733
+346,Epithelial / tumor,-0.047839813,0.71557504
+349,Epithelial / tumor,-0.17826323,0.32282978
+350,Epithelial / tumor,-0.2604444,0.11188165
+351,Epithelial / tumor,-0.19371144,0.044305723
+353,Epithelial / tumor,-0.30146712,0.10181767
+358,Epithelial / tumor,-0.2519056,0.22375074
+359,Epithelial / tumor,-0.19368964,0.059341013
+361,Epithelial / tumor,-0.21117494,0.11470495
+363,Epithelial / tumor,-0.31977808,0.03038634
+365,Epithelial / tumor,0.094413266,0.48955607
+366,Epithelial / tumor,-0.32933038,-3.0
+367,Epithelial / tumor · Cycling,2.2185576,0.31249446
+369,Epithelial / tumor,-0.050599113,0.115132
+370,Epithelial / tumor,0.09320008,0.22863407
+375,Epithelial / tumor,-0.1840823,0.2178903
+378,Epithelial / tumor,-0.15782635,-0.022362968
+379,Epithelial / tumor,-0.09018098,0.3772584
+380,Epithelial / tumor,-0.18080102,0.25677982
+381,Epithelial / tumor,-0.35590792,0.08921152
+383,Epithelial / tumor,-0.28539142,0.30593413
+384,Epithelial / tumor,-0.10598137,0.40423474
+385,Epithelial / tumor,0.30485752,0.19164306
+387,Epithelial / tumor,-0.41816458,-3.0
+388,Epithelial / tumor,-0.083217315,0.78107244
+389,Epithelial / tumor,0.21097055,0.31392854
+390,Epithelial / tumor,-0.07782389,-3.0
+391,Epithelial / tumor,-0.2597275,0.16708234
+392,Epithelial / tumor,-0.041376926,0.23749809
+401,Epithelial / tumor · Cycling,1.5670387,-3.0
+402,Epithelial / tumor,-0.13426918,0.31826884
+403,Epithelial / tumor,-0.17089844,-0.019443706
+404,Epithelial / tumor,-0.30104598,0.12721333
+407,Epithelial / tumor,0.43312627,0.12983999
+410,Epithelial / tumor,-0.09391841,0.13037765
+411,Epithelial / tumor,0.8213966,1.3385261
+412,Epithelial / tumor,-0.08305642,0.11874223
+416,Epithelial / tumor,-0.30598783,0.6141356
+419,Epithelial / tumor,-0.1259908,0.75165725
+421,Epithelial / tumor,0.27331224,-3.0
+422,Epithelial / tumor,0.44290042,0.26866746
+427,Epithelial / tumor,-0.3548749,0.13258931
+428,Epithelial / tumor,-0.32440656,0.09458639
+429,Epithelial / tumor,-0.08078407,0.040276833
+431,Epithelial / tumor · Cycling,0.7283485,0.20765361
+433,Epithelial / tumor,-0.20534253,0.14016172
+440,Epithelial / tumor · Cycling,2.2247643,0.1507476
+441,Epithelial / tumor,-0.09931983,1.4755088
+442,Epithelial / tumor,-0.018801644,0.49365154
+446,Epithelial / tumor,-0.09699329,0.46662658
+447,Epithelial / tumor,-0.00097436644,0.3279721
+448,Epithelial / tumor,-0.108133376,0.30445474
+449,Epithelial / tumor,-0.03933618,0.2907287
+450,Epithelial / tumor,-0.15820491,0.33374748
+451,Epithelial / tumor,0.110424966,0.32961076
+456,Epithelial / tumor,-0.017018165,0.9224197
+457,Epithelial / tumor,-0.26409933,0.25639492
+458,Epithelial / tumor,0.119110085,0.32850456
+461,Epithelial / tumor,-0.31562728,0.26606396
+462,Epithelial / tumor,-0.019261435,0.2782196
+468,Epithelial / tumor · Cycling,0.81219304,0.108622864
+470,Epithelial / tumor,-3.0,-3.0
+472,Epithelial / tumor,-0.2695309,0.25501826
+474,Epithelial / tumor,-0.26857963,-3.0
+475,Epithelial / tumor,-0.003924422,0.5702415
+476,Epithelial / tumor,-0.34708053,0.348134
+477,Epithelial / tumor,-0.12384615,-3.0
+478,Epithelial / tumor,0.07361847,0.2226818
+479,Epithelial / tumor,-0.24531737,0.21328938
+482,Epithelial / tumor,0.07872723,0.37030903
+483,Epithelial / tumor,-0.2690764,0.1619673
+488,Epithelial / tumor,-0.2700824,0.10238409
+489,Epithelial / tumor,-0.10469225,0.29549295
+493,Epithelial / tumor,0.39192608,0.9652375
+495,Epithelial / tumor,0.36517155,0.65940136
+496,Epithelial / tumor,0.049915265,0.6258544
+497,Epithelial / tumor,0.12918627,0.0660761
+498,Epithelial / tumor,-0.09781198,0.35869676
+501,Epithelial / tumor,-0.1208179,0.65526736
+504,Epithelial / tumor,0.17797896,0.3057434
+505,Epithelial / tumor,-0.27596965,-3.0
+506,Epithelial / tumor,-0.22677788,0.27894086
+508,Epithelial / tumor,-0.26035106,0.42860207
+510,Epithelial / tumor,-0.14454162,-0.0014403999
+512,Epithelial / tumor,-0.010845905,0.054933388
+514,Epithelial / tumor,0.03826906,0.21928763
+515,Epithelial / tumor,-0.11114655,0.51025486
+516,Epithelial / tumor · Cycling,0.69652563,-3.0
+517,Epithelial / tumor,0.0017545521,0.19642875
+518,Epithelial / tumor,-0.22020426,0.24679586
+519,Epithelial / tumor,0.13511372,0.55678695
+521,Epithelial / tumor,0.0028960644,0.0896646
+522,Epithelial / tumor,0.13526121,0.2524801
+523,Epithelial / tumor,-0.20420197,0.14411217
+524,Epithelial / tumor,0.41245145,0.21295342
+527,Epithelial / tumor,0.03412284,-3.0
+528,Epithelial / tumor,-0.028349087,0.5302881
+529,Epithelial / tumor,0.13962328,0.76920956
+533,Epithelial / tumor,-0.095571995,-3.0
+536,Epithelial / tumor,0.21160722,0.5646846
+537,Epithelial / tumor · Cycling,1.7411635,0.9351922
+539,Epithelial / tumor,-3.0,-3.0
+540,Epithelial / tumor,-0.04309138,0.22085528
+541,Epithelial / tumor,-0.1937672,0.20838232
+542,Epithelial / tumor,0.049406365,0.15041931
+545,Epithelial / tumor,-0.17575017,0.08072661
+546,Epithelial / tumor,-0.4366796,0.0755467
+547,Epithelial / tumor,-0.1963585,1.131285
+549,Epithelial / tumor,-0.22797835,0.40753284
+550,Epithelial / tumor,0.03737659,0.33828002
+551,Epithelial / tumor,-0.47669634,0.26675773
+552,Epithelial / tumor,0.048312135,0.3043907
+553,Epithelial / tumor,-0.13765505,0.25263855
+554,Epithelial / tumor,-0.11599889,0.94975376
+555,Epithelial / tumor,0.20881617,0.75664634
+556,Epithelial / tumor,-0.18513796,-3.0
+557,Epithelial / tumor,-0.0069663376,0.26106858
+559,Epithelial / tumor,0.18980643,0.3901067
+560,Epithelial / tumor · Cycling,2.3626986,0.5179813
+561,Epithelial / tumor,0.38687626,-3.0
+568,Epithelial / tumor,-0.0031321885,0.39489856
+569,Epithelial / tumor,0.3101389,0.17442036
+572,Epithelial / tumor,0.11785137,-3.0
+575,Epithelial / tumor,-0.13143834,0.34328362
+578,Epithelial / tumor,-0.25388354,0.19274653
+580,Epithelial / tumor,0.07292143,-3.0
+582,Epithelial / tumor,0.6210671,0.40490493
+584,Epithelial / tumor,-0.076566,0.30316952
+587,Epithelial / tumor,-0.027476924,0.09111408
+589,Epithelial / tumor,-0.32799554,0.04313
+592,Epithelial / tumor,-0.24835327,0.025207248
+593,Epithelial / tumor,-0.4352739,0.082723334
+594,Epithelial / tumor · Cycling,1.5577073,-3.0
+595,Epithelial / tumor,-0.12789614,0.19876717
+600,Epithelial / tumor,0.12629725,0.52005595
+602,Epithelial / tumor,-3.0,-3.0
+603,Epithelial / tumor,0.51839525,-3.0
+605,Epithelial / tumor,0.105962664,-3.0
+607,Epithelial / tumor,-0.2176354,-3.0
+610,Epithelial / tumor · Cycling,2.728289,-3.0
+611,Epithelial / tumor,-0.30768532,-3.0
+615,Epithelial / tumor,0.13181005,0.24641502
+623,Epithelial / tumor,-0.021152735,-3.0
+625,Epithelial / tumor,-0.13583748,0.14575787
+631,Epithelial / tumor,0.16201398,0.10501977
+633,Epithelial / tumor,-0.14047182,0.39037198
+634,Epithelial / tumor,-0.07532526,0.40437078
+637,Epithelial / tumor,-0.0014717281,0.48230997
+638,Epithelial / tumor · Cycling,0.68124497,-3.0
+640,Epithelial / tumor,-0.07302366,0.45044622
+642,Epithelial / tumor,0.032237478,0.32733718
+644,Epithelial / tumor,0.18659227,0.28052405
+645,Epithelial / tumor,0.25511384,0.430021
+646,Epithelial / tumor,-0.23528731,0.47121271
+647,Epithelial / tumor,-0.3172356,0.1373256
+648,Epithelial / tumor,-0.13877285,0.28528327
+649,Epithelial / tumor,-0.31828162,0.92165077
+651,Epithelial / tumor · Cycling,1.3024228,0.55892545
+652,Epithelial / tumor,0.12855677,0.41761026
+654,Epithelial / tumor,0.47371393,0.15128097
+655,Epithelial / tumor,-0.17227347,0.1754874
+661,Epithelial / tumor,-0.068888046,-3.0
+667,Epithelial / tumor,-0.24543993,0.21927956
+668,Epithelial / tumor,-0.11860767,0.047647696
+670,Epithelial / tumor,-0.20063907,0.5498917
+673,Epithelial / tumor,0.055750314,0.67453706
+678,Epithelial / tumor,0.06926781,0.52428687
+680,Epithelial / tumor,-0.2897279,0.059568666
+682,Epithelial / tumor,0.0701938,0.35807332
+683,Epithelial / tumor,-0.16795239,0.21029715
+687,Epithelial / tumor,0.028593719,0.17268808
+688,Epithelial / tumor,-0.10649639,0.4959585
+690,Epithelial / tumor,0.1438903,0.35788763
+692,Epithelial / tumor,0.22040603,0.8494099
+693,Epithelial / tumor,0.078051925,0.47441489
+698,Epithelial / tumor,0.17302932,0.2948671
+700,Epithelial / tumor · Cycling,2.1622677,0.7362138
+704,Epithelial / tumor,-3.0,-3.0
+705,Epithelial / tumor,0.018748181,0.39425328
+711,Epithelial / tumor,-0.0039748624,0.17035365
+715,Epithelial / tumor,0.035387397,0.084065676
+717,Epithelial / tumor,0.14362198,0.17802688
+718,Epithelial / tumor,0.3564031,0.36589724
+719,Epithelial / tumor,-3.0,0.7587972
+732,Epithelial / tumor,-0.12970878,0.62495637
+733,Epithelial / tumor,-0.105441324,0.24571165
+736,Epithelial / tumor,-0.11091383,0.023193132
+737,Epithelial / tumor,-0.24346876,0.10597195
+739,Epithelial / tumor,-0.025067056,0.3518219
+740,Epithelial / tumor,0.07854826,-3.0
+742,Epithelial / tumor,0.20648465,0.16364735
+748,Epithelial / tumor,-0.15340802,0.33009607
+749,Epithelial / tumor,-0.130523,0.1882035
+752,Epithelial / tumor,-0.07142182,0.15038958
+758,Epithelial / tumor,-0.26128387,0.55438626
+759,Epithelial / tumor,-0.15604575,0.17803177
+771,Epithelial / tumor,0.32556793,0.5815917
+774,Epithelial / tumor,-0.19812056,0.36803
+779,Epithelial / tumor,0.24885818,-3.0
+780,Epithelial / tumor,0.0026446804,-3.0
+781,Epithelial / tumor,-0.22882487,0.29146916
+782,Epithelial / tumor,-0.2501244,-3.0
+783,Epithelial / tumor,0.48514178,-3.0
+786,Epithelial / tumor,-0.19482417,0.14441285
+789,Epithelial / tumor,-0.24041224,0.29988378
+790,Epithelial / tumor,0.30431125,-3.0
+793,Epithelial / tumor,0.12191169,0.21994665
+795,Epithelial / tumor,-0.0002297163,0.5429535
+797,Epithelial / tumor · Cycling,0.79984,0.69186634
+801,Epithelial / tumor,-0.04355926,0.21501775
+802,Epithelial / tumor,-0.13344157,0.78017503
+805,Epithelial / tumor,-0.1607193,-3.0
+810,Epithelial / tumor,-0.18450922,0.51151526
+816,Epithelial / tumor,0.115905195,0.38330984
+818,Epithelial / tumor,-0.002368901,0.17653248
+819,Epithelial / tumor,0.605698,0.32670778
+821,Epithelial / tumor,0.6279559,-3.0
+822,Epithelial / tumor,0.17117444,-3.0
+834,Epithelial / tumor,-0.028778918,0.39372194
+840,Epithelial / tumor,0.05010158,0.024682071
+845,Epithelial / tumor,0.14006859,0.17446361
+851,Epithelial / tumor,-3.0,-3.0
+852,Epithelial / tumor,0.20871693,0.85119903
+854,Epithelial / tumor · Cycling,2.5231757,0.68574536
+855,Epithelial / tumor,-0.20439523,0.27473196
+864,Epithelial / tumor,-0.27188155,0.48406902
+865,Epithelial / tumor,-0.27073377,0.25636443
+866,Epithelial / tumor,0.101055354,0.18249586
+867,Epithelial / tumor,-0.5273337,0.1395596
+872,Epithelial / tumor,-0.11852962,0.21975188
+874,Epithelial / tumor,-0.31556368,0.19871196
+878,Epithelial / tumor,-0.20302618,0.16082415
+879,Epithelial / tumor,-0.035917,0.17203689
+880,Epithelial / tumor,-3.0,1.1071838
+881,Epithelial / tumor,-0.15519911,0.2503362
+884,Epithelial / tumor,-0.2724613,0.37285537
+885,Epithelial / tumor,0.3607385,0.54468614
+890,Epithelial / tumor,-0.16900948,0.4962984
+894,Epithelial / tumor,0.23365028,0.94495326
+895,Epithelial / tumor · Cycling,2.7289608,0.8290008
+899,Epithelial / tumor,0.08229062,0.252639
+900,Epithelial / tumor,-0.12947647,0.11897738
+901,Epithelial / tumor,-0.19320185,-3.0
+902,Epithelial / tumor,-0.11040016,0.19296725
+903,Epithelial / tumor,-0.08709439,0.067039534
+905,Epithelial / tumor,-0.086218,0.2018189
+911,Epithelial / tumor,0.31652927,0.50261605
+912,Epithelial / tumor,-0.1268599,0.4232617
+916,Epithelial / tumor,0.044561617,0.24549596
+917,Epithelial / tumor · Cycling,2.7771034,-3.0
+918,Epithelial / tumor,-0.13937087,0.16601771
+920,Epithelial / tumor,-0.09425913,0.48753944
+921,Epithelial / tumor,-0.1362881,0.09707713
+922,Epithelial / tumor,0.07681055,-3.0
+925,Epithelial / tumor · Cycling,0.65782404,-3.0
+926,Epithelial / tumor,0.06350202,0.6971182
+928,Epithelial / tumor,0.43115324,0.25130945
+930,Epithelial / tumor · Cycling,0.89834434,0.20099552
+932,Epithelial / tumor,0.6278186,-3.0
+933,Epithelial / tumor,0.01834555,-3.0
+935,Epithelial / tumor,-0.22927204,0.10320499
+936,Epithelial / tumor,0.11693783,-3.0
+937,Epithelial / tumor,0.36654598,0.2940299
+939,Epithelial / tumor,-0.13055634,0.7249833
+940,Epithelial / tumor,-0.034822293,0.38758984
+941,Epithelial / tumor,-0.21592316,0.2049954
+946,Epithelial / tumor,-0.20539168,0.2786885
+949,Epithelial / tumor,0.039735023,0.97591144
+954,Epithelial / tumor,-0.06397112,0.21742888
+955,Epithelial / tumor,-0.0131418295,1.2228405
+959,Epithelial / tumor,0.28639057,1.9334753
+960,Epithelial / tumor,-0.3523489,0.3102675
+972,Epithelial / tumor,0.35098755,1.0715052
+974,Epithelial / tumor,-0.00086755026,0.2702459
+975,Epithelial / tumor,0.1329606,0.3782832
+976,Epithelial / tumor,0.076831475,0.45981663
+979,Epithelial / tumor,-0.08424736,0.41938663
+987,Epithelial / tumor,0.3705515,0.5443016
+989,Epithelial / tumor,0.14694971,0.46366984
+990,Epithelial / tumor,0.13194208,0.703592
+992,Epithelial / tumor,-0.075996295,0.35930207
+993,Epithelial / tumor,-0.043550704,0.19054627
+999,Epithelial / tumor,-3.0,-3.0
+1001,Epithelial / tumor,0.24639167,-3.0
+1006,Epithelial / tumor,-0.10639938,0.46725732
+1009,Epithelial / tumor,-0.18800879,0.24126711
+1013,Epithelial / tumor,-0.021074884,-3.0
+1015,Epithelial / tumor,0.18007743,1.1045892
+1016,Epithelial / tumor,-0.19932309,0.95729315
+1017,Epithelial / tumor,-3.0,-3.0
+1019,Epithelial / tumor,0.09067045,-3.0
+1022,Epithelial / tumor,-0.060912445,0.11487577
+1023,Epithelial / tumor,-0.3222853,0.12977579
+1024,Epithelial / tumor,0.1467945,-3.0
+1025,Epithelial / tumor,-0.012721382,0.7558623
+1032,Epithelial / tumor,-0.182533,0.31497183
+1033,Epithelial / tumor · Cycling,0.8779197,0.29280177
+1040,Epithelial / tumor,-0.020584442,0.42080253
+1042,Epithelial / tumor · Cycling,0.9921665,0.25823262
+1043,Epithelial / tumor,0.16773376,0.98724616
+1044,Epithelial / tumor,0.0985284,-3.0
+1047,Epithelial / tumor,0.09347467,0.17164585
+1049,Epithelial / tumor,-0.13092615,0.25719208
+1051,Epithelial / tumor,-0.055250287,0.43102592
+1054,Epithelial / tumor,0.100363284,0.38738364
+1056,Epithelial / tumor,0.21251151,-3.0
+1057,Epithelial / tumor,0.19448179,0.47681293
+1059,Epithelial / tumor,0.20140971,-3.0
+1060,Epithelial / tumor,0.36054632,-3.0
+1061,Epithelial / tumor,-0.11568625,0.25355047
+1062,Epithelial / tumor,-0.15025389,-3.0
+1063,Epithelial / tumor,-3.0,-3.0
+1064,Epithelial / tumor,0.22618796,1.1186373
+1067,Epithelial / tumor,0.3482423,1.131285
+1069,Epithelial / tumor,-0.0009898469,0.67426497
+1071,Epithelial / tumor,0.16012716,0.55140114
+1072,Epithelial / tumor,-3.0,-3.0
+1078,Epithelial / tumor,-3.0,1.131285
+1081,Epithelial / tumor,0.056894496,0.18297604
+1082,Epithelial / tumor · Cycling,2.4985647,-3.0
+1083,Epithelial / tumor,-0.15106872,-3.0
+1084,Epithelial / tumor,-0.04230595,-3.0
+1086,Epithelial / tumor,-0.3025487,0.2573103
+1087,Epithelial / tumor,-0.15176046,-3.0
+1088,Epithelial / tumor,0.52032244,0.65757155
+1091,Epithelial / tumor,0.102400884,0.4059093
+1092,Epithelial / tumor,0.15016955,-3.0
+1093,Epithelial / tumor,-0.18411015,0.27677944
+1094,Epithelial / tumor,-0.035215124,-3.0
+1095,Epithelial / tumor,-0.14868021,-3.0
+1097,Epithelial / tumor,0.07903929,0.33584142
+1098,Epithelial / tumor,-0.09878808,0.22696829
+1099,Epithelial / tumor,-0.033319324,-3.0
+1101,Epithelial / tumor,0.11574958,-3.0
+1102,Epithelial / tumor,0.265665,-3.0
+1103,Epithelial / tumor,-0.21054417,-3.0
+1104,Epithelial / tumor,-0.1537809,-3.0
+1105,Epithelial / tumor,-0.3128422,-3.0
+1109,Epithelial / tumor,-0.4578826,0.04889303
+1110,Epithelial / tumor,-0.2345869,-3.0
+1111,Epithelial / tumor,-3.0,-3.0
+1112,Epithelial / tumor,-0.033944733,0.65110195
+1113,Epithelial / tumor,-0.254924,0.3270683
+1114,Epithelial / tumor,0.53793156,-3.0
+1115,Epithelial / tumor,-0.17945305,-3.0
+1116,Epithelial / tumor,0.024691388,-3.0
+1130,Epithelial / tumor,-0.16135927,-3.0
+1133,Epithelial / tumor,-0.31153116,-3.0
+1135,Epithelial / tumor · Cycling,0.93421763,-3.0
+1138,Epithelial / tumor,-3.0,-3.0
+1139,Epithelial / tumor,-3.0,0.71661705
+1141,Epithelial / tumor,-0.08436941,-3.0
+1142,Epithelial / tumor,-0.1843582,0.37864536
+1144,Epithelial / tumor,-0.22832942,-3.0
+1147,Epithelial / tumor,0.27105215,-3.0
+1149,Epithelial / tumor,-0.07962358,0.5189959
+1150,Epithelial / tumor,0.27307555,0.738576
+1152,Epithelial / tumor,-3.0,0.64938086
+1157,Epithelial / tumor · Cycling,0.9194455,-3.0
+1158,Epithelial / tumor,-0.036554657,0.2880873
+1162,Epithelial / tumor,-3.0,-3.0
+1163,Epithelial / tumor,0.102410905,-3.0
+1164,Epithelial / tumor,-0.24557109,-3.0
+1168,Epithelial / tumor,-0.10154999,0.4947607
+1169,Epithelial / tumor,0.64677817,-3.0
+1171,Epithelial / tumor,0.23645885,-3.0
+1173,Epithelial / tumor,0.07752333,-3.0
+1174,Epithelial / tumor,0.070568934,0.36353666
+1175,Epithelial / tumor,-0.13665089,0.24212655
+1186,Epithelial / tumor · Cycling,1.107819,0.48077458
+1190,Epithelial / tumor,-0.06615229,0.26287
+1191,Epithelial / tumor,-3.0,0.48026094
+1195,Epithelial / tumor,-3.0,1.1453743
+1200,Epithelial / tumor,-0.25454667,-3.0
+1201,Epithelial / tumor,0.34428716,0.32960588
+1205,Epithelial / tumor,0.14629124,0.18109885
+1206,Epithelial / tumor,0.4487976,-3.0
+1209,Epithelial / tumor,-0.18970856,-3.0
+1213,Epithelial / tumor,-3.0,-3.0
+1214,Epithelial / tumor,-0.051330682,0.61193496
+1216,Epithelial / tumor,0.06761337,0.14371267
+1218,Epithelial / tumor,-0.07370336,0.32504293
+1219,Epithelial / tumor · Cycling,0.6759333,-3.0
+1220,Epithelial / tumor,0.07681468,0.012228653
+1222,Epithelial / tumor,0.22015949,1.0386673
+1223,Epithelial / tumor,0.032543,1.1010185
+1224,Epithelial / tumor,-3.0,-3.0
+1227,Epithelial / tumor,0.096116714,0.33018655
+1228,Epithelial / tumor,0.26745498,-3.0
+1229,Epithelial / tumor,-0.023614563,0.19292185
+1230,Epithelial / tumor,-0.08736672,0.6670028
+1232,Epithelial / tumor,0.07954417,-3.0
+1233,Epithelial / tumor,0.1728289,-3.0
+1234,Epithelial / tumor,0.26791367,0.8530733
+1235,Epithelial / tumor,-0.27977628,0.17972784
+1236,Epithelial / tumor,-0.101597324,0.58811444
+1243,Epithelial / tumor,-0.088861,0.22148585
+1247,Epithelial / tumor,-0.08673675,0.550883
+1249,Epithelial / tumor,0.14963156,0.85050946
+1252,Epithelial / tumor,0.6227405,-3.0
+1254,Epithelial / tumor,-0.31181285,0.019950097
+1255,Epithelial / tumor,0.07000413,-3.0
+1256,Epithelial / tumor,-3.0,-3.0
+1257,Epithelial / tumor,-0.098335944,0.14226232
+1262,Epithelial / tumor,-0.26868638,-3.0
+1264,Epithelial / tumor,0.12165784,1.1539328
+1265,Epithelial / tumor,0.10259614,-3.0
+1267,Epithelial / tumor,0.14649421,-3.0
+1268,Epithelial / tumor · Cycling,1.4825935,0.23249952
+1275,Epithelial / tumor · Cycling,0.7193914,0.4275238
+1276,Epithelial / tumor,0.38990334,-3.0
+1279,Epithelial / tumor,0.092429996,0.2662024
+1280,Epithelial / tumor,-0.35089093,1.0084231
+1285,Epithelial / tumor,-0.19684383,0.17465703
+1286,Epithelial / tumor,0.35445365,0.8518939
+1290,Epithelial / tumor,-3.0,0.5926641
+1291,Epithelial / tumor,-0.015569758,0.8135277
+1297,Epithelial / tumor,0.07987729,-3.0
+1298,Epithelial / tumor,-0.0019424558,-3.0
+1299,Epithelial / tumor,-0.18111095,0.7339667
+1324,Epithelial / tumor,-0.05548257,0.8140974
+1328,Epithelial / tumor,0.4223233,1.211134
+1329,Epithelial / tumor,-0.01296214,-3.0
+1331,Epithelial / tumor,0.27956837,-3.0
+1333,Epithelial / tumor · Cycling,2.7230206,-3.0
+1339,Epithelial / tumor,0.09056164,-3.0
+1342,Epithelial / tumor,-0.08819097,0.2404382
+1343,Epithelial / tumor,0.4498632,0.71773326
+1344,Epithelial / tumor,-3.0,-3.0
+1345,Epithelial / tumor,0.1065495,-3.0
+1346,Epithelial / tumor,0.14061582,-3.0
+1358,Epithelial / tumor · Cycling,0.82771194,-3.0
+1374,Epithelial / tumor,0.3015635,-3.0
+1376,Epithelial / tumor,-0.12288421,-3.0
+1378,Epithelial / tumor,0.1540395,0.8877181
+1379,Epithelial / tumor,0.12153098,0.56674284
+1381,Epithelial / tumor,0.30340722,0.31087035
+1393,Epithelial / tumor,-0.034119047,-3.0
+1395,Epithelial / tumor,0.64914834,-3.0
+1398,Epithelial / tumor,-0.3807321,0.37198606
+1403,Epithelial / tumor,0.25455046,-3.0
+1406,Epithelial / tumor,-3.0,0.3888714
+1409,Epithelial / tumor,0.47628656,-3.0
+1413,Epithelial / tumor,0.34410718,0.41226596
+1416,Epithelial / tumor,-0.23114175,1.0507162
+1422,Epithelial / tumor,0.16174614,0.7930706
+1423,Epithelial / tumor,0.014383482,-3.0
+1425,Epithelial / tumor,0.018785857,0.41563982
+1426,Epithelial / tumor,0.32260326,0.29275638
+1429,Epithelial / tumor,0.56039333,-3.0
+1434,Epithelial / tumor · Cycling,1.1527216,0.36339843
+1435,Epithelial / tumor,0.22766115,0.6349905
+1438,Epithelial / tumor · Cycling,2.3406463,-3.0
+1443,Epithelial / tumor,-0.1181328,-3.0
+1446,Epithelial / tumor,-3.0,1.0067956
+1448,Epithelial / tumor,0.42677233,0.7326846
+1449,Epithelial / tumor,0.3566102,-3.0
+1450,Epithelial / tumor · Cycling,1.3296498,-3.0
+1454,Epithelial / tumor,-3.0,-3.0
+1461,Epithelial / tumor,0.15061565,0.22777018
+1464,Epithelial / tumor,-0.11156711,0.15832964
+1467,Epithelial / tumor,-0.11822495,0.5922693
+1468,Epithelial / tumor · Cycling,1.8742014,-3.0
+1470,Epithelial / tumor,0.22317928,0.29563898
+1471,Epithelial / tumor,-0.32230124,-3.0
+1472,Epithelial / tumor,0.19510642,0.92166454
+1473,Epithelial / tumor,0.36442292,0.34262103
+1474,Epithelial / tumor,0.26807827,-3.0
+1478,Epithelial / tumor,-0.2900335,-3.0
+1481,Epithelial / tumor,0.0933433,1.131285
+1483,Epithelial / tumor,0.17095003,0.12764528
+1491,Epithelial / tumor,0.37348828,-3.0
+1494,Epithelial / tumor · Cycling,1.7557098,1.131285
+1499,Epithelial / tumor,0.37858695,1.2549756
+1500,Epithelial / tumor,0.1648816,-3.0
+1501,Epithelial / tumor,-3.0,-3.0
+1502,Epithelial / tumor,0.12885305,0.61899984
+1505,Epithelial / tumor,-0.11087,0.21936353
+1514,Epithelial / tumor,-0.019707642,0.26847145
+1517,Epithelial / tumor · Cycling,1.5866954,-3.0
+1518,Epithelial / tumor,0.45636818,0.32323495
+1520,Epithelial / tumor · Cycling,2.5359108,0.77383006
+1521,Epithelial / tumor,-0.028662909,0.6300104
+1522,Epithelial / tumor,0.3217315,-3.0
+1523,Epithelial / tumor,0.56600213,0.47858873
+1530,Epithelial / tumor · Cycling,0.999681,-3.0
+1533,Epithelial / tumor,0.49941456,0.5637449
+1534,Epithelial / tumor,-0.16622274,0.3688597
+1542,Epithelial / tumor,0.03169921,-3.0
+1544,Epithelial / tumor · Cycling,1.8965133,0.47796535
+1546,Epithelial / tumor,-0.3794253,-3.0
+1547,Epithelial / tumor,-0.093569204,0.92062646
+1548,Epithelial / tumor,0.64760584,0.24007742
+1551,Epithelial / tumor,-0.35989442,-3.0
+1555,Epithelial / tumor,0.17803198,-3.0
+1557,Epithelial / tumor · Cycling,1.2660494,-3.0
+1558,Epithelial / tumor,-0.061034836,-3.0
+1559,Epithelial / tumor,-0.049543597,-3.0
+1560,Epithelial / tumor,0.081017084,0.39071342
+1565,Epithelial / tumor,0.05269918,0.3291052
+1568,Epithelial / tumor,0.2548266,0.19570585
+1569,Epithelial / tumor,0.6482033,1.4378481
+1571,Epithelial / tumor,-0.2719636,0.111425556
+1587,Epithelial / tumor,-3.0,-3.0
+1589,Epithelial / tumor,0.43533736,1.4973543
+1590,Epithelial / tumor,-3.0,-3.0
+1594,Epithelial / tumor,-0.03717856,1.0249244
+1597,Epithelial / tumor,-0.033014532,0.17504057
+1601,Epithelial / tumor,0.1075553,-3.0
+1604,Epithelial / tumor,-3.0,-3.0
+1605,Epithelial / tumor,-3.0,-3.0
+1606,Epithelial / tumor,0.44457394,0.88086736
+1614,Epithelial / tumor · Cycling,0.8252102,-3.0
+1615,Epithelial / tumor,0.19514957,0.5381733
+1619,Epithelial / tumor,0.1933741,-3.0
+1623,Epithelial / tumor,-3.0,-3.0
+1627,Epithelial / tumor,-0.0340344,0.55904585
+1628,Epithelial / tumor,0.5788437,-3.0
+1639,Epithelial / tumor,-3.0,-3.0
+1640,Epithelial / tumor,0.009598559,-3.0
+1641,Epithelial / tumor,-3.0,-3.0
+1643,Epithelial / tumor,0.52131826,-3.0
+1644,Epithelial / tumor,0.31534505,-3.0
+1647,Epithelial / tumor,0.40572977,0.5518312
+1648,Epithelial / tumor,0.06821768,-3.0
+1652,Epithelial / tumor · Cycling,0.6855588,-3.0
+1667,Epithelial / tumor · Cycling,0.69866204,-3.0
+1668,Epithelial / tumor · Cycling,0.6986896,-3.0
+1671,Epithelial / tumor,-3.0,-3.0
+1678,Epithelial / tumor,-0.08221265,-3.0
+1679,Epithelial / tumor,0.049723785,0.6253809
+1693,Epithelial / tumor,-0.07401681,0.09471727
+1694,Epithelial / tumor · Cycling,2.4101803,0.33400625
+1698,Epithelial / tumor,0.016902842,0.32201168
+1700,Epithelial / tumor · Cycling,0.86424077,-3.0
+1706,Epithelial / tumor,-0.037165835,0.7257461
+1707,Epithelial / tumor,0.14216746,0.49469393
+1708,Epithelial / tumor,0.030431144,0.37416524
+1709,Epithelial / tumor,0.046834767,0.963534
+1710,Epithelial / tumor,0.5092899,0.88731784
+1713,Epithelial / tumor,-0.011556648,0.42830986
+1714,Epithelial / tumor,0.2679398,-3.0
+1715,Epithelial / tumor,0.4913375,-3.0
+1716,Epithelial / tumor,-3.0,-3.0
+1718,Epithelial / tumor,-0.11518119,-3.0
+1720,Epithelial / tumor,-3.0,-3.0
+1723,Epithelial / tumor,-0.039432026,0.75505406
+1727,Epithelial / tumor,0.46766806,-3.0
+1728,Epithelial / tumor,-0.32336557,-3.0
+1730,Epithelial / tumor,-0.0067311153,0.24005218
+1733,Epithelial / tumor,-3.0,-3.0
+1737,Epithelial / tumor,-0.1998498,0.7468726
+1741,Epithelial / tumor,0.44241583,-3.0
+1742,Epithelial / tumor,0.09415248,0.8688763
+1744,Epithelial / tumor,0.5668509,1.0264403
+1747,Epithelial / tumor,0.16655053,-3.0
+1748,Epithelial / tumor,0.37321937,1.0453491
+1750,Epithelial / tumor,0.052657098,0.5623661
+1751,Epithelial / tumor,-3.0,-3.0
+1753,Epithelial / tumor,-0.026109966,0.45001927
+1756,Epithelial / tumor,-0.0030570477,0.2984243
+1757,Epithelial / tumor,0.21104838,-3.0
+1762,Epithelial / tumor,-3.0,-3.0
+1764,Epithelial / tumor,0.0964217,0.51724136
+1767,Epithelial / tumor · Cycling,2.508424,-3.0
+1769,Epithelial / tumor,0.2006743,-3.0
+1770,Epithelial / tumor,-3.0,-3.0
+1776,Epithelial / tumor,-3.0,0.4616743
+1777,Epithelial / tumor,0.14335,0.5195017
+1779,Epithelial / tumor,-0.08899744,1.2730596
+1781,Epithelial / tumor · Cycling,2.123487,-3.0
+1783,Epithelial / tumor,0.29289007,-3.0
+1787,Epithelial / tumor · Cycling,0.79056334,-3.0
+1790,Epithelial / tumor · Cycling,1.3472824,-3.0
+1791,Epithelial / tumor,0.28111404,-3.0
+1795,Epithelial / tumor,-0.18091667,-3.0
+1796,Epithelial / tumor,-0.12314859,-3.0
+1798,Epithelial / tumor · Cycling,2.3956275,-3.0
+1803,Epithelial / tumor,0.19516392,0.2841649
+1804,Epithelial / tumor,-3.0,-3.0
+1809,Epithelial / tumor,-0.31507444,0.3463903
+1812,Epithelial / tumor,0.2872008,0.42359072
+1813,Epithelial / tumor,-0.021762162,0.25773677
+1814,Epithelial / tumor,0.05252762,-3.0
+1817,Epithelial / tumor,0.4072569,0.38945705
+1819,Epithelial / tumor,0.32938138,-3.0
+1820,Epithelial / tumor,0.0032586306,0.47572222
+1824,Epithelial / tumor,0.14510421,-3.0
+1826,Epithelial / tumor,0.36670268,-3.0
+1828,Epithelial / tumor,0.20845053,-3.0
+1833,Epithelial / tumor,-0.07408899,0.16481888
+1835,Epithelial / tumor · Cycling,0.8103499,-3.0
+1838,Epithelial / tumor,0.07641877,-3.0
+1839,Epithelial / tumor,0.2994484,1.135526
+1841,Epithelial / tumor,0.43328208,0.34135276
+1844,Epithelial / tumor,0.48041415,-3.0
+1846,Epithelial / tumor,0.5837246,0.91568404
+1847,Epithelial / tumor,0.23050578,1.131285
+1851,Epithelial / tumor,0.014239974,-3.0
+1856,Epithelial / tumor,-3.0,-3.0
+1857,Epithelial / tumor,-0.10197817,-3.0
+1859,Epithelial / tumor · Cycling,1.5866383,-3.0
+1860,Epithelial / tumor,-0.026449688,-3.0
+1863,Epithelial / tumor,-3.0,-3.0
+1864,Epithelial / tumor,-0.1873051,0.3764866
+1865,Epithelial / tumor,0.42921185,-3.0
+1866,Epithelial / tumor,0.029089607,-3.0
+1868,Epithelial / tumor · Cycling,2.7013698,1.2774262
+1869,Epithelial / tumor · Cycling,1.1331106,-3.0
+1872,Epithelial / tumor,-0.09917719,-3.0
+1877,Epithelial / tumor,-0.19106007,0.6273227
+1879,Epithelial / tumor,-0.028405294,-3.0
+1887,Epithelial / tumor,0.4223136,-3.0
+1892,Epithelial / tumor,-0.14332266,-3.0
+1899,Epithelial / tumor,0.0736119,0.77628386
+1900,Epithelial / tumor,0.19424614,-3.0
+1902,Epithelial / tumor,0.5368835,0.40271798
+1906,Epithelial / tumor,-3.0,-3.0
+1907,Epithelial / tumor · Cycling,2.0325704,-3.0
+1910,Epithelial / tumor,0.63945013,-3.0
+1911,Epithelial / tumor,-0.15304574,1.4118693
+1913,Epithelial / tumor,-0.06069527,-3.0
+1916,Epithelial / tumor,0.0575359,0.7402806
+1917,Epithelial / tumor,-0.0849774,0.59378463
+1921,Epithelial / tumor,-0.20356075,-3.0
+1922,Epithelial / tumor,-0.057865668,-3.0
+1923,Epithelial / tumor,-0.18164577,-3.0
+1925,Epithelial / tumor,0.043455943,0.9419837
+1931,Epithelial / tumor · Cycling,0.75440466,-3.0
+1934,Epithelial / tumor,0.100847915,0.43422613
+1936,Epithelial / tumor,0.037065767,-3.0
+1938,Epithelial / tumor,-0.083924696,0.062212773
+1940,Epithelial / tumor · Cycling,0.7109633,-3.0
+1942,Epithelial / tumor,-3.0,-3.0
+1943,Epithelial / tumor,-0.07885361,-3.0
+1949,Epithelial / tumor,-0.13292667,0.47512832
+1951,Epithelial / tumor,-3.0,-3.0
+1953,Epithelial / tumor,0.54471916,-3.0
+1963,Epithelial / tumor,0.37957618,0.4526344
+1964,Epithelial / tumor,0.42821285,-3.0
+1982,Epithelial / tumor,-0.22112839,0.0822058
+1992,Epithelial / tumor,-3.0,-3.0
+1993,Epithelial / tumor,-3.0,-3.0
+1997,Epithelial / tumor,-3.0,-3.0
+1998,Epithelial / tumor,0.0010912456,0.035253532
+2000,Epithelial / tumor,0.14918551,-3.0
+2012,Epithelial / tumor,-0.018834963,0.5005851
+2015,Epithelial / tumor,0.4637005,0.21959221
+2016,Epithelial / tumor · Cycling,1.2045615,1.131285
+2017,Epithelial / tumor,0.14394946,0.78625137
+2020,Epithelial / tumor,-3.0,-3.0
+2022,Epithelial / tumor,-3.0,-3.0
+2029,Epithelial / tumor,-0.26136422,-3.0
+2032,Epithelial / tumor,0.61033976,-3.0
+2033,Epithelial / tumor,-3.0,-3.0
+2046,Epithelial / tumor · Cycling,2.5775828,-3.0
+2047,Epithelial / tumor,0.3989982,0.7256729
+2048,Epithelial / tumor,0.32798222,0.7472467
+2052,Epithelial / tumor,0.19102864,-3.0
+2053,Epithelial / tumor,0.047630545,0.63188875
+2054,Epithelial / tumor · Cycling,1.1401561,-3.0
+2055,Epithelial / tumor,-0.107573956,-3.0
+2056,Epithelial / tumor,0.13515162,-3.0
+2058,Epithelial / tumor,0.3100704,0.43341866
+2061,Epithelial / tumor,-0.0927139,-3.0
+2062,Epithelial / tumor,-0.105466895,0.17648701
+2070,Epithelial / tumor,-3.0,-3.0
+2073,Epithelial / tumor,-0.0121883955,-3.0
+2077,Epithelial / tumor,0.51014197,-3.0
+2079,Epithelial / tumor,0.16348185,-3.0
+2082,Epithelial / tumor · Cycling,0.86615586,0.3631838
+2084,Epithelial / tumor,-3.0,-3.0
+2089,Epithelial / tumor,0.26612258,-3.0
+2095,Epithelial / tumor,0.027754098,0.19800213
+2096,Epithelial / tumor,0.026161611,-3.0
+2101,Epithelial / tumor · Cycling,2.649964,-3.0
+2102,Epithelial / tumor,0.18009719,1.1295515
+2109,Epithelial / tumor,0.030471042,1.0011919
+2110,Epithelial / tumor,0.633121,-3.0
+2119,Epithelial / tumor · Cycling,0.96532667,0.4678429
+2135,Epithelial / tumor,0.03486581,0.3724936
+2136,Epithelial / tumor · Cycling,1.710897,0.9856822
+2148,Epithelial / tumor,0.26286447,1.4325218
+2158,Epithelial / tumor,0.20507687,-3.0
+2162,Epithelial / tumor · Cycling,0.6632787,-3.0
+2177,Epithelial / tumor,-3.0,0.7569081
+2180,Epithelial / tumor,0.24053282,-3.0
+2181,Epithelial / tumor,0.076339625,-3.0
+2185,Epithelial / tumor,0.024121612,0.44709405
+2186,Epithelial / tumor,0.45541808,-3.0
+2194,Epithelial / tumor,-3.0,-3.0
+2196,Epithelial / tumor · Cycling,1.2093395,-3.0
+2199,Epithelial / tumor,-0.18517895,-3.0
+2212,Epithelial / tumor,-3.0,-3.0
+2213,Epithelial / tumor · Cycling,0.83527315,-3.0
+2224,Epithelial / tumor,-0.10851436,0.5421928
+2230,Epithelial / tumor,0.39538124,-3.0
+2231,Epithelial / tumor,0.46667394,-3.0
+2232,Epithelial / tumor,0.09374168,-3.0
+2233,Epithelial / tumor,-0.20921996,0.5569876
+2234,Epithelial / tumor,0.1379696,1.2550524
+2235,Epithelial / tumor,-3.0,-3.0
+2236,Epithelial / tumor,-0.03944034,-3.0
+2244,Epithelial / tumor,0.09512079,0.44224176
+2253,Epithelial / tumor,0.057780556,-3.0
+2255,Epithelial / tumor,-3.0,-3.0
+2256,Epithelial / tumor,-3.0,-3.0
+2258,Epithelial / tumor,0.31294852,0.67815346
+2260,Epithelial / tumor,0.5529231,-3.0
+2261,Epithelial / tumor,-3.0,-3.0
+2262,Epithelial / tumor,0.3329343,0.38552114
+2264,Epithelial / tumor · Cycling,2.009474,-3.0
+2265,Epithelial / tumor,0.1635748,-3.0
+2266,Epithelial / tumor,-3.0,-3.0
+2268,Epithelial / tumor,0.13479103,0.3479506
+2271,Epithelial / tumor,-0.17544515,0.40772
+2274,Epithelial / tumor,0.5123165,0.6272423
+2285,Epithelial / tumor,-0.055244483,0.523275
+2289,Epithelial / tumor,0.013314426,0.2896981
+2298,Epithelial / tumor,0.052982427,0.25074658
+2301,Epithelial / tumor,-3.0,-3.0
+2302,Epithelial / tumor · Cycling,1.9106905,0.5070704
+2304,Epithelial / tumor · Cycling,2.1198306,-3.0
+2308,Epithelial / tumor,0.04427057,0.5810326
+2310,Epithelial / tumor,-0.0053809434,-3.0
+2315,Epithelial / tumor,-3.0,-3.0
+2316,Epithelial / tumor,0.5907198,0.073449135
+2318,Epithelial / tumor,0.15052412,1.1723852
+2324,Epithelial / tumor,0.039784998,0.5297731
+2335,Epithelial / tumor,0.35247865,0.33757558
+2342,Epithelial / tumor,0.3806329,0.13471211
+2347,Epithelial / tumor · Cycling,1.8100531,-3.0
+2349,Epithelial / tumor,0.47820902,0.28386265
+2350,Epithelial / tumor,-0.14015868,0.17062129
+2351,Epithelial / tumor,-0.20139112,0.0118789375
+2353,Epithelial / tumor,0.42926186,0.41628224
+2363,Epithelial / tumor,-0.1233187,0.28782123
+2369,Epithelial / tumor,-0.07493147,0.07639927
+2371,Epithelial / tumor,0.35738298,0.33886126
+2372,Epithelial / tumor · Cycling,1.3115628,0.21973912
+2374,Epithelial / tumor,0.6340393,0.35412216
+2378,Epithelial / tumor · Cycling,0.7750397,0.38717222
+2398,Epithelial / tumor · Cycling,1.4215579,0.7953102
+2399,Epithelial / tumor · Cycling,1.3855217,0.36701506
+2405,Epithelial / tumor,-0.25703806,-0.005104962
+2408,Epithelial / tumor · Cycling,0.7611237,0.2137905
+2410,Epithelial / tumor,-0.2696348,0.13601752
+2417,Epithelial / tumor,0.43572628,0.11000036
+2430,Epithelial / tumor · Cycling,2.6054847,0.45066577
+2441,Epithelial / tumor,-0.30485165,0.24552956
+2445,Epithelial / tumor,-0.21301126,0.320036
+2450,Epithelial / tumor,0.61888635,-3.0
+2452,Epithelial / tumor · Cycling,1.1073968,-3.0
+2456,Epithelial / tumor · Cycling,1.9801848,-3.0
+2462,Epithelial / tumor,0.017752677,-3.0
+2466,Epithelial / tumor · Cycling,1.8281856,0.6343014
+2470,Epithelial / tumor,0.34545398,0.8543264
+2473,Epithelial / tumor,0.11866027,-3.0
+2474,Epithelial / tumor,-0.2811053,0.382786
+2475,Epithelial / tumor,-3.0,-3.0
+2479,Epithelial / tumor,0.25573558,-3.0
+2480,Epithelial / tumor · Cycling,0.92646873,-3.0
+2484,Epithelial / tumor,0.44500598,-3.0
+2496,Epithelial / tumor · Cycling,2.6168377,0.66685593
+2504,Epithelial / tumor,0.12191965,0.35084638
+2510,Epithelial / tumor · Cycling,2.4703827,-3.0
+2511,Epithelial / tumor,-0.38266817,0.23308149
+2518,Epithelial / tumor,-0.10721131,1.0950487
+2519,Epithelial / tumor,0.16227323,-3.0
+2520,Epithelial / tumor,-0.30809903,-3.0
+2521,Epithelial / tumor · Cycling,2.0925663,-3.0
+2522,Epithelial / tumor,0.1572601,0.7310226
+2523,Epithelial / tumor,0.7239675,0.8696257
+2528,Epithelial / tumor,0.48523194,-3.0
+2534,Epithelial / tumor,0.5189101,0.336387
+2536,Epithelial / tumor,-3.0,-3.0
+2537,Epithelial / tumor,0.20684636,1.131285
+2538,Epithelial / tumor,0.5476532,0.8812941
+2539,Epithelial / tumor,0.2594799,-3.0
+2540,Epithelial / tumor · Cycling,1.3262616,-3.0
+2541,Epithelial / tumor,-0.06315984,0.21573558
+2542,Epithelial / tumor,-0.16558194,-3.0
+2543,Epithelial / tumor,-3.0,-3.0
+2544,Epithelial / tumor,-3.0,1.2
+2548,Epithelial / tumor,0.3034182,0.5580808
+2550,Epithelial / tumor,0.0840931,0.49975428
+2553,Epithelial / tumor,0.11759674,-3.0
+2554,Epithelial / tumor,0.8123993,1.131285
+2557,Epithelial / tumor,0.4977682,-3.0
+2558,Epithelial / tumor,0.2611486,1.2847421
+2560,Epithelial / tumor,0.05602667,0.4248472
+2564,Epithelial / tumor,0.44911313,-3.0
+2565,Epithelial / tumor · Cycling,0.72467065,-3.0
+2567,Epithelial / tumor,-3.0,-3.0
+2568,Epithelial / tumor,0.042240888,-3.0
+2580,Epithelial / tumor,-0.09106393,-3.0
+2584,Epithelial / tumor,-0.10419656,-3.0
+2593,Epithelial / tumor,0.49416292,-3.0
+2597,Epithelial / tumor,-3.0,-3.0
+2598,Epithelial / tumor,-3.0,-3.0
+2603,Epithelial / tumor,-3.0,-3.0
+2605,Epithelial / tumor,0.3380896,-3.0
+2607,Epithelial / tumor,-3.0,0.5504548
+2613,Epithelial / tumor,0.028250009,0.5044608
+2615,Epithelial / tumor,0.20644216,0.6508493
+2616,Epithelial / tumor,0.17205834,-3.0
+2628,Epithelial / tumor,-3.0,1.5734285
+2633,Epithelial / tumor,0.09280607,0.73138726
+2634,Epithelial / tumor · Cycling,1.4834063,-3.0
+2638,Epithelial / tumor · Cycling,2.5149095,-3.0
+2643,Epithelial / tumor,0.19375727,0.3483022
+2650,Epithelial / tumor,-3.0,-3.0
+2656,Epithelial / tumor,-0.050144173,0.22010806
+2671,Epithelial / tumor,-0.18646641,-3.0
+2672,Epithelial / tumor,-3.0,-3.0
+2673,Epithelial / tumor,-0.06624097,-3.0
+2680,Epithelial / tumor,-0.021773562,0.52550304
+2682,Epithelial / tumor · Cycling,2.6194463,-3.0
+2695,Epithelial / tumor,-0.17229693,-3.0
+2742,Epithelial / tumor,0.18060933,-3.0
+2750,Epithelial / tumor,0.07901171,0.49259448
+2763,Epithelial / tumor · Cycling,1.3408842,-3.0
+2783,Epithelial / tumor · Cycling,0.7716679,-3.0
+2794,Epithelial / tumor · Cycling,0.6836192,-3.0
+2806,Epithelial / tumor · Cycling,2.7408948,-3.0
+2812,Epithelial / tumor · Cycling,2.6482015,-3.0
+2825,Epithelial / tumor · Cycling,1.0758504,1.0374106
+2830,Epithelial / tumor · Cycling,1.5184245,-3.0
+2835,Epithelial / tumor · Cycling,2.3493674,0.119738415
+2836,Epithelial / tumor · Cycling,0.93935174,-3.0
+2869,Epithelial / tumor,0.60419446,-3.0
+2872,Epithelial / tumor,0.5926606,-3.0
+2879,Epithelial / tumor · Cycling,0.9253896,-3.0
+2882,Epithelial / tumor,0.40007055,-3.0
+2886,Epithelial / tumor,-3.0,-3.0
+2916,Epithelial / tumor,-3.0,1.8
+2940,Epithelial / tumor · Cycling,0.77976906,-3.0
+2944,Epithelial / tumor,0.7973409,1.5476891
+2947,Epithelial / tumor,-0.2392447,-3.0
+2950,Epithelial / tumor,-3.0,-3.0
+2953,Epithelial / tumor · Cycling,2.5748248,-3.0
+2954,Epithelial / tumor,0.15506473,-3.0
+2955,Epithelial / tumor · Cycling,0.9045072,-3.0
+2958,Epithelial / tumor,-0.030743293,-3.0
+2959,Epithelial / tumor · Cycling,0.8067072,-3.0
+2965,Epithelial / tumor,0.57788116,-3.0
+2978,Epithelial / tumor,-0.053277135,-3.0
+2987,Epithelial / tumor · Cycling,2.4468029,0.35250506
+2988,Epithelial / tumor · Cycling,1.0134462,-3.0
+3006,Epithelial / tumor · Cycling,2.358846,-3.0
+3016,Epithelial / tumor,-0.20806691,-3.0
+3023,Epithelial / tumor,0.0072265416,-3.0
+3029,Epithelial / tumor,0.5287291,-3.0
+3031,Epithelial / tumor,-0.08387385,1.0127074
+3039,Epithelial / tumor,0.2890454,-3.0
+3042,Epithelial / tumor · Cycling,1.2714108,-3.0
+3069,Epithelial / tumor,-0.19475037,-3.0
+3071,Epithelial / tumor,0.5454029,-3.0
+3072,Epithelial / tumor,-0.18647693,0.838052
+3079,Epithelial / tumor,-0.2912005,0.2975447
+3087,Epithelial / tumor,0.28102082,-3.0
+3111,Epithelial / tumor,-0.12529022,-3.0
+3123,Epithelial / tumor,0.10343818,-3.0
+3140,Epithelial / tumor · Cycling,2.0421977,-3.0
+3152,Epithelial / tumor,0.50326526,-3.0
+3166,Epithelial / tumor,0.27374142,0.73121876
+3179,Epithelial / tumor,-3.0,-3.0
+3180,Epithelial / tumor · Cycling,0.6610716,-3.0
+3193,Epithelial / tumor · Cycling,0.6882,-3.0
+3197,Epithelial / tumor,-3.0,-3.0
+3198,Epithelial / tumor,-3.0,-3.0
+3199,Epithelial / tumor,0.2541346,-3.0
+3200,Epithelial / tumor,0.34514984,-3.0
+3219,Epithelial / tumor,0.006277971,0.3781745
+3244,Epithelial / tumor · Cycling,0.7256793,-3.0
+3253,Epithelial / tumor · Cycling,2.4195697,-3.0
+3254,Epithelial / tumor,-3.0,-3.0
+3255,Epithelial / tumor,0.012194306,0.4231153
+3281,Epithelial / tumor,-3.0,-3.0
+3283,Epithelial / tumor,-3.0,-3.0
+3284,Epithelial / tumor,0.5023678,-3.0
+3285,Epithelial / tumor,-3.0,-3.0
+3287,Epithelial / tumor,0.3593731,-3.0
+3300,Epithelial / tumor,0.22522621,-3.0
+3304,Epithelial / tumor,-3.0,-3.0
+3305,Epithelial / tumor,-3.0,-3.0
+3311,Epithelial / tumor · Cycling,0.71328235,-3.0
+3329,Epithelial / tumor,-0.11460227,0.33049685
+3330,Epithelial / tumor,-3.0,-3.0
+3331,Epithelial / tumor,-0.027801812,-3.0
+3332,Epithelial / tumor,0.17504966,-3.0
+3333,Epithelial / tumor,0.5345156,-3.0
+3335,Epithelial / tumor · Cycling,1.2641975,-3.0
+3336,Epithelial / tumor,0.75042295,0.9147437
+3338,Epithelial / tumor,-0.117836,0.70321804
+3355,Epithelial / tumor,-0.28078827,1.6138992
+3357,Epithelial / tumor,0.15532172,-3.0
+3370,Epithelial / tumor,0.44856474,-3.0
+3371,Epithelial / tumor,0.22612745,0.67390543
+3382,Epithelial / tumor,0.16036993,0.91080254
+3386,Epithelial / tumor,-0.06665066,-3.0
+3435,Epithelial / tumor,0.15322654,-3.0
+3436,Epithelial / tumor,0.410921,-3.0
+3439,Epithelial / tumor,0.4996827,-3.0
+3440,Epithelial / tumor,0.6330888,-3.0
+3443,Epithelial / tumor,0.5976697,-3.0
+3445,Epithelial / tumor,0.11820089,0.6963652
+3450,Epithelial / tumor,0.3274516,0.71343863
+3451,Epithelial / tumor,0.6126535,0.5869747
+3457,Epithelial / tumor,-0.019167213,-3.0
+3459,Epithelial / tumor,-0.1984958,1.2756587
+3460,Epithelial / tumor · Cycling,1.6051244,-3.0
+3463,Epithelial / tumor,0.5526131,-3.0
+3507,Epithelial / tumor,0.50677735,0.91756487
+3508,Epithelial / tumor · Cycling,1.0617427,-3.0
+3533,Epithelial / tumor,0.16833103,0.19829541
+3539,Epithelial / tumor,-3.0,-3.0
+3546,Epithelial / tumor · Cycling,1.2733026,-3.0
+3549,Epithelial / tumor,-0.17300168,-3.0
+3556,Epithelial / tumor,0.2017041,0.52575505
+3559,Epithelial / tumor,-0.101858355,-3.0
+3561,Epithelial / tumor,-3.0,-3.0
+3569,Epithelial / tumor,-3.0,-3.0
+3586,Epithelial / tumor,-0.27753815,1.00581
+3589,Epithelial / tumor,-0.22309667,-3.0
+3603,Epithelial / tumor,0.41916686,0.43202907
+3605,Epithelial / tumor,-3.0,-3.0
+3612,Epithelial / tumor,-3.0,-3.0
+3614,Epithelial / tumor,0.39344463,-3.0
+3616,Epithelial / tumor,-3.0,-3.0
+3619,Epithelial / tumor · Cycling,1.4203451,1.131285
+3631,Epithelial / tumor,-3.0,0.7546621
+3637,Epithelial / tumor,0.17761365,-3.0
+3639,Epithelial / tumor,0.4545787,-3.0
+3641,Epithelial / tumor · Cycling,0.67521435,-3.0
+3645,Epithelial / tumor,0.30109584,-3.0
+3678,Epithelial / tumor,-3.0,-3.0
+3692,Epithelial / tumor,0.55459505,-3.0
+3693,Epithelial / tumor,-0.100218296,-3.0
+3695,Epithelial / tumor · Cycling,0.8015426,0.27965766
+3699,Epithelial / tumor,0.49226117,-3.0
+3701,Epithelial / tumor,-3.0,1.131285
+3703,Epithelial / tumor,-3.0,-3.0
+3705,Epithelial / tumor,0.51645744,-3.0
+3709,Epithelial / tumor,0.24987084,-3.0
+3717,Epithelial / tumor,-0.13551854,-3.0
+3719,Epithelial / tumor,0.46796042,-3.0
+3742,Epithelial / tumor,0.20028672,1.3966447
+3746,Epithelial / tumor,-0.080114655,-3.0
+3761,Epithelial / tumor,0.022460945,-3.0
+3772,Epithelial / tumor,0.70396626,1.131285
+3773,Epithelial / tumor · Cycling,0.96346396,-3.0
+3775,Epithelial / tumor,0.009896509,-3.0
+3776,Epithelial / tumor,0.07745856,0.33622566
+3780,Epithelial / tumor,0.53468347,-3.0
+3784,Epithelial / tumor,-3.0,-3.0
+3785,Epithelial / tumor,0.9567719,1.3778441
+3786,Epithelial / tumor,0.050545774,-3.0
+3795,Epithelial / tumor · Cycling,1.0479493,-3.0
+3810,Epithelial / tumor,0.29693666,1.1954857
+3812,Epithelial / tumor · Cycling,0.74021655,-3.0
+3813,Epithelial / tumor,0.1168212,0.25344604
+3814,Epithelial / tumor,0.1292488,-3.0
+3816,Epithelial / tumor · Cycling,0.75261176,-3.0
+3817,Epithelial / tumor,0.023254868,-3.0
+3818,Epithelial / tumor · Cycling,1.2820908,-3.0
+3819,Epithelial / tumor,0.076283544,0.84969157
+3823,Epithelial / tumor,0.84370744,0.84525603
+3825,Epithelial / tumor · Cycling,0.7116262,-3.0
+3833,Epithelial / tumor · Cycling,1.564898,-3.0
+3838,Epithelial / tumor · Cycling,1.3213236,-3.0
+3841,Epithelial / tumor,-0.033905655,-3.0
+3845,Epithelial / tumor,0.80854297,1.131285
+3856,Epithelial / tumor,0.19596279,-3.0
+3857,Epithelial / tumor,0.14041525,1.6062905
+3862,Epithelial / tumor,0.06624904,1.0563972
+3863,Epithelial / tumor · Cycling,0.89600056,-3.0
+3864,Epithelial / tumor,0.33775395,0.83944476
+3866,Epithelial / tumor,0.20308317,0.4486788
+3872,Epithelial / tumor,-3.0,-3.0
+3874,Epithelial / tumor,-3.0,-3.0
+3875,Epithelial / tumor,0.39988196,-3.0
+3879,Epithelial / tumor,0.20885246,1.131285
+3880,Epithelial / tumor,0.4873668,-3.0
+3883,Epithelial / tumor,0.40164706,-3.0
+3890,Epithelial / tumor,-3.0,2.0886521
+3891,Epithelial / tumor,0.2874539,-3.0
+3892,Epithelial / tumor,-0.19246817,-3.0
+3893,Epithelial / tumor,-3.0,-3.0
+3906,Epithelial / tumor · Cycling,1.6557924,-3.0
+3909,Epithelial / tumor,0.12760647,-3.0
+3910,Epithelial / tumor,0.623191,-3.0
+3911,Epithelial / tumor,-0.07203941,-3.0
+3916,Epithelial / tumor,0.35376847,-3.0
+3920,Epithelial / tumor,0.27776462,-3.0
+3922,Epithelial / tumor,0.42411605,-3.0
+3926,Epithelial / tumor,0.13103442,1.3135421
+3927,Epithelial / tumor,0.09052478,1.2125337
+3928,Epithelial / tumor,0.40350345,-3.0
+3935,Epithelial / tumor,0.42819127,-3.0
+3937,Epithelial / tumor,-3.0,-3.0
+3943,Epithelial / tumor,-0.058158193,0.90601665
+3947,Epithelial / tumor · Cycling,1.6701102,-3.0
+3948,Epithelial / tumor,0.244697,-3.0
+3949,Epithelial / tumor,-0.17803934,0.9804417
+3957,Epithelial / tumor,0.631997,-3.0
+3961,Epithelial / tumor,-3.0,-3.0
+3968,Epithelial / tumor,0.081241064,0.39912695
+3973,Epithelial / tumor,-0.015456685,0.90090597
+3981,Epithelial / tumor,-3.0,0.8347578
+3994,Epithelial / tumor,0.45002693,-3.0
+3996,Epithelial / tumor,1.0232098,1.3566805
+4002,Epithelial / tumor,-3.0,-3.0
+4003,Epithelial / tumor,-3.0,-3.0
+4005,Epithelial / tumor · Cycling,0.7813945,-3.0
+4009,Epithelial / tumor,-0.13883135,-3.0
+4012,Epithelial / tumor,-3.0,-3.0
+4015,Epithelial / tumor,0.23033082,-3.0
+4016,Epithelial / tumor,-0.20812377,-3.0
+4025,Epithelial / tumor,0.09648649,-3.0
+4032,Epithelial / tumor,0.043718576,0.9418049
+4044,Epithelial / tumor,-3.0,-3.0
+4047,Epithelial / tumor · Cycling,0.6875447,-3.0
+4066,Epithelial / tumor,0.037732564,1.4268692
+4069,Epithelial / tumor,0.6376619,-3.0
+4071,Epithelial / tumor,0.62632424,-3.0
+4080,Epithelial / tumor,-3.0,-3.0
+4085,Epithelial / tumor,0.02421046,-3.0
+4121,Epithelial / tumor · Cycling,2.2032204,0.98281306
+4129,Epithelial / tumor,-0.1463219,0.7576064
+4133,Epithelial / tumor,0.055170096,0.3886749
+4142,Epithelial / tumor,-0.17217454,1.0446626
+4145,Epithelial / tumor · Cycling,2.4496708,-3.0
+4146,Epithelial / tumor,-0.03226167,0.9350281
+4147,Epithelial / tumor,-0.1901141,-3.0
+4150,Epithelial / tumor,-0.15064764,-3.0
+4153,Epithelial / tumor,0.3174989,-3.0
+4155,Epithelial / tumor,0.3962574,1.3654826
+4158,Epithelial / tumor · Cycling,2.7442625,-3.0
+4160,Epithelial / tumor,-3.0,-3.0
+4166,Epithelial / tumor,0.32467023,-3.0
+4169,Epithelial / tumor,-0.08473248,0.92966187
+4170,Epithelial / tumor,-0.027960617,0.7698905
+4174,Epithelial / tumor · Cycling,1.1770599,0.43464136
+4176,Epithelial / tumor,-3.0,-3.0
+4179,Epithelial / tumor,0.11508292,-3.0
+4180,Epithelial / tumor,0.31371126,-3.0
+4203,Epithelial / tumor,-0.20572673,1.4306815
+4209,Epithelial / tumor,-3.0,-3.0
+4211,Epithelial / tumor,-0.13858202,0.6455859
+4214,Epithelial / tumor · Cycling,0.7024847,-3.0
+4217,Epithelial / tumor · Cycling,0.94564235,-3.0
+4219,Epithelial / tumor,0.10863013,-3.0
+4220,Epithelial / tumor · Cycling,1.0146554,-3.0
+4221,Epithelial / tumor,0.046801463,-3.0
+4224,Epithelial / tumor · Cycling,1.9333332,-3.0
+4236,Epithelial / tumor · Cycling,2.3693812,-3.0
+4237,Epithelial / tumor,0.0040741414,-3.0
+4240,Epithelial / tumor · Cycling,0.8774798,-3.0
+4241,Epithelial / tumor · Cycling,0.7795343,0.65311587
+4246,Epithelial / tumor,-3.0,-3.0
+4250,Epithelial / tumor · Cycling,1.0784023,0.49479017
+4255,Epithelial / tumor,-3.0,-3.0
+4257,Epithelial / tumor,0.36796862,-3.0
+4260,Epithelial / tumor,-3.0,-3.0
+4266,Epithelial / tumor,-0.048731487,0.8351372
+4269,Epithelial / tumor,0.6301147,-3.0
+4270,Epithelial / tumor,-3.0,-3.0
+4277,Epithelial / tumor · Cycling,0.7920059,-3.0
+4284,Epithelial / tumor,0.1566601,1.2
+4297,Epithelial / tumor,-3.0,-3.0
+4298,Epithelial / tumor,-3.0,-3.0
+4309,Epithelial / tumor,0.75049937,1.0357453
+4311,Epithelial / tumor,0.42699113,-3.0
+4313,Epithelial / tumor,0.3718552,0.8440129
+4317,Epithelial / tumor,0.40935397,-3.0
+4318,Epithelial / tumor · Cycling,2.00934,-3.0
+4319,Epithelial / tumor,-0.062954605,-3.0
+4320,Epithelial / tumor,0.3495509,-3.0
+4324,Epithelial / tumor · Cycling,1.5073113,0.60813826
+4337,Epithelial / tumor,0.19637099,-3.0
+4338,Epithelial / tumor,0.030066982,-3.0
+4342,Epithelial / tumor,0.4974733,-3.0
+4348,Epithelial / tumor,0.30472285,-3.0
+4349,Epithelial / tumor,0.49984854,-3.0
+4351,Epithelial / tumor,-3.0,-3.0
+4354,Epithelial / tumor,0.56632864,-3.0
+4365,Epithelial / tumor,0.4957048,-3.0
+4366,Epithelial / tumor,-3.0,-3.0
+4368,Epithelial / tumor,-0.094981596,-3.0
+4371,Epithelial / tumor,0.44470897,-3.0
+4373,Epithelial / tumor,0.27548298,-3.0
+4378,Epithelial / tumor,-3.0,-3.0
+4393,Epithelial / tumor,-0.1805312,1.3478935
+4394,Epithelial / tumor · Cycling,2.1453104,-3.0
+4396,Epithelial / tumor,0.42583182,-3.0
+4403,Epithelial / tumor,-3.0,-3.0
+4410,Epithelial / tumor,0.054804336,-3.0
+4411,Epithelial / tumor,-0.069617465,-3.0
+4420,Epithelial / tumor,-3.0,-3.0
+4426,Epithelial / tumor,-3.0,-3.0
+4427,Epithelial / tumor · Cycling,1.6161162,-3.0
+4428,Epithelial / tumor,-0.017960548,-3.0
+4432,Epithelial / tumor,0.536481,-3.0
+4433,Epithelial / tumor,-3.0,-3.0
+4435,Epithelial / tumor · Cycling,2.3179553,-3.0
+4436,Epithelial / tumor,-3.0,-3.0
+4438,Epithelial / tumor,-3.0,-3.0
+4445,Epithelial / tumor,-3.0,-3.0
+4462,Epithelial / tumor · Cycling,0.65333694,-3.0
+4501,Epithelial / tumor,-3.0,-3.0
+4525,Epithelial / tumor,-3.0,-3.0
+4560,Epithelial / tumor,-3.0,-3.0
+4562,Epithelial / tumor,-3.0,-3.0
+4583,Epithelial / tumor,-3.0,-3.0
+4597,Epithelial / tumor,0.4326186,-3.0
+4607,Epithelial / tumor,-3.0,-3.0
+4608,Epithelial / tumor,-3.0,-3.0
+4618,Epithelial / tumor,-0.17021489,-3.0
+4643,Epithelial / tumor · Cycling,0.6913516,-3.0
+4660,Epithelial / tumor · Cycling,0.8166853,-3.0
+4665,Epithelial / tumor · Cycling,2.4454966,-3.0
+4672,Epithelial / tumor · Cycling,0.72874564,-3.0
+4699,Epithelial / tumor,-3.0,-3.0
+4704,Epithelial / tumor · Cycling,1.0071434,-3.0
+4712,Epithelial / tumor · Cycling,2.665762,-3.0
+4715,Epithelial / tumor,0.044258192,-3.0
+4738,Epithelial / tumor · Cycling,1.2302668,-3.0
+4755,Epithelial / tumor,-3.0,-3.0
+4766,Epithelial / tumor,-3.0,-3.0
+4809,Epithelial / tumor · Cycling,1.3527938,-3.0
+4821,Epithelial / tumor,-3.0,-3.0
+4828,Epithelial / tumor,0.10010535,-3.0
+4836,Epithelial / tumor · Cycling,2.7637572,-3.0
+4855,Epithelial / tumor,0.066146135,-3.0
+4860,Epithelial / tumor,0.6990611,1.131285
+4862,Epithelial / tumor,0.07380918,-3.0
+4890,Epithelial / tumor · Cycling,1.5345787,-3.0
+4910,Epithelial / tumor,-3.0,-3.0
+4923,Epithelial / tumor,0.08180341,-3.0
+4926,Epithelial / tumor,0.48298648,-3.0
+4937,Epithelial / tumor · Cycling,1.685423,0.5798404
+4940,Epithelial / tumor,-3.0,-3.0
+4956,Epithelial / tumor,-0.022387102,0.70928085
+4966,Epithelial / tumor,-3.0,-3.0
+4986,Epithelial / tumor,-3.0,-3.0
+5009,Epithelial / tumor,-3.0,-3.0
+5042,Epithelial / tumor · Cycling,0.7377186,-3.0
+5056,Epithelial / tumor,0.20961048,-3.0
+5090,Epithelial / tumor,-3.0,-3.0
+5096,Epithelial / tumor · Cycling,2.390364,-3.0
+5103,Epithelial / tumor,-3.0,-3.0
+5109,Epithelial / tumor,-3.0,-3.0
+5149,Epithelial / tumor,-3.0,-3.0
+5151,Epithelial / tumor · Cycling,0.7029366,-3.0
+5154,Epithelial / tumor,-3.0,-3.0
+5155,Epithelial / tumor,0.029465854,-3.0
+5171,Epithelial / tumor · Cycling,2.1669827,-3.0
+5180,Epithelial / tumor,-0.21085158,-3.0
+5194,Epithelial / tumor,0.2142511,-3.0
+5236,Epithelial / tumor,0.57511675,-3.0
+5262,Epithelial / tumor,0.44767368,1.0489781
+5283,Epithelial / tumor · Cycling,1.0294541,-3.0
+5337,Epithelial / tumor,-3.0,-3.0
+5368,Epithelial / tumor,0.46420947,-3.0
+5443,Epithelial / tumor,-3.0,-3.0
+5448,Epithelial / tumor,-3.0,-3.0
+5467,Epithelial / tumor · Cycling,2.440304,-3.0
+5544,Epithelial / tumor,0.071468554,-3.0
+5610,Epithelial / tumor,-3.0,-3.0
+5617,Epithelial / tumor · Cycling,0.8921876,-3.0
+5618,Epithelial / tumor · Cycling,2.45063,-3.0
+5621,Epithelial / tumor · Cycling,1.8100302,-3.0
+5657,Epithelial / tumor,-3.0,-3.0
+5674,Epithelial / tumor,-3.0,-3.0
+5677,Epithelial / tumor · Cycling,1.962278,-3.0
+5687,Epithelial / tumor,0.11126698,0.86985743
+5692,Epithelial / tumor,0.6099601,-3.0
+5716,Epithelial / tumor · Cycling,2.404019,-3.0
+5722,Epithelial / tumor,-3.0,-3.0
+5745,Epithelial / tumor · Cycling,0.81745964,-3.0
+5820,Epithelial / tumor · Cycling,1.7123042,-3.0
+5823,Epithelial / tumor · Cycling,1.3613334,-3.0
+5911,Epithelial / tumor,-3.0,-3.0
+5916,Epithelial / tumor · Cycling,1.6817646,-3.0
+5931,Epithelial / tumor · Cycling,0.72068805,-3.0
+5937,Epithelial / tumor,-3.0,-3.0
+5941,Epithelial / tumor · Cycling,1.8870043,-3.0
+5969,Epithelial / tumor,-3.0,1.2
+5990,Epithelial / tumor · Cycling,1.7068852,-3.0
+5991,Epithelial / tumor · Cycling,1.3081694,-3.0
+5994,Epithelial / tumor,-3.0,-3.0
+6013,Epithelial / tumor · Cycling,1.8811626,-3.0
+6047,Epithelial / tumor,-3.0,-3.0
+6048,Epithelial / tumor,-3.0,-3.0
+6050,Epithelial / tumor · Cycling,2.755451,-3.0
+6055,Epithelial / tumor · Cycling,2.027781,-3.0
+6091,Epithelial / tumor · Cycling,1.8528785,-3.0
+6096,Epithelial / tumor,-3.0,-3.0
+6100,Epithelial / tumor,-3.0,-3.0
+6117,Epithelial / tumor,-3.0,-3.0
+6125,Epithelial / tumor · Cycling,0.89362216,-3.0
+6127,Epithelial / tumor,-3.0,-3.0
+6159,Epithelial / tumor · Cycling,1.9225385,-3.0

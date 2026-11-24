@@ -1,0 +1,3 @@
+node_id,label,score_Cycling,score_Cytotoxic markers,score_IFN-response markers,score_Stress-response markers,score_ECM-remodeling markers
+2,Endothelial / vascular,-0.34858274,-0.13165314,0.0667325,-0.16895716,-0.2813415
+13,Endothelial / vascular,0.34858266,0.13165326,-0.066732414,0.16895717,0.28134143

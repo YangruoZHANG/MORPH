@@ -8,7 +8,7 @@ Private manuscript baseline for the multi-origin, root-conditioned trajectory fo
 | [modules/candidate_contacts/](modules/candidate_contacts/) | Descriptive cross-tree contact kernel, run entry point and archived comparison tables |
 | [benchmark/](benchmark/) | Supplied-root branch/state benchmark code, 1,000 simulation metric records and one complete synthetic scoring fixture |
 | [results/](results/) | Frozen breast state and edge tables, biological programme results and seven-dataset supplementary tables |
-| [figures/](figures/) | Approved manuscript figures 1–6 and seven-dataset supplementary figures B and C |
+| [figures/](figures/) | Approved manuscript and supplementary artwork. Large originals are stored in [archive/](archive/). |
 
 ## Version and evidence
 
@@ -32,3 +32,7 @@ python benchmark/reproduce.py scores --limit 1
 The first check reaggregates the archived 1,000-dataset results. The second regenerates the synthetic fixture and checks its count matrix and spatial coordinates. The third recomputes eight metrics from the fixture's truth and archived predictions. Full benchmark inference and real-data reconstruction require additional files. See [data availability](DATA_AVAILABILITY.md) and the [exact input manifest](external_inputs.csv).
 
 [Source provenance](SOURCE_PROVENANCE.csv) maps copied files to their source paths and hashes. [SHA-256 inventory](SHA256SUMS.txt) covers the versioned payload. The author order in [software citation metadata](CITATION.cff) follows the manuscript. Public release terms and the final persistent identifier are pending.
+
+## Restore the original large files
+
+Run `python restore_artifacts.py` from the repository root. It joins the parts and checks the original SHA-256 for each archived file. The output under `restored_artifacts/` contains the exact original PNG, PDF and CSV bytes at their documented relative paths. The small files and remaining figure originals are available directly. See [archive manifest](archive/manifest.json).

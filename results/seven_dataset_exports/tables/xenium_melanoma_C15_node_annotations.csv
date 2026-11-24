@@ -1,0 +1,641 @@
+node_id,label,score_Cycling,score_Cytotoxic markers,score_ECM-remodeling markers
+0,Stromal / fibroblast · ECM-remodeling markers,-3.0,-3.0,0.88817835
+3,Stromal / fibroblast,-0.039623227,0.7880513,-0.22576384
+11,Stromal / fibroblast,0.1309695,0.75689405,0.6928619
+14,Stromal / fibroblast,-0.07421962,0.42700148,-0.48447654
+16,Stromal / fibroblast,-0.114999,0.556486,-0.06123205
+17,Stromal / fibroblast,-0.059696175,0.72280276,-0.34886122
+20,Stromal / fibroblast,-0.06949305,0.8015507,-0.09836474
+26,Stromal / fibroblast,-0.08303371,0.5689187,0.20339501
+30,Stromal / fibroblast,-0.0018726317,0.31733906,0.24625911
+31,Stromal / fibroblast,0.06730914,0.097521916,0.18284643
+33,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.3882994,0.7404657
+35,Stromal / fibroblast,0.048943326,1.8729613,-0.3609845
+39,Stromal / fibroblast,-0.112057745,0.37902093,0.32349396
+41,Stromal / fibroblast,0.035705186,0.17118903,0.22653514
+42,Stromal / fibroblast,-3.0,0.2586422,0.540359
+46,Stromal / fibroblast,-0.13855337,0.05218904,-0.32193506
+63,Stromal / fibroblast,-0.059037685,0.38182998,0.641548
+64,Stromal / fibroblast · Cycling,1.6035107,1.2977808,0.006037697
+67,Stromal / fibroblast,0.1650807,0.5324146,0.59385437
+68,Stromal / fibroblast,-0.09640704,0.30274996,0.40504748
+69,Stromal / fibroblast,-0.1405304,0.24885714,-0.6449392
+73,Stromal / fibroblast,0.051059227,0.511881,0.3782762
+75,Stromal / fibroblast,0.015837304,0.55257255,0.065118216
+76,Stromal / fibroblast,-0.051863074,1.2000165,-0.20490697
+77,Stromal / fibroblast,-0.10960284,0.47855815,-0.2828171
+84,Stromal / fibroblast · ECM-remodeling markers,0.058534313,0.259175,0.8920484
+85,Stromal / fibroblast,-0.027594773,0.8449934,0.17619734
+87,Stromal / fibroblast · Cycling,1.0152956,0.36393625,-0.050850455
+94,Stromal / fibroblast,-0.07263604,0.73255205,-0.18598568
+95,Stromal / fibroblast · ECM-remodeling markers,0.3571353,0.36053258,0.7120892
+100,Stromal / fibroblast,0.06566608,0.2736724,0.006548358
+101,Stromal / fibroblast,-0.10421538,0.38859886,0.46011522
+103,Stromal / fibroblast,-0.11743848,1.2187358,-0.40014943
+105,Stromal / fibroblast · Cycling,0.8873112,0.012731205,-0.43029973
+106,Stromal / fibroblast · ECM-remodeling markers,0.14591153,0.4923586,0.68120533
+107,Stromal / fibroblast,0.028229564,2.0729241,-0.08639418
+109,Stromal / fibroblast,-0.057455376,0.3071906,0.6255852
+114,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.50648284,0.6673262
+116,Stromal / fibroblast,0.012358554,1.254733,0.036275823
+120,Stromal / fibroblast,-0.10297936,0.39877614,0.03657511
+134,Stromal / fibroblast,0.08815187,0.40082473,-0.07979948
+138,Stromal / fibroblast,0.3638604,0.05808294,-0.066804715
+140,Stromal / fibroblast,-3.0,-0.28839064,0.029619783
+141,Stromal / fibroblast,0.037849214,0.31436032,-0.56852317
+142,Stromal / fibroblast,-3.0,0.6244847,-0.1909158
+144,Stromal / fibroblast,-0.04068317,0.2827594,0.4153623
+145,Stromal / fibroblast,-0.081586756,0.81715,-0.5020837
+146,Stromal / fibroblast · ECM-remodeling markers,0.655599,0.4445901,0.79760665
+147,Stromal / fibroblast,0.244737,0.11170702,-0.5699549
+150,Stromal / fibroblast,-0.10049425,0.68399465,-0.11819826
+151,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.26010507,0.8278084
+152,Stromal / fibroblast,0.06446594,0.20058727,-0.516939
+155,Stromal / fibroblast,-0.022374276,0.39365998,-0.2178096
+156,Stromal / fibroblast,-0.08709429,0.63410074,-0.50410116
+157,Stromal / fibroblast,-0.106556416,0.40686026,-0.5715261
+160,Stromal / fibroblast,0.12142687,0.19053718,0.35366702
+161,Stromal / fibroblast,-3.0,0.64888763,-0.16074303
+164,Stromal / fibroblast,0.03393139,1.9528437,-0.1761357
+165,Stromal / fibroblast,0.10521811,0.3690138,-0.6217833
+166,Stromal / fibroblast · Cycling,1.0126328,0.07816075,-0.48105738
+167,Stromal / fibroblast,-0.11660212,0.59064734,-0.63357854
+168,Stromal / fibroblast,0.15237077,0.41123733,0.32496813
+170,Stromal / fibroblast,-0.021686697,0.69753253,-0.1802767
+172,Stromal / fibroblast,-3.0,0.08504219,-3.0
+173,Stromal / fibroblast,-0.116834134,0.047934603,-0.52126133
+174,Stromal / fibroblast,0.001094599,0.010834828,0.11824179
+176,Stromal / fibroblast,0.006731758,0.72852653,-0.18189655
+178,Stromal / fibroblast,0.004983399,0.46730638,-0.36245617
+180,Stromal / fibroblast · Cycling,2.7373018,0.64996946,-0.29293066
+181,Stromal / fibroblast,0.09217525,0.97622937,-0.19770989
+183,Stromal / fibroblast,0.08136132,0.059356637,-0.17926678
+184,Stromal / fibroblast,0.29544097,0.251882,-0.3813205
+185,Stromal / fibroblast,0.17792115,0.5800686,-0.07486858
+186,Stromal / fibroblast,-0.047123868,0.48622942,-0.72798985
+190,Stromal / fibroblast,0.028676998,0.82289255,-3.0
+197,Stromal / fibroblast,-3.0,-3.0,-3.0
+208,Stromal / fibroblast,-0.040752124,0.44792604,-0.32097557
+229,Stromal / fibroblast,0.09082486,0.6003097,-0.08567303
+258,Stromal / fibroblast,-0.014328573,1.2868621,-0.47326803
+261,Stromal / fibroblast,0.051322505,0.1696097,-0.36932454
+263,Stromal / fibroblast,-0.075569786,0.42245856,-0.47768193
+264,Stromal / fibroblast,-0.09124621,0.8318221,-0.4136649
+274,Stromal / fibroblast,-0.009608621,0.3521435,0.41273332
+278,Stromal / fibroblast,0.003730934,0.60941875,-0.5099585
+279,Stromal / fibroblast,-0.13244858,-0.109923564,-0.55457604
+289,Stromal / fibroblast,-0.06202985,0.460258,-0.012571484
+290,Stromal / fibroblast,-0.05969578,0.4911788,0.033243462
+291,Stromal / fibroblast,-0.05067004,0.23465964,-0.307579
+300,Stromal / fibroblast · ECM-remodeling markers,0.0399319,0.14077541,0.7067745
+301,Stromal / fibroblast,-0.054808043,0.105346404,-0.4931351
+302,Stromal / fibroblast,0.058352046,-0.33415124,-3.0
+304,Stromal / fibroblast,0.010522189,0.044826563,-0.3292218
+305,Stromal / fibroblast,0.10308244,0.084903784,-0.43404666
+306,Stromal / fibroblast,-0.099962056,0.17419434,-0.3305429
+308,Stromal / fibroblast,-3.0,-0.0556551,-0.22866584
+309,Stromal / fibroblast,-0.086920284,0.08220005,-0.16069944
+311,Stromal / fibroblast,0.15583475,0.06803321,0.353697
+312,Stromal / fibroblast,-0.18991534,-0.32698965,-0.53631306
+314,Stromal / fibroblast,-3.0,-0.21373531,-0.1857705
+315,Stromal / fibroblast,-0.07976802,0.6907979,-0.076912895
+322,Stromal / fibroblast,-0.11446487,0.66680855,0.46216655
+323,Stromal / fibroblast,-0.08150707,1.8052571,-0.26775736
+326,Stromal / fibroblast,-0.01417304,0.5723609,-0.5150528
+327,Stromal / fibroblast,-0.090515815,0.5405966,-0.16229048
+330,Stromal / fibroblast · ECM-remodeling markers,-0.07807155,0.4220546,0.7160321
+331,Stromal / fibroblast,-0.12975934,2.110143,-0.17536569
+342,Stromal / fibroblast,-0.005054651,1.5037346,0.570559
+348,Stromal / fibroblast,0.16606557,0.79334706,-0.07041494
+349,Stromal / fibroblast,-0.08218778,0.6025709,-0.31862932
+351,Stromal / fibroblast,0.01355117,2.1289144,0.49441206
+352,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.36429626,0.7335558
+355,Stromal / fibroblast,0.21115038,0.72622377,0.34730852
+357,Stromal / fibroblast,0.11732956,1.4969637,0.13477857
+360,Stromal / fibroblast,-3.0,-3.0,-3.0
+365,Stromal / fibroblast,-3.0,0.50652754,0.622037
+368,Stromal / fibroblast,0.26374218,0.29643238,-0.38330674
+369,Stromal / fibroblast · ECM-remodeling markers,0.0729224,0.35150072,1.0515938
+370,Stromal / fibroblast,-0.054946072,0.6281892,0.13917375
+372,Stromal / fibroblast,-3.0,0.3435532,0.59486693
+373,Stromal / fibroblast,0.29366875,0.20103982,-0.027120784
+377,Stromal / fibroblast,-0.0597362,0.08926073,-0.022607893
+378,Stromal / fibroblast,-0.0031813607,0.42020908,0.10184362
+382,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.16365209,0.7316935
+389,Stromal / fibroblast,-0.029458215,0.4396285,-0.40119863
+391,Stromal / fibroblast,0.011796054,1.1439955,-0.24840258
+392,Stromal / fibroblast,-0.019141315,2.0401685,0.74921876
+425,Stromal / fibroblast,0.017620986,0.67237514,-0.090207875
+427,Stromal / fibroblast,-0.055558816,0.36518785,0.5631435
+428,Stromal / fibroblast,-3.0,0.78821677,-3.0
+442,Stromal / fibroblast,0.04349866,0.68194044,-0.3315327
+453,Stromal / fibroblast,0.2530889,1.2873747,0.012694679
+456,Stromal / fibroblast,-0.16286975,0.40434724,-0.38106066
+461,Stromal / fibroblast · ECM-remodeling markers,0.44489688,0.4650635,0.8240273
+463,Stromal / fibroblast · Cycling,1.3721962,0.9749319,-0.162948
+464,Stromal / fibroblast,0.007865642,1.2721372,0.665514
+465,Stromal / fibroblast,0.18462497,0.51732606,0.18965784
+467,Stromal / fibroblast,-3.0,0.18287304,-0.27670553
+468,Stromal / fibroblast,-3.0,0.5629982,-3.0
+478,Stromal / fibroblast · Cycling,0.84847975,0.036482148,-0.3039366
+493,Stromal / fibroblast,-3.0,-0.31238312,-3.0
+494,Stromal / fibroblast,-0.0341047,-0.016953211,-0.5756621
+495,Stromal / fibroblast,-0.19566715,-0.2126493,-0.4321543
+497,Stromal / fibroblast,0.09037003,0.07622242,-0.48272875
+498,Stromal / fibroblast,-3.0,-0.044814497,-3.0
+499,Stromal / fibroblast,-3.0,-3.0,-3.0
+501,Stromal / fibroblast,0.6171983,0.35168332,-0.29021424
+509,Stromal / fibroblast,-3.0,-0.14828049,-3.0
+512,Stromal / fibroblast,-0.04766594,0.02164463,-0.47436765
+513,Stromal / fibroblast,0.23764157,0.16603068,0.34755686
+520,Stromal / fibroblast,-0.032699663,0.05381023,-0.29170632
+565,Stromal / fibroblast,0.0761088,0.0958782,0.3291893
+630,Stromal / fibroblast · ECM-remodeling markers,0.008193641,0.6555689,0.8538274
+633,Stromal / fibroblast · Cycling,2.1364446,0.20608869,-0.062922515
+638,Stromal / fibroblast · Cycling,0.7261219,-0.04867594,0.45389596
+642,Stromal / fibroblast,0.5140013,-0.10823381,-0.6931679
+685,Stromal / fibroblast · ECM-remodeling markers,0.14615683,0.63367337,0.78521526
+693,Stromal / fibroblast,-0.005952604,0.49165145,-0.105989024
+699,Stromal / fibroblast,-0.017662749,0.36021227,0.52026105
+752,Stromal / fibroblast · Cycling,1.6963136,-3.0,0.031076819
+754,Stromal / fibroblast · Cycling,1.6068499,-0.10389435,-0.7560618
+758,Stromal / fibroblast,0.4561614,0.29267433,0.32917756
+759,Stromal / fibroblast · ECM-remodeling markers,0.03553657,0.59984016,0.78541565
+761,Stromal / fibroblast,0.10615024,0.24347904,0.5878167
+763,Stromal / fibroblast,-3.0,-0.103850044,0.5412502
+812,Stromal / fibroblast · Cycling,1.5501161,-0.20483334,-0.11430543
+833,Stromal / fibroblast · ECM-remodeling markers,0.027649239,0.46037585,0.9183945
+844,Stromal / fibroblast,0.12814045,0.69366896,0.11467848
+856,Stromal / fibroblast · Cycling,2.6825967,-3.0,-0.19638309
+862,Stromal / fibroblast · Cycling,1.1759356,-0.22643061,-0.63754463
+871,Stromal / fibroblast,0.44750565,0.044005465,0.2906666
+875,Stromal / fibroblast · Cycling,2.0188,-0.19645122,-0.43977836
+876,Stromal / fibroblast · Cycling,0.7031929,-0.22651334,-0.3172701
+878,Stromal / fibroblast · Cycling,0.93759894,-0.32239288,-0.36891115
+898,Stromal / fibroblast · Cycling,2.3636682,-3.0,-3.0
+899,Stromal / fibroblast,-0.12986693,-0.23058137,-0.45727852
+903,Stromal / fibroblast,-0.04737433,2.3691664,-0.48341084
+907,Stromal / fibroblast,-0.101384096,0.29213458,-3.0
+909,Stromal / fibroblast,-0.1522747,0.23405707,-3.0
+937,Stromal / fibroblast · Cycling,1.5828378,-3.0,-0.4001991
+959,Stromal / fibroblast · Cycling,1.0452255,-0.19649513,-0.747951
+970,Stromal / fibroblast · Cycling,1.9589105,-0.25292644,-0.095784634
+973,Stromal / fibroblast · Cycling,1.3995204,-0.19186978,-0.4018808
+975,Stromal / fibroblast · Cycling,0.74722147,-3.0,-0.21048234
+999,Stromal / fibroblast · Cycling,1.3059937,0.011280214,-0.049598865
+1067,Stromal / fibroblast · Cycling,2.2442021,-3.0,-0.5221395
+1074,Stromal / fibroblast · Cycling,1.0814501,-0.23706862,-0.63654596
+1076,Stromal / fibroblast,0.304224,0.15145627,0.648902
+1083,Stromal / fibroblast · ECM-remodeling markers,0.0061874706,0.6011322,0.7634006
+1086,Stromal / fibroblast · Cycling,1.1069485,-0.23987441,-0.28481168
+1089,Stromal / fibroblast · Cycling,0.7013342,-0.32781625,-0.02335155
+1091,Stromal / fibroblast,0.21317264,-0.07731665,-0.57471716
+1096,Stromal / fibroblast · Cycling,1.3750308,-0.32899046,-0.027549773
+1124,Stromal / fibroblast · Cycling,2.4220166,1.4286355,0.2024446
+1142,Stromal / fibroblast,0.07177119,0.52314454,-0.7480084
+1143,Stromal / fibroblast,-0.07311277,2.0479147,-0.2939522
+1150,Stromal / fibroblast,0.20998679,0.41557965,0.029595817
+1152,Stromal / fibroblast,0.07468729,1.3957412,0.63355815
+1169,Stromal / fibroblast · ECM-remodeling markers,0.04268106,0.3210247,0.9220297
+1184,Stromal / fibroblast · Cycling,0.82030445,0.045336485,0.58577436
+1209,Stromal / fibroblast · ECM-remodeling markers,0.088854834,0.9347623,1.0922636
+1223,Stromal / fibroblast,-0.0023449995,0.5259408,0.25473082
+1224,Stromal / fibroblast,0.20395398,0.5012524,0.31640053
+1229,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.01676538,0.6803564
+1239,Stromal / fibroblast,0.30059046,-0.014985919,-3.0
+1241,Stromal / fibroblast,0.05865168,-0.120186016,-0.3375667
+1242,Stromal / fibroblast,-3.0,-3.0,-3.0
+1243,Stromal / fibroblast,-0.10324016,-0.2688068,-3.0
+1245,Stromal / fibroblast,-3.0,-0.23684725,-0.27297616
+1246,Stromal / fibroblast,-0.06195858,0.0005024612,-0.44525558
+1254,Stromal / fibroblast,0.32872987,-0.045384616,-0.6624388
+1255,Stromal / fibroblast,0.5582214,0.024875533,-0.19534211
+1262,Stromal / fibroblast,0.63870174,-0.3187487,-0.35970902
+1276,Stromal / fibroblast,0.45837647,-0.21174474,-0.50887865
+1278,Stromal / fibroblast · Cycling,1.1016139,-0.31738946,-0.7116811
+1294,Stromal / fibroblast · Cycling,2.6813948,-0.15739924,-0.050854534
+1309,Stromal / fibroblast · Cycling,0.8107616,0.14812768,-0.5082247
+1326,Stromal / fibroblast · Cycling,1.6440649,0.009614354,0.44889325
+1338,Stromal / fibroblast · Cycling,1.3815867,-0.29120052,-0.48179916
+1341,Stromal / fibroblast · Cycling,1.320894,-0.16689324,-0.03584154
+1344,Stromal / fibroblast · Cycling,1.6841747,-0.11210668,-0.9177053
+1368,Stromal / fibroblast · Cycling,1.0206211,-0.19184934,0.54909366
+1371,Stromal / fibroblast · Cycling,0.9442375,-3.0,-0.34405923
+1385,Stromal / fibroblast · Cycling,0.94727373,-0.07824111,-0.11028071
+1387,Stromal / fibroblast · Cycling,1.0382694,0.1126439,-0.74175805
+1394,Stromal / fibroblast · Cycling,1.7805744,-0.25824428,-3.0
+1398,Stromal / fibroblast · Cycling,0.9726585,-3.0,-0.82823515
+1401,Stromal / fibroblast · ECM-remodeling markers,0.40632927,-3.0,1.0590582
+1414,Stromal / fibroblast,0.625478,0.059919417,-0.20457733
+1418,Stromal / fibroblast · Cycling,1.0501312,-0.29633033,-0.7723475
+1421,Stromal / fibroblast · Cycling,2.0828216,-0.333849,0.024707943
+1428,Stromal / fibroblast · ECM-remodeling markers,0.29301184,0.080404535,0.7790842
+1430,Stromal / fibroblast · Cycling,0.9241425,0.300229,0.34545213
+1434,Stromal / fibroblast · Cycling,0.92167187,-3.0,-0.57938194
+1435,Stromal / fibroblast,-0.016404662,1.0198424,0.59745514
+1476,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.19973955,0.7242867
+1477,Stromal / fibroblast,0.22902326,0.20595706,-0.6006455
+1493,Stromal / fibroblast,-0.029825356,0.8284625,0.69998705
+1495,Stromal / fibroblast,0.33910015,0.12498108,-0.8344116
+1502,Stromal / fibroblast · ECM-remodeling markers,0.10525896,0.48130393,0.6757821
+1505,Stromal / fibroblast,0.23834935,0.34624234,-0.20747028
+1514,Stromal / fibroblast,0.2231918,1.5546618,0.8595408
+1517,Stromal / fibroblast,0.23638803,0.4178279,-0.8756114
+1529,Stromal / fibroblast · Cycling,1.6233742,-0.3656149,-0.5704369
+1535,Stromal / fibroblast · Cycling,1.0090606,-0.26050454,-0.76055884
+1542,Stromal / fibroblast,0.12619942,0.50517327,0.6057169
+1548,Stromal / fibroblast,-3.0,0.084081754,-0.058729254
+1549,Stromal / fibroblast,0.2153055,0.36862594,-0.25498992
+1550,Stromal / fibroblast,-3.0,-0.03441485,-0.43272743
+1552,Stromal / fibroblast,0.028162545,0.15850332,-0.62660486
+1553,Stromal / fibroblast,-3.0,0.062486924,-3.0
+1557,Stromal / fibroblast,-0.0981864,-0.19274338,-0.20096591
+1565,Stromal / fibroblast · Cycling,2.1958153,0.6166221,-0.06808136
+1571,Stromal / fibroblast · Cycling,0.6878928,-3.0,-0.74421495
+1577,Stromal / fibroblast · Cycling,1.727562,-0.27535397,-1.0222962
+1579,Stromal / fibroblast · Cycling,2.3539963,0.049898755,-0.36529148
+1602,Stromal / fibroblast,-0.059043005,0.105975114,0.054314762
+1604,Stromal / fibroblast · Cycling,1.0276136,0.19438182,-0.20410363
+1605,Stromal / fibroblast,-3.0,1.0425167,0.33075273
+1606,Stromal / fibroblast,-3.0,0.09323075,-0.0008544326
+1607,Stromal / fibroblast,-0.12530635,-0.22169003,-0.3172067
+1608,Stromal / fibroblast,-3.0,-3.0,-0.40506417
+1609,Stromal / fibroblast,0.030201815,0.3188195,-0.5857072
+1610,Stromal / fibroblast,0.034842767,-0.03470333,-0.49941242
+1616,Stromal / fibroblast · Cycling,1.6055813,0.07368514,-3.0
+1632,Stromal / fibroblast,-3.0,1.2865661,-0.438578
+1635,Stromal / fibroblast,0.064052634,0.5729616,-0.30370003
+1637,Stromal / fibroblast · Cycling,1.0958517,0.31340218,0.12622526
+1638,Stromal / fibroblast · Cycling,1.1544502,0.9317091,-0.115522735
+1644,Stromal / fibroblast · ECM-remodeling markers,0.571751,0.069018565,0.8642217
+1652,Stromal / fibroblast,-0.027499367,0.97206086,-0.20525871
+1654,Stromal / fibroblast,0.12236396,0.3594452,-0.5736519
+1663,Stromal / fibroblast,0.31280857,0.9080862,-0.14071663
+1664,Stromal / fibroblast,-3.0,0.570306,-0.9685776
+1670,Stromal / fibroblast · Cycling,2.2844849,0.71607435,-0.16260368
+1671,Stromal / fibroblast,0.62618536,0.078689486,0.5681782
+1672,Stromal / fibroblast,-3.0,0.32491127,0.5828187
+1674,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.37624246,0.66510373
+1676,Stromal / fibroblast,-0.10729052,0.031870585,-0.2275017
+1677,Stromal / fibroblast · ECM-remodeling markers,0.1216469,0.2363601,0.9488847
+1678,Stromal / fibroblast · Cycling,0.9028832,-0.31867975,-0.38906488
+1681,Stromal / fibroblast,0.53866494,0.52876586,-0.38806576
+1684,Stromal / fibroblast,0.15258496,-0.16189502,-3.0
+1689,Stromal / fibroblast,0.22311993,0.20827636,-0.43645602
+1691,Stromal / fibroblast,-0.010073386,-0.13723592,-3.0
+1694,Stromal / fibroblast,-0.07661607,-0.29645383,-0.3050603
+1697,Stromal / fibroblast,-3.0,0.3785027,0.1193845
+1698,Stromal / fibroblast,-3.0,-3.0,-3.0
+1700,Stromal / fibroblast,-3.0,0.054014206,-0.41641438
+1701,Stromal / fibroblast,0.038444072,0.09632615,-0.32955918
+1702,Stromal / fibroblast,-0.13831744,0.084492885,-0.5271125
+1703,Stromal / fibroblast,-0.07190097,0.6627051,-0.17143345
+1704,Stromal / fibroblast,0.026887424,-0.11060135,0.13908535
+1706,Stromal / fibroblast,-3.0,0.22320962,0.10524851
+1707,Stromal / fibroblast,-3.0,0.21990733,0.189202
+1708,Stromal / fibroblast,0.52784455,0.17074284,-0.1557393
+1709,Stromal / fibroblast,0.26056582,-0.18897822,-0.10866362
+1712,Stromal / fibroblast,-0.12886848,-0.12201605,-0.19364819
+1714,Stromal / fibroblast,0.4794693,-3.0,-0.15765834
+1717,Stromal / fibroblast,-3.0,0.38087222,0.038976535
+1718,Stromal / fibroblast,-3.0,0.01722667,0.24799824
+1719,Stromal / fibroblast,-3.0,0.079979956,-0.12225507
+1721,Stromal / fibroblast,-3.0,-3.0,0.25481665
+1722,Stromal / fibroblast,0.20770903,0.052261997,-0.5629375
+1723,Stromal / fibroblast,-3.0,0.0075894357,0.1688735
+1728,Stromal / fibroblast,-3.0,-3.0,-0.04816471
+1730,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.0024337769,0.7815453
+1731,Stromal / fibroblast,0.10184167,-0.0011845389,0.09742379
+1732,Stromal / fibroblast,0.17543401,-0.121374145,0.19659731
+1733,Stromal / fibroblast,0.14031462,0.09064577,0.18799761
+1736,Stromal / fibroblast,0.1688525,0.13617809,0.5777229
+1737,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.25796252,0.7137656
+1739,Stromal / fibroblast · ECM-remodeling markers,-3.0,-3.0,0.86271703
+1740,Stromal / fibroblast · ECM-remodeling markers,0.03568739,0.64936227,1.0206894
+1744,Stromal / fibroblast,-0.11054298,0.7878686,0.0459491
+1745,Stromal / fibroblast · Cycling,2.645745,1.2069279,0.010692894
+1746,Stromal / fibroblast,-3.0,0.04442159,0.14665616
+1747,Stromal / fibroblast,0.4646292,-0.21650288,-0.16585708
+1748,Stromal / fibroblast,-3.0,0.1365861,0.32700035
+1751,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.53242344,0.81953275
+1753,Stromal / fibroblast,-3.0,0.12289186,0.035655037
+1754,Stromal / fibroblast,0.284059,0.10130145,0.42172655
+1755,Stromal / fibroblast,0.19017088,0.06324442,0.31034583
+1759,Stromal / fibroblast,-3.0,0.06527256,0.29620177
+1762,Stromal / fibroblast,-3.0,0.39176205,0.10346163
+1768,Stromal / fibroblast,-0.038575236,0.3641475,0.52163565
+1769,Stromal / fibroblast,-0.0731736,0.07446261,0.3176211
+1771,Stromal / fibroblast,0.39400387,0.95547354,0.28365296
+1774,Stromal / fibroblast,-3.0,0.19382985,-3.0
+1778,Stromal / fibroblast,-3.0,0.71365154,-0.44812953
+1779,Stromal / fibroblast,-3.0,0.22435561,0.049687244
+1780,Stromal / fibroblast,-3.0,-0.10223124,0.12459183
+1781,Stromal / fibroblast,-3.0,-0.13051584,-0.6772726
+1784,Stromal / fibroblast,-3.0,-0.12645121,-0.18072224
+1787,Stromal / fibroblast,-3.0,-3.0,0.11493772
+1789,Stromal / fibroblast · ECM-remodeling markers,-3.0,-0.074383035,0.67396563
+1790,Stromal / fibroblast,0.39412138,0.47312433,-0.3597628
+1791,Stromal / fibroblast · Cycling,0.9630796,0.22499442,0.287538
+1792,Stromal / fibroblast,-0.14349255,-0.21665731,-0.11933535
+1795,Stromal / fibroblast,0.31237653,0.4107923,-0.1031777
+1796,Stromal / fibroblast,0.5153352,-0.3498915,-0.17852394
+1797,Stromal / fibroblast,-3.0,-0.08333109,-0.3377885
+1798,Stromal / fibroblast,0.1791614,-3.0,-0.15122567
+1799,Stromal / fibroblast,-3.0,0.22064419,-3.0
+1803,Stromal / fibroblast,0.069813214,0.14573312,-0.15965411
+1809,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.11587243,0.8075786
+1811,Stromal / fibroblast,0.5101333,0.25355896,-0.13399968
+1812,Stromal / fibroblast,-3.0,-0.18782628,-0.14892095
+1813,Stromal / fibroblast,0.11360305,0.20879233,-0.28973514
+1814,Stromal / fibroblast,0.43864235,-3.0,-0.026995957
+1815,Stromal / fibroblast,0.6106313,-3.0,0.105982825
+1825,Stromal / fibroblast,-3.0,0.060876954,-0.3494584
+1828,Stromal / fibroblast,0.17065558,0.3755197,-3.0
+1836,Stromal / fibroblast,-3.0,1.1192379,0.5699403
+1857,Stromal / fibroblast,0.051466398,0.3790043,0.16521235
+1869,Stromal / fibroblast,0.34415537,0.9311329,0.27364078
+1871,Stromal / fibroblast · Cycling,1.5718454,0.40583992,-0.16466816
+1896,Stromal / fibroblast,0.20652351,0.5205095,-0.32763112
+1908,Stromal / fibroblast,0.11530275,0.98172104,0.5175744
+1918,Stromal / fibroblast,0.02988287,0.7203625,0.25836357
+1922,Stromal / fibroblast · Cycling,1.61647,0.033552743,-0.47859275
+1924,Stromal / fibroblast,-3.0,1.6850077,-3.0
+1926,Stromal / fibroblast,0.20861189,0.31900844,-0.18771459
+1933,Stromal / fibroblast,0.010275967,-0.042055484,-0.52000415
+1936,Stromal / fibroblast,0.5429127,-0.036850475,-3.0
+1938,Stromal / fibroblast,-3.0,0.3314042,-3.0
+1939,Stromal / fibroblast,-3.0,0.06670783,-3.0
+1940,Stromal / fibroblast,-3.0,-3.0,0.252747
+1942,Stromal / fibroblast · Cycling,0.8289777,0.4266122,-0.3260312
+1944,Stromal / fibroblast,0.5976601,0.15734139,-0.55993575
+1951,Stromal / fibroblast,0.3533578,-3.0,-0.23951522
+1952,Stromal / fibroblast,-3.0,0.62006795,0.06611571
+1953,Stromal / fibroblast,-0.038416844,-3.0,-3.0
+1959,Stromal / fibroblast,-3.0,-0.031273097,-0.46575937
+1963,Stromal / fibroblast,-3.0,0.055136763,-3.0
+1964,Stromal / fibroblast · Cycling,2.028979,1.4835836,-0.29260242
+1966,Stromal / fibroblast,-0.07789837,-0.25888404,-0.5204977
+1970,Stromal / fibroblast,-3.0,0.4885078,-3.0
+1971,Stromal / fibroblast,-3.0,-3.0,0.45865735
+1972,Stromal / fibroblast,-0.024726842,-3.0,-0.4185545
+1973,Stromal / fibroblast,-3.0,0.07367504,0.120721385
+1975,Stromal / fibroblast · Cycling,0.80094445,-3.0,-0.29421157
+1977,Stromal / fibroblast,-3.0,0.85695475,-3.0
+1979,Stromal / fibroblast,0.57197696,0.639347,-0.26969197
+1980,Stromal / fibroblast,0.13590246,0.2716182,-0.9211117
+1984,Stromal / fibroblast,-0.10635048,0.08367516,-0.15606126
+1985,Stromal / fibroblast,-3.0,-0.26587474,-0.54992056
+1986,Stromal / fibroblast,-3.0,-3.0,0.1259197
+1988,Stromal / fibroblast · Cycling,0.9405247,-0.0235958,0.043071877
+1989,Stromal / fibroblast,-0.100070626,-0.056930076,-0.25114733
+2003,Stromal / fibroblast,-3.0,0.5297517,0.36044168
+2007,Stromal / fibroblast,-3.0,1.3517684,0.20423833
+2019,Stromal / fibroblast · Cycling,1.599531,0.6734102,0.024189152
+2020,Stromal / fibroblast,-3.0,0.26282832,0.4373848
+2026,Stromal / fibroblast,0.45243925,0.062197167,-0.6570649
+2030,Stromal / fibroblast,-3.0,1.1202021,0.58002454
+2031,Stromal / fibroblast,-3.0,1.7134924,-0.33368638
+2032,Stromal / fibroblast,0.4781396,0.14394598,0.2147336
+2036,Stromal / fibroblast · ECM-remodeling markers,0.09584781,0.6084754,0.9530573
+2066,Stromal / fibroblast,-3.0,-3.0,0.48669434
+2085,Stromal / fibroblast,-3.0,-3.0,-3.0
+2088,Stromal / fibroblast,-3.0,0.33348522,-0.53507775
+2090,Stromal / fibroblast,-3.0,-0.26133388,-0.20931718
+2095,Stromal / fibroblast,0.82678396,1.092129,0.8050863
+2104,Stromal / fibroblast,-3.0,-3.0,-3.0
+2105,Stromal / fibroblast,-3.0,-3.0,-3.0
+2106,Stromal / fibroblast,0.3198923,-3.0,-0.12129924
+2107,Stromal / fibroblast,-3.0,-0.17496806,-3.0
+2108,Stromal / fibroblast,-3.0,-3.0,-0.13403137
+2110,Stromal / fibroblast · Cycling,2.2140956,0.06698315,-0.19056778
+2111,Stromal / fibroblast,-3.0,0.40039903,-0.019353658
+2115,Stromal / fibroblast,0.093217164,0.2827971,-0.7492908
+2120,Stromal / fibroblast,-3.0,-3.0,-3.0
+2121,Stromal / fibroblast,-3.0,-3.0,-0.049655184
+2122,Stromal / fibroblast,-3.0,-3.0,0.32428506
+2125,Stromal / fibroblast,-3.0,-3.0,-3.0
+2126,Stromal / fibroblast,0.28349218,0.007883417,-0.23635025
+2128,Stromal / fibroblast,-3.0,-3.0,-3.0
+2129,Stromal / fibroblast,-3.0,-3.0,-3.0
+2131,Stromal / fibroblast · Cycling,2.545288,0.01813395,-0.48540705
+2135,Stromal / fibroblast · ECM-remodeling markers,0.15108302,-0.0005488284,1.0374773
+2137,Stromal / fibroblast,-3.0,-3.0,0.24906683
+2140,Stromal / fibroblast · Cycling,2.6356006,1.2437832,0.1654685
+2142,Stromal / fibroblast,0.49463588,0.33194965,-0.71425295
+2148,Stromal / fibroblast,-3.0,-3.0,0.013139859
+2154,Stromal / fibroblast · ECM-remodeling markers,0.1757896,0.5140304,0.91843545
+2159,Stromal / fibroblast · ECM-remodeling markers,0.19213226,0.5231832,0.7614856
+2160,Stromal / fibroblast · Cycling,1.1130614,-0.066582814,0.40058562
+2172,Stromal / fibroblast · Cycling,0.8168078,-0.17550097,-0.3408535
+2173,Stromal / fibroblast,0.22160178,0.006620602,-0.6465682
+2186,Stromal / fibroblast,0.4641469,-3.0,-3.0
+2194,Stromal / fibroblast · ECM-remodeling markers,0.19614801,0.33190072,1.141196
+2197,Stromal / fibroblast,-3.0,0.098422885,-0.8519322
+2198,Stromal / fibroblast · Cycling,1.020373,0.1545387,-0.4920331
+2212,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.6166586,0.8403797
+2217,Stromal / fibroblast,-3.0,-0.016604949,-0.3394391
+2218,Stromal / fibroblast · Cycling,1.2874207,-0.33673167,0.35585755
+2223,Stromal / fibroblast,-3.0,0.3749481,-0.5242779
+2253,Stromal / fibroblast · Cycling,0.7988225,0.35822007,-0.21347062
+2258,Stromal / fibroblast,0.16241485,-0.14056286,0.48660856
+2259,Stromal / fibroblast,-3.0,0.057714283,0.35872418
+2262,Stromal / fibroblast,0.63714004,-0.30362928,-0.65484977
+2270,Stromal / fibroblast · Cycling,1.0455779,-0.083514564,-0.15620297
+2274,Stromal / fibroblast · Cycling,1.1068532,0.37767285,-0.49098545
+2280,Stromal / fibroblast · ECM-remodeling markers,-3.0,-3.0,0.8034786
+2292,Stromal / fibroblast,0.34748787,-0.08200426,-0.6789228
+2343,Stromal / fibroblast,-3.0,0.4577549,0.5031552
+2344,Stromal / fibroblast,-3.0,0.8321236,-0.5552077
+2346,Stromal / fibroblast,-3.0,-3.0,-3.0
+2350,Stromal / fibroblast · ECM-remodeling markers,0.3966692,0.036543578,0.65480083
+2361,Stromal / fibroblast,-3.0,2.0439725,0.3939243
+2365,Stromal / fibroblast,-3.0,1.0084043,0.9125719
+2390,Stromal / fibroblast,-3.0,1.3071297,0.45334202
+2392,Stromal / fibroblast,-3.0,-0.11903081,0.40205655
+2411,Stromal / fibroblast,0.34974366,-0.028451782,0.6223581
+2412,Stromal / fibroblast · ECM-remodeling markers,0.7750502,0.9266526,1.0329031
+2432,Stromal / fibroblast,0.46455142,-0.13658914,-0.7549888
+2443,Stromal / fibroblast · ECM-remodeling markers,0.44001454,-0.2906958,0.68168426
+2457,Stromal / fibroblast,0.55226123,0.06304352,0.11164018
+2464,Stromal / fibroblast,0.021577062,0.62636614,-0.18252099
+2482,Stromal / fibroblast · Cycling,1.7610457,-3.0,0.5564291
+2486,Stromal / fibroblast · Cycling,1.0124942,-0.050685324,0.28977606
+2495,Stromal / fibroblast · Cycling,1.0667977,-0.23682126,-0.17946333
+2500,Stromal / fibroblast,-3.0,0.1250116,-0.1813799
+2521,Stromal / fibroblast,0.45915693,-3.0,-0.44185585
+2523,Stromal / fibroblast,-3.0,-3.0,-3.0
+2525,Stromal / fibroblast,0.20782773,0.39171684,-0.2506597
+2527,Stromal / fibroblast,-3.0,-3.0,-3.0
+2528,Stromal / fibroblast,-3.0,-3.0,-3.0
+2530,Stromal / fibroblast,0.07606475,-0.13362598,-0.13152805
+2532,Stromal / fibroblast,-0.011108842,-0.12221165,0.14931062
+2541,Stromal / fibroblast,0.087838195,0.265937,0.42106974
+2544,Stromal / fibroblast,-3.0,-3.0,-3.0
+2545,Stromal / fibroblast,-3.0,-3.0,-0.17219287
+2552,Stromal / fibroblast,-3.0,0.45264626,-3.0
+2554,Stromal / fibroblast,-3.0,-0.15084115,-0.101423055
+2555,Stromal / fibroblast,-3.0,-0.18175688,-0.0456973
+2568,Stromal / fibroblast,-3.0,0.31692728,-3.0
+2579,Stromal / fibroblast,-3.0,-3.0,-3.0
+2581,Stromal / fibroblast,-3.0,-3.0,-3.0
+2590,Stromal / fibroblast · Cycling,1.1952748,-0.20445743,-0.6140765
+2592,Stromal / fibroblast · Cycling,1.1974268,0.1224643,-0.3600328
+2594,Stromal / fibroblast · Cycling,2.4798753,-3.0,-3.0
+2603,Stromal / fibroblast · Cycling,2.1210756,0.12737367,-0.83795875
+2612,Stromal / fibroblast · Cycling,2.1084056,-3.0,-0.6313723
+2619,Stromal / fibroblast · Cycling,1.385896,-3.0,0.24781872
+2624,Stromal / fibroblast · Cycling,0.9937347,-0.027584935,0.546893
+2634,Stromal / fibroblast · Cycling,1.171144,-3.0,-0.9487201
+2635,Stromal / fibroblast · Cycling,1.8598104,-0.28363237,0.8044903
+2657,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.062049907,1.0442784
+2658,Stromal / fibroblast · ECM-remodeling markers,0.04231202,0.7351061,1.073333
+2666,Stromal / fibroblast · Cycling,1.1274048,0.16734715,-0.6213472
+2667,Stromal / fibroblast · Cycling,1.5557694,-0.3221512,-0.3343631
+2673,Stromal / fibroblast · Cycling,0.94396925,-3.0,-0.97456884
+2678,Stromal / fibroblast,0.46514848,-0.33063692,-0.7508683
+2692,Stromal / fibroblast · Cycling,1.2380115,-3.0,-0.23755293
+2696,Stromal / fibroblast · Cycling,0.87263334,-3.0,-0.29761222
+2698,Stromal / fibroblast · Cycling,1.7036402,-3.0,-0.31891304
+2700,Stromal / fibroblast · ECM-remodeling markers,0.5389986,-0.11249454,0.8718878
+2720,Stromal / fibroblast · Cycling,1.2796156,-3.0,-0.95058066
+2722,Stromal / fibroblast · Cycling,1.7705908,0.10109963,0.6151567
+2723,Stromal / fibroblast · Cycling,1.6375196,-0.2396018,0.0057644844
+2728,Stromal / fibroblast · ECM-remodeling markers,-3.0,-0.14576228,0.8772198
+2746,Stromal / fibroblast,0.20155019,-0.06074494,0.55430025
+2751,Stromal / fibroblast,0.5577141,-3.0,-0.37175643
+2755,Stromal / fibroblast · Cycling,1.3382198,-0.35000363,-0.97330457
+2766,Stromal / fibroblast · Cycling,2.3037791,-3.0,-0.40203452
+2772,Stromal / fibroblast · Cycling,2.2413177,-0.16836378,-0.44461128
+2773,Stromal / fibroblast · Cycling,1.3768374,-0.06411074,-0.24671583
+2775,Stromal / fibroblast · Cycling,1.7334449,-3.0,-0.13153657
+2783,Stromal / fibroblast · Cycling,1.9090619,-0.09086926,0.33414826
+2789,Stromal / fibroblast · ECM-remodeling markers,0.32136595,0.15753083,1.0982795
+2801,Stromal / fibroblast,0.27712968,0.39477545,-0.02421771
+2807,Stromal / fibroblast,0.014415894,-0.123502925,-0.3957489
+2808,Stromal / fibroblast · Cycling,0.68167627,0.6113101,0.1799247
+2826,Stromal / fibroblast,-3.0,-3.0,0.44383812
+2829,Stromal / fibroblast,-3.0,-3.0,-3.0
+2847,Stromal / fibroblast,1.1867158,1.9999263,0.37374187
+2858,Stromal / fibroblast · Cycling,0.80997634,-0.17465046,-0.22504106
+2866,Stromal / fibroblast · Cycling,1.28243,0.15021762,0.4042093
+2868,Stromal / fibroblast · Cycling,1.0622437,-0.10691442,0.731097
+2875,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.36559564,0.89410317
+2879,Stromal / fibroblast · Cycling,1.1460507,-0.1468982,0.3089902
+2893,Stromal / fibroblast · Cycling,1.3675941,-3.0,0.2112139
+2901,Stromal / fibroblast · ECM-remodeling markers,-3.0,-3.0,0.85492456
+2930,Stromal / fibroblast,-3.0,0.52169675,-3.0
+2933,Stromal / fibroblast,0.22408444,-0.0684749,-0.036563933
+2934,Stromal / fibroblast,-3.0,-3.0,-3.0
+2938,Stromal / fibroblast,-3.0,-0.019089568,-0.22393534
+2948,Stromal / fibroblast · Cycling,0.9662527,-0.09344902,-3.0
+2961,Stromal / fibroblast,-3.0,0.18408762,0.015658364
+2962,Stromal / fibroblast,-3.0,-3.0,0.056159288
+2968,Stromal / fibroblast · Cycling,1.5024453,-3.0,-0.5455731
+2969,Stromal / fibroblast · Cycling,1.0451096,-0.27677715,0.046844617
+2971,Stromal / fibroblast · Cycling,1.9031682,0.09356608,-0.30705547
+2976,Stromal / fibroblast · Cycling,1.8220594,-0.2992681,-0.13802032
+2979,Stromal / fibroblast · Cycling,1.9606663,-3.0,-0.3507576
+2995,Stromal / fibroblast · Cycling,1.2478106,-0.020422459,0.75863755
+2997,Stromal / fibroblast · Cycling,1.468027,-3.0,0.85934675
+2998,Stromal / fibroblast · Cycling,1.3219258,-3.0,-0.17225417
+2999,Stromal / fibroblast,-3.0,-3.0,0.16933538
+3000,Stromal / fibroblast · Cycling,1.0962523,-3.0,-0.51781464
+3008,Stromal / fibroblast · Cycling,1.4235002,-0.30326706,-0.82548404
+3013,Stromal / fibroblast · Cycling,0.79670477,-0.24086073,-0.07994127
+3014,Stromal / fibroblast,0.578511,0.114848755,-0.6605012
+3015,Stromal / fibroblast · Cycling,1.41916,-3.0,-0.9065084
+3025,Stromal / fibroblast · Cycling,0.88382745,-0.0055243494,0.39184344
+3035,Stromal / fibroblast · Cycling,2.081535,-3.0,0.0031348653
+3051,Stromal / fibroblast · Cycling,1.3076553,-3.0,-0.7113595
+3059,Stromal / fibroblast · ECM-remodeling markers,0.22743481,-0.14878434,0.77008593
+3067,Stromal / fibroblast · Cycling,0.8864813,-0.17180295,-0.80333877
+3070,Stromal / fibroblast · Cycling,1.9130802,-3.0,0.75346386
+3090,Stromal / fibroblast,-3.0,-3.0,0.6268484
+3091,Stromal / fibroblast,-0.0120492615,0.162153,-0.28840896
+3095,Stromal / fibroblast · Cycling,0.89588815,0.060635127,0.393979
+3096,Stromal / fibroblast · Cycling,0.94942683,0.1806458,0.12800358
+3114,Stromal / fibroblast,-3.0,-3.0,-3.0
+3126,Stromal / fibroblast · Cycling,0.74126816,-0.04987853,0.25282094
+3127,Stromal / fibroblast,0.3673266,1.4489421,0.57137525
+3139,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.27451387,1.0444617
+3146,Stromal / fibroblast,-3.0,0.59846604,-0.35530466
+3157,Stromal / fibroblast,-3.0,1.8066832,0.83400285
+3166,Stromal / fibroblast · ECM-remodeling markers,-3.0,-3.0,0.92170084
+3188,Stromal / fibroblast · Cycling,2.1273458,0.059027314,-3.0
+3194,Stromal / fibroblast,-3.0,-3.0,0.35628855
+3195,Stromal / fibroblast · Cycling,2.0747728,0.885829,0.7968545
+3205,Stromal / fibroblast,-3.0,0.36587524,0.24446982
+3207,Stromal / fibroblast,-3.0,1.1526651,-3.0
+3208,Stromal / fibroblast,-3.0,0.034035943,-3.0
+3209,Stromal / fibroblast,-0.04090008,-0.28367692,-0.15401895
+3210,Stromal / fibroblast,-3.0,-3.0,-3.0
+3212,Stromal / fibroblast,0.26543283,0.5744487,-0.42648438
+3213,Stromal / fibroblast,-3.0,-3.0,0.42891496
+3214,Stromal / fibroblast,0.34902102,0.032840706,-0.122216865
+3215,Stromal / fibroblast,-3.0,0.0054456117,-0.1513595
+3219,Stromal / fibroblast,0.5416302,0.3172732,0.64577603
+3221,Stromal / fibroblast · Cycling,0.6503581,-3.0,0.06988639
+3227,Stromal / fibroblast · ECM-remodeling markers,-3.0,-3.0,0.7130151
+3253,Stromal / fibroblast,-3.0,-3.0,-3.0
+3255,Stromal / fibroblast,-3.0,0.8979286,-3.0
+3259,Stromal / fibroblast,0.058574654,0.028935093,-0.2009211
+3263,Stromal / fibroblast · Cycling,1.0230421,0.24865273,-0.036286797
+3277,Stromal / fibroblast · Cycling,0.78879505,-0.28761178,-0.07069881
+3294,Stromal / fibroblast · Cycling,0.7566644,0.056451,0.23097254
+3295,Stromal / fibroblast,-3.0,0.29046205,-0.69184667
+3299,Stromal / fibroblast,0.55219233,0.6276115,-0.004471559
+3301,Stromal / fibroblast · ECM-remodeling markers,0.44622412,0.6281592,0.98853374
+3306,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.57319784,1.0049493
+3308,Stromal / fibroblast,-3.0,0.3839782,-0.010558579
+3324,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.17932479,0.7466202
+3328,Stromal / fibroblast · Cycling,1.2984506,0.101698056,0.4134082
+3330,Stromal / fibroblast · Cycling,1.0582135,0.91404885,0.8262813
+3335,Stromal / fibroblast · ECM-remodeling markers,0.18151663,1.0673709,1.186318
+3339,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.32059938,0.7808178
+3342,Stromal / fibroblast · ECM-remodeling markers,0.18196741,0.85872567,0.86781263
+3348,Stromal / fibroblast,0.4486754,0.10424338,-0.7492391
+3357,Stromal / fibroblast · Cycling,1.1880345,-0.11046572,-0.003244996
+3363,Stromal / fibroblast · Cycling,1.2445397,-3.0,-0.2297006
+3373,Stromal / fibroblast · Cycling,1.0835274,0.3494447,0.525244
+3374,Stromal / fibroblast · Cycling,1.0409892,0.6758646,0.76717985
+3385,Stromal / fibroblast · ECM-remodeling markers,-3.0,-3.0,0.8716862
+3386,Stromal / fibroblast,0.13342267,0.36246893,-3.0
+3387,Stromal / fibroblast,-3.0,-3.0,-3.0
+3388,Stromal / fibroblast,-3.0,-3.0,-0.1587761
+3389,Stromal / fibroblast,-3.0,-3.0,-0.43353915
+3390,Stromal / fibroblast,-3.0,-0.16080011,-0.14179412
+3391,Stromal / fibroblast,-3.0,-3.0,0.12357466
+3392,Stromal / fibroblast,-3.0,-3.0,-3.0
+3394,Stromal / fibroblast,-3.0,-3.0,0.45477587
+3396,Stromal / fibroblast,-3.0,-3.0,-3.0
+3397,Stromal / fibroblast,0.22848809,0.9314548,-0.34382522
+3401,Stromal / fibroblast · Cycling,0.83063996,-0.065780856,-0.15418497
+3403,Stromal / fibroblast,-3.0,-3.0,-3.0
+3405,Stromal / fibroblast,-3.0,-3.0,-3.0
+3406,Stromal / fibroblast,-3.0,-3.0,-3.0
+3411,Stromal / fibroblast,-3.0,-3.0,-3.0
+3412,Stromal / fibroblast,-3.0,0.683258,0.27121118
+3414,Stromal / fibroblast,-3.0,-3.0,0.47457737
+3416,Stromal / fibroblast · Cycling,0.94167036,-0.111413166,0.13029808
+3417,Stromal / fibroblast,0.5069112,-0.21137111,-0.17146018
+3418,Stromal / fibroblast,-3.0,-0.28926757,-0.37120858
+3421,Stromal / fibroblast,-3.0,0.36460721,0.2294848
+3422,Stromal / fibroblast,-3.0,-0.14027278,0.36484918
+3424,Stromal / fibroblast,-3.0,0.8195559,-0.06998355
+3427,Stromal / fibroblast,-3.0,-3.0,0.2998145
+3429,Stromal / fibroblast,-3.0,0.41192326,-3.0
+3430,Stromal / fibroblast,-3.0,0.4971459,0.086019546
+3431,Stromal / fibroblast,0.15019126,0.08364977,0.38612387
+3433,Stromal / fibroblast,-3.0,-0.17798083,0.27167317
+3435,Stromal / fibroblast,-3.0,-3.0,0.20693992
+3442,Stromal / fibroblast,-3.0,-3.0,0.016330332
+3447,Stromal / fibroblast,-3.0,1.253617,0.72014534
+3454,Stromal / fibroblast,0.48640877,0.29735693,-3.0
+3458,Stromal / fibroblast,-3.0,-3.0,-3.0
+3461,Stromal / fibroblast · ECM-remodeling markers,-3.0,0.4423452,0.94650614
+3462,Stromal / fibroblast · Cycling,1.6503927,1.6440166,-0.26353616
+3470,Stromal / fibroblast,-3.0,-3.0,0.38375866
+3472,Stromal / fibroblast · ECM-remodeling markers,0.4208826,0.29061309,0.6552114
+3476,Stromal / fibroblast,-3.0,-3.0,-3.0
+3482,Stromal / fibroblast,-3.0,-3.0,-0.106407076
+3483,Stromal / fibroblast,-3.0,-3.0,-3.0

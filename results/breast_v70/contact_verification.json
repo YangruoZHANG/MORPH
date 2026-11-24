@@ -1,0 +1,43 @@
+{
+  "complete": true,
+  "reference_comparison_passed": true,
+  "raw_cells": 167780,
+  "genes": 313,
+  "tested_contact_candidates": 7889,
+  "displayed_candidates": 2,
+  "formal_CMI_E_significance_test_executed": false,
+  "trajectory_refit_executed": false,
+  "fixed_trajectory_reference_files_unchanged": true,
+  "scope": "Exact descriptive ligand-receptor candidate-contact computation used in main; frozen trajectories are inputs.",
+  "displayed": [
+    {
+      "event": "E1",
+      "source_root": "R0",
+      "source_identity": "Stromal",
+      "target_root": "R1",
+      "target_identity": "B_cell",
+      "ligand": "CXCL12",
+      "receptor": "CXCR4",
+      "distance_um": 7.111808010557947,
+      "descriptive_contact_score": 3.147775225477724
+    },
+    {
+      "event": "E2",
+      "source_root": "R2",
+      "source_identity": "Malignant_epithelial",
+      "target_root": "R1",
+      "target_identity": "CD8_T",
+      "ligand": "CD274",
+      "receptor": "PDCD1",
+      "distance_um": 48.9432982369439,
+      "descriptive_contact_score": 0.1561255248470486
+    }
+  ],
+  "packages": {
+    "numpy": "2.5.2",
+    "scipy": "1.18.0",
+    "pandas": "2.3.3",
+    "anndata": "0.12.7",
+    "h5py": "3.15.1"
+  }
+}

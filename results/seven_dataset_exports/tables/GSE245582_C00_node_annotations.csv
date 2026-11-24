@@ -1,0 +1,424 @@
+node_id,label,score_IFN-response markers,score_Stress-response markers,score_ECM-remodeling markers
+11,Epithelial / tumor,-0.9430646,0.06140144,-0.30999795
+13,Epithelial / tumor,-1.008465,0.057735484,-0.55997586
+17,Epithelial / tumor,-1.0032407,0.08732488,-0.45667538
+37,Epithelial / tumor,-0.8523302,0.11936847,-0.5172627
+39,Epithelial / tumor,-0.81586295,0.14012705,-0.3430862
+41,Epithelial / tumor,-0.8588251,0.11410221,-0.5810397
+42,Epithelial / tumor,-3.0,-3.0,-0.010498581
+58,Epithelial / tumor,-0.58501166,0.34805772,-0.412016
+64,Epithelial / tumor,0.20483103,0.50455296,-0.48030934
+77,Epithelial / tumor · Stress-response markers,-0.3783905,1.2306312,0.54987586
+80,Epithelial / tumor · Stress-response markers,0.16662313,2.0,-0.051966764
+81,Epithelial / tumor · Stress-response markers,0.13250324,2.025974,-0.073400624
+86,Epithelial / tumor,-0.7198854,0.59775895,-0.029465616
+87,Epithelial / tumor · Stress-response markers,-0.07851648,1.0949286,0.21641462
+96,Epithelial / tumor · Stress-response markers,-0.14864698,1.9468403,0.25720614
+100,Epithelial / tumor · Stress-response markers,-0.18336828,1.8849376,0.082120016
+103,Epithelial / tumor · Stress-response markers,0.12233583,2.0345252,0.11078854
+109,Epithelial / tumor · Stress-response markers,-0.32728523,1.8059311,0.036339216
+116,Epithelial / tumor · Stress-response markers,0.57851005,2.0,-0.1618865
+117,Epithelial / tumor,0.25695944,0.09646662,-0.55681056
+120,Epithelial / tumor · Stress-response markers,-0.23611951,1.2164537,0.13043661
+122,Epithelial / tumor,-0.35491323,0.53294957,-0.060215235
+123,Epithelial / tumor,-0.23203854,0.408388,0.010085791
+124,Epithelial / tumor · Stress-response markers,0.058670353,2.1183174,0.05748724
+126,Epithelial / tumor · Stress-response markers,-0.15249726,1.5260414,-0.18511458
+127,Epithelial / tumor · Stress-response markers,0.24331732,2.0,0.13582414
+130,Epithelial / tumor · Stress-response markers,0.2707731,2.042524,0.020805541
+131,Epithelial / tumor,-0.7060077,-3.0,-0.5330666
+134,Epithelial / tumor · Stress-response markers,-0.15060563,2.0,0.0042351247
+135,Epithelial / tumor · Stress-response markers,-0.2246761,1.7811097,0.27552485
+139,Epithelial / tumor · Stress-response markers,-0.19236314,1.605385,0.43003196
+141,Epithelial / tumor · Stress-response markers,-0.16590591,2.0188456,0.10834018
+145,Epithelial / tumor,-0.45094258,0.048441093,-0.74097985
+152,Epithelial / tumor · Stress-response markers,-0.38022283,2.0,-0.09291582
+158,Epithelial / tumor,-0.3021863,-3.0,0.056567155
+159,Epithelial / tumor · Stress-response markers,-0.28561336,0.84987694,0.460744
+166,Epithelial / tumor · Stress-response markers,-0.15812492,1.642039,-0.1289303
+173,Epithelial / tumor,0.15132244,0.14549975,0.48103827
+258,Epithelial / tumor,-0.4569506,0.16752852,-0.39657414
+309,Epithelial / tumor,-0.303181,0.523077,0.24188621
+316,Epithelial / tumor,-0.84674853,0.38316107,0.0095334025
+322,Epithelial / tumor,0.48078495,0.22154035,0.2755101
+336,Epithelial / tumor,-0.97116023,-3.0,0.33662257
+387,Epithelial / tumor,-0.4548462,0.31049144,0.2605126
+401,Epithelial / tumor · Stress-response markers,0.6102957,2.0,-0.118708946
+405,Epithelial / tumor,-0.31301126,0.09306689,0.39770547
+422,Epithelial / tumor · Stress-response markers,-0.09966222,0.69076663,0.19733949
+424,Epithelial / tumor,0.03508991,0.5866987,-0.38202724
+428,Epithelial / tumor,-0.23466106,0.38111117,-0.260274
+430,Epithelial / tumor,-0.6539794,0.3688785,-0.5534728
+431,Epithelial / tumor · Stress-response markers,0.3708887,1.1267692,0.33062443
+433,Epithelial / tumor,-0.11852056,0.4298309,0.086526945
+438,Epithelial / tumor,-0.6889382,0.31092107,-0.5896001
+439,Epithelial / tumor,-0.22540963,0.4070162,-0.3781623
+440,Epithelial / tumor · Stress-response markers,0.9995821,1.0086721,-0.2896337
+443,Epithelial / tumor · Stress-response markers,0.20825538,1.0303828,0.757014
+444,Epithelial / tumor,-0.061313868,-3.0,0.3757127
+445,Epithelial / tumor,0.1444458,0.36231697,0.06730407
+446,Epithelial / tumor,-0.26440328,0.45331326,0.052788742
+447,Epithelial / tumor,-0.29618087,0.29551017,0.25613606
+448,Epithelial / tumor,-0.19036092,0.5357103,0.26660967
+449,Epithelial / tumor,-0.27615726,0.20477997,0.3340748
+451,Epithelial / tumor,-0.3050844,0.3105109,0.17482193
+452,Epithelial / tumor,0.15542758,0.19107525,0.53500175
+453,Epithelial / tumor · Stress-response markers,0.10498041,0.89351964,0.29429653
+454,Epithelial / tumor · Stress-response markers,-0.102424875,0.87053823,0.19799586
+455,Epithelial / tumor · Stress-response markers,1.386877,1.6893171,-0.22977169
+456,Epithelial / tumor · IFN-response markers,1.6826982,1.5090132,-0.1582499
+457,Epithelial / tumor,0.33801025,0.571013,0.16409037
+458,Epithelial / tumor · Stress-response markers,0.41444692,0.8030079,0.15611069
+459,Epithelial / tumor · Stress-response markers,0.0032187582,0.7057788,0.2746895
+460,Epithelial / tumor,-0.30887017,0.26331398,0.13358454
+461,Epithelial / tumor,-0.5667483,0.18839711,-0.30973405
+463,Epithelial / tumor,-0.51825166,0.2872888,0.31120765
+467,Epithelial / tumor · Stress-response markers,0.59164923,1.1721243,-0.37553823
+468,Epithelial / tumor · Stress-response markers,0.24214582,0.901494,0.09169956
+469,Epithelial / tumor · Stress-response markers,0.35634947,0.7360399,0.4155844
+470,Epithelial / tumor · ECM-remodeling markers,0.14221162,0.29830724,0.6674681
+471,Epithelial / tumor · Stress-response markers,0.55670166,1.2677234,-0.16574791
+473,Epithelial / tumor · Stress-response markers,0.5476943,1.1837174,0.23480825
+475,Epithelial / tumor,0.30628467,0.31974426,0.052705467
+477,Epithelial / tumor,-0.24968553,-3.0,0.32843038
+479,Epithelial / tumor · Stress-response markers,0.04258268,1.0003903,0.24125676
+480,Epithelial / tumor · Stress-response markers,-0.077737585,0.84529465,0.21303089
+483,Epithelial / tumor · Stress-response markers,0.29766557,0.94310874,0.48245907
+486,Epithelial / tumor,-0.081933804,0.49675885,0.25831997
+487,Epithelial / tumor,-0.4834755,-3.0,0.49892315
+489,Epithelial / tumor,-0.060266912,-3.0,-0.19456583
+494,Epithelial / tumor,0.023760963,-3.0,0.25228673
+496,Epithelial / tumor · Stress-response markers,1.0584221,2.0,-0.2327996
+498,Epithelial / tumor,-0.26585752,0.42387858,0.103059486
+500,Epithelial / tumor,-0.44723946,-3.0,0.5167862
+501,Epithelial / tumor,-0.21794605,0.3687005,-0.3140815
+502,Epithelial / tumor,0.0059474874,-3.0,0.17371063
+505,Epithelial / tumor · Stress-response markers,0.24626529,2.0,-0.24081329
+507,Epithelial / tumor · Stress-response markers,0.3365721,0.84709185,0.14450593
+509,Epithelial / tumor,-0.4090252,0.27141917,0.43968615
+511,Epithelial / tumor · IFN-response markers,0.68777305,0.42916334,-0.4133231
+513,Epithelial / tumor · IFN-response markers,1.5428979,1.0833102,-0.25025144
+514,Epithelial / tumor,0.23044047,0.036913544,-0.24043262
+515,Epithelial / tumor · Stress-response markers,0.010740113,1.3161427,-0.05188205
+518,Epithelial / tumor,-0.76755536,0.16936971,-0.45772034
+519,Epithelial / tumor,0.02303803,0.41160837,0.584128
+520,Epithelial / tumor · Stress-response markers,0.6331217,0.7100914,0.3625209
+521,Epithelial / tumor · Stress-response markers,0.392855,1.0028832,0.33591843
+523,Epithelial / tumor,-0.23111889,0.39992428,-0.12748034
+524,Epithelial / tumor,0.01388402,0.24893391,0.3069806
+525,Epithelial / tumor,0.59054184,-0.01870885,-0.08559479
+526,Epithelial / tumor,0.1598421,0.6014944,0.12647769
+527,Epithelial / tumor · Stress-response markers,1.0454273,1.4396578,-0.06320672
+529,Epithelial / tumor,0.35896486,0.46253178,0.13701877
+530,Epithelial / tumor · Stress-response markers,0.64659804,2.0,-0.14810625
+532,Epithelial / tumor,0.21626139,0.25161666,0.5257828
+533,Epithelial / tumor · Stress-response markers,-0.3419794,0.73905736,0.03292067
+539,Epithelial / tumor · Stress-response markers,0.6289573,1.4530386,0.6571075
+540,Epithelial / tumor,-0.17546324,0.31251654,-0.23769069
+544,Epithelial / tumor,-0.7688552,-0.029295037,-0.36422443
+548,Epithelial / tumor,-0.14137387,0.54127926,0.51148957
+549,Epithelial / tumor,-0.27612752,0.27393514,0.39325613
+552,Epithelial / tumor · IFN-response markers,0.895829,-3.0,-0.06998178
+553,Epithelial / tumor · IFN-response markers,1.0713078,1.0434052,0.0796278
+554,Epithelial / tumor,0.03650313,0.44826683,0.24372649
+558,Epithelial / tumor · Stress-response markers,0.018157208,1.9154481,-0.1466775
+559,Epithelial / tumor,-0.00018188357,-3.0,0.1869537
+560,Epithelial / tumor · Stress-response markers,0.3938123,1.0585593,0.55240434
+565,Epithelial / tumor,0.17490104,0.52742016,0.33258954
+567,Epithelial / tumor,-0.7694491,-0.13027732,-0.5773818
+570,Epithelial / tumor,0.37789673,-3.0,-0.110756315
+573,Epithelial / tumor · ECM-remodeling markers,0.0991459,0.36570105,0.7188738
+574,Epithelial / tumor,-0.19585133,0.21417423,0.07479846
+575,Epithelial / tumor · Stress-response markers,0.4418754,1.3242501,0.0777996
+576,Epithelial / tumor,-0.17534624,0.018649995,-0.7119643
+577,Epithelial / tumor,0.14826393,-3.0,0.50485575
+578,Epithelial / tumor,0.28529376,0.07539614,0.46872076
+580,Epithelial / tumor,-0.7878519,0.12677495,-0.611446
+581,Epithelial / tumor,-0.3365065,0.20317988,-0.5148725
+582,Epithelial / tumor,-0.51316553,0.21508168,-0.6036493
+583,Epithelial / tumor,-0.90991765,0.14420302,-0.3932067
+585,Epithelial / tumor,-0.91780174,0.11127358,-0.49548072
+587,Epithelial / tumor,-0.41872978,-3.0,-0.10904063
+589,Epithelial / tumor,-0.9065591,0.1598074,-0.35921913
+593,Epithelial / tumor,-0.17088234,-3.0,-0.5842103
+594,Epithelial / tumor,-0.66192096,-0.040775996,0.30081087
+600,Epithelial / tumor,0.25801498,-3.0,0.25035232
+603,Epithelial / tumor · Stress-response markers,0.14137349,1.0577585,0.3678766
+604,Epithelial / tumor,0.032486998,0.6333514,0.23808661
+605,Epithelial / tumor,0.3030353,0.23391992,0.18228534
+607,Epithelial / tumor · Stress-response markers,-0.0043853642,1.0928956,0.24984586
+609,Epithelial / tumor,0.31329113,-0.033928674,-0.40166673
+612,Epithelial / tumor,-0.7620818,-3.0,-0.6454311
+613,Epithelial / tumor,0.48422462,0.25645617,-0.11105098
+614,Epithelial / tumor · IFN-response markers,1.0409677,0.29709718,-0.515582
+616,Epithelial / tumor,-0.033100806,0.22582103,0.63002723
+618,Epithelial / tumor,0.048478495,0.34153232,0.09850873
+620,Epithelial / tumor,0.3883993,0.22807916,0.32077852
+621,Epithelial / tumor,0.3526476,0.019715538,0.43597236
+623,Epithelial / tumor,-0.721156,0.05499186,0.47698912
+626,Epithelial / tumor,0.038148288,0.37952116,0.47444978
+632,Epithelial / tumor · Stress-response markers,-0.22320509,0.86335355,0.32876998
+642,Epithelial / tumor,-0.043769144,0.40080643,0.39742032
+677,Epithelial / tumor,0.1337867,-0.018761205,-0.11377702
+681,Epithelial / tumor · Stress-response markers,0.60966134,1.7278322,-0.27020463
+682,Epithelial / tumor · ECM-remodeling markers,-0.40726772,0.36420837,1.1062618
+685,Epithelial / tumor · ECM-remodeling markers,0.41769466,0.71445876,0.8472125
+686,Epithelial / tumor,-0.2662622,-3.0,0.13702175
+692,Epithelial / tumor,0.12081671,0.14605558,0.42558497
+693,Epithelial / tumor,0.21094325,0.025218062,-0.53847396
+696,Epithelial / tumor,0.43040696,0.48468694,0.23118457
+697,Epithelial / tumor · ECM-remodeling markers,-0.18336749,-3.0,0.7656189
+700,Epithelial / tumor,-0.2195166,-3.0,0.16395594
+701,Epithelial / tumor,-0.03156796,-3.0,0.5849973
+702,Epithelial / tumor · Stress-response markers,0.041335423,0.7888677,0.50881225
+704,Epithelial / tumor,0.13406637,-3.0,0.012055588
+705,Epithelial / tumor,-0.28740036,-3.0,0.23824854
+706,Epithelial / tumor · ECM-remodeling markers,-0.09255711,-3.0,0.9924658
+707,Epithelial / tumor · IFN-response markers,0.86935014,0.6412172,-0.19814448
+709,Epithelial / tumor · Stress-response markers,-0.19145916,1.1738309,0.53561765
+710,Epithelial / tumor · ECM-remodeling markers,-0.2807048,-3.0,0.7795536
+711,Epithelial / tumor,-0.52608144,-3.0,0.012179816
+715,Epithelial / tumor,0.08688565,-3.0,-0.14257531
+718,Epithelial / tumor,-0.79437065,-0.08487058,-0.8250362
+726,Epithelial / tumor,-0.8459975,-0.0146594355,-0.809684
+728,Epithelial / tumor,-0.86445457,-0.12163835,-0.84991646
+733,Epithelial / tumor,-0.8366272,-0.09351042,-0.7669637
+734,Epithelial / tumor,-0.84166014,-0.08865122,-0.8331769
+735,Epithelial / tumor,-0.83555984,-0.090804495,-0.79615724
+736,Epithelial / tumor,-0.8208194,-0.083243825,-0.7609515
+737,Epithelial / tumor,-0.8233678,-0.09893828,-0.5936462
+738,Epithelial / tumor,-0.8239498,-0.08538876,-0.77294034
+740,Epithelial / tumor,-0.7265318,-0.0138930855,-0.3058275
+741,Epithelial / tumor,-0.8606986,-0.05397622,-0.8230156
+742,Epithelial / tumor,-0.8613571,-0.0675694,-0.8208205
+743,Epithelial / tumor,-0.8075301,-3.0,-0.45059457
+744,Epithelial / tumor,-0.7844861,-0.09375203,-0.6057168
+745,Epithelial / tumor,-0.8459355,-0.0075472533,-0.7927977
+746,Epithelial / tumor,-0.8101703,-0.09055672,-0.37718767
+747,Epithelial / tumor,-0.85647553,-0.10677173,-0.8147955
+748,Epithelial / tumor,-0.8178395,-0.07030789,-0.7438245
+752,Epithelial / tumor,-0.89682615,-3.0,-0.8644034
+754,Epithelial / tumor,-0.62304866,-3.0,-0.7312735
+756,Epithelial / tumor,-0.83283645,-0.12645023,-0.8654324
+758,Epithelial / tumor,-0.59777373,-0.038479578,-0.5959264
+759,Epithelial / tumor,-0.8362988,-3.0,0.118104
+760,Epithelial / tumor,-0.84352815,-0.11000074,-0.7352265
+762,Epithelial / tumor,-0.8509551,-0.117031716,-0.8313154
+763,Epithelial / tumor,-0.8804821,-3.0,-0.79002684
+764,Epithelial / tumor,-0.88054025,-0.09446929,-0.81286705
+772,Epithelial / tumor,-0.5715965,-0.018314358,-0.6859497
+774,Epithelial / tumor,-0.9342116,-3.0,-0.85609865
+777,Epithelial / tumor,0.2345407,-3.0,-0.07592585
+778,Epithelial / tumor,-0.9442805,-3.0,-0.8111156
+782,Epithelial / tumor,-0.7078574,0.08251811,-0.51553375
+783,Epithelial / tumor,-0.6654704,0.04338852,0.18668544
+788,Epithelial / tumor,-0.92673826,-3.0,-0.7946157
+789,Epithelial / tumor · ECM-remodeling markers,-0.08808808,-3.0,1.009033
+790,Epithelial / tumor,0.20457628,0.052191466,0.25867483
+791,Epithelial / tumor,-0.13669105,0.027610643,-0.22146371
+792,Epithelial / tumor,-0.31364185,-3.0,0.06171156
+794,Epithelial / tumor,-0.33092204,-3.0,0.025676947
+795,Epithelial / tumor · ECM-remodeling markers,-0.41805005,-0.05182454,0.80314904
+796,Epithelial / tumor · ECM-remodeling markers,-0.59691274,-3.0,0.8135103
+797,Epithelial / tumor,-0.103730895,-0.005536273,-0.120578095
+798,Epithelial / tumor,0.5170115,-0.03348664,-0.44008094
+799,Epithelial / tumor,-0.40078336,-0.06799282,-0.32756132
+800,Epithelial / tumor · ECM-remodeling markers,-0.2558949,-3.0,0.9880703
+801,Epithelial / tumor · ECM-remodeling markers,-0.3841878,0.16740447,0.8832139
+802,Epithelial / tumor,-0.23801354,-3.0,0.48931423
+803,Epithelial / tumor,-0.23407933,0.008978882,0.17735949
+804,Epithelial / tumor · ECM-remodeling markers,-0.45739412,-3.0,0.67508686
+805,Epithelial / tumor,0.28385857,0.053595763,0.13077381
+806,Epithelial / tumor,-0.6074293,-3.0,0.42887458
+807,Epithelial / tumor,0.010386991,-3.0,0.16294289
+808,Epithelial / tumor,-0.29130414,0.06776986,0.6171275
+809,Epithelial / tumor,-0.2709145,-3.0,0.29336727
+810,Epithelial / tumor,0.09862097,0.08477863,-0.5487853
+812,Epithelial / tumor,0.36399513,0.103661,-0.33506885
+813,Epithelial / tumor,-0.20914555,-3.0,0.3629486
+814,Epithelial / tumor,0.32150266,-3.0,-0.15775426
+816,Epithelial / tumor,0.24136493,-3.0,0.39157727
+818,Epithelial / tumor,-0.027162114,0.10394725,-0.110587016
+819,Epithelial / tumor,-0.21318336,-3.0,-0.05330494
+820,Epithelial / tumor · ECM-remodeling markers,-0.5099746,-3.0,0.67996633
+821,Epithelial / tumor,-0.5225187,-3.0,0.61274886
+822,Epithelial / tumor · ECM-remodeling markers,-0.27601925,0.03564669,0.70461994
+823,Epithelial / tumor,-0.22858444,-3.0,0.4358716
+825,Epithelial / tumor,-0.17164145,-3.0,0.29493
+827,Epithelial / tumor,0.34754992,-3.0,0.17499013
+828,Epithelial / tumor,0.4035112,0.0041028657,0.17990816
+829,Epithelial / tumor,0.555754,0.04505114,-0.53546
+830,Epithelial / tumor,0.21167016,-0.014985281,-0.20446411
+831,Epithelial / tumor · ECM-remodeling markers,0.12269988,0.255591,0.67875963
+832,Epithelial / tumor,0.5189405,0.09581277,0.64884
+833,Epithelial / tumor · ECM-remodeling markers,0.388326,0.33790585,0.68519557
+834,Epithelial / tumor · IFN-response markers,0.8571984,0.060824197,0.15725479
+835,Epithelial / tumor,0.22616787,-0.005875215,0.42147097
+837,Epithelial / tumor,0.46557218,-3.0,0.51157534
+838,Epithelial / tumor,0.48025694,-3.0,0.44620633
+839,Epithelial / tumor,0.43993726,0.10129928,0.52726775
+840,Epithelial / tumor,0.045503996,-6.9744885e-05,-0.6272387
+841,Epithelial / tumor,0.47339195,-0.07718816,0.12742038
+842,Epithelial / tumor · IFN-response markers,0.66639614,-0.030283026,0.29062527
+844,Epithelial / tumor,0.11958239,-3.0,0.508603
+845,Epithelial / tumor · IFN-response markers,1.4864504,-3.0,0.014401066
+846,Epithelial / tumor,0.19587827,-3.0,0.20026162
+847,Epithelial / tumor,0.54947764,-3.0,0.5392851
+848,Unresolved · IFN-response markers,0.9008454,0.083452724,-0.36305386
+849,Epithelial / tumor · IFN-response markers,1.1928018,0.28262052,0.35726947
+850,Epithelial / tumor · ECM-remodeling markers,0.43212968,-3.0,0.6694473
+851,Epithelial / tumor · ECM-remodeling markers,-0.14389962,-3.0,0.7420677
+852,Epithelial / tumor,0.40633607,-0.06561371,0.62566185
+853,Epithelial / tumor,-0.12819192,0.16590358,-0.7188627
+854,Epithelial / tumor · ECM-remodeling markers,0.32055038,-3.0,0.6808487
+855,Epithelial / tumor · ECM-remodeling markers,0.18301001,-3.0,0.7936803
+856,Epithelial / tumor,0.53366584,-3.0,0.4467439
+858,Epithelial / tumor,0.20677714,-3.0,0.39619914
+860,Epithelial / tumor · ECM-remodeling markers,0.3195838,-0.066878796,0.7718207
+861,Epithelial / tumor · ECM-remodeling markers,0.43145266,-3.0,0.9027713
+862,Epithelial / tumor,0.016093265,-3.0,0.17321971
+863,Epithelial / tumor · ECM-remodeling markers,0.05027982,-3.0,0.6888346
+864,Epithelial / tumor,0.2686507,-3.0,0.5540046
+865,Epithelial / tumor · IFN-response markers,0.75290406,-0.028517304,0.64088523
+866,Epithelial / tumor · IFN-response markers,0.8426548,-3.0,0.47169632
+867,Epithelial / tumor,-0.04524281,-3.0,0.29237658
+869,Epithelial / tumor,-0.02804234,-3.0,0.6454192
+870,Epithelial / tumor,0.16872182,-3.0,0.49038488
+871,Epithelial / tumor · ECM-remodeling markers,0.29547015,-3.0,0.84602624
+872,Epithelial / tumor,0.27818626,-3.0,0.4702154
+873,Epithelial / tumor,0.44630814,-3.0,0.50309813
+874,Epithelial / tumor · ECM-remodeling markers,0.3849329,-3.0,0.7121848
+875,Epithelial / tumor · ECM-remodeling markers,-0.27106097,-3.0,0.78893095
+876,Epithelial / tumor,0.3355283,-3.0,-0.05880891
+877,Epithelial / tumor · ECM-remodeling markers,-0.05826323,0.39282516,0.7729605
+878,Epithelial / tumor · ECM-remodeling markers,0.022481078,-3.0,0.75067985
+879,Epithelial / tumor · ECM-remodeling markers,0.48807865,-0.026746849,0.68042016
+880,Epithelial / tumor · ECM-remodeling markers,0.026474308,-3.0,0.68351424
+881,Epithelial / tumor,0.1641053,0.09804956,-0.08809991
+882,Epithelial / tumor,0.1975154,-3.0,0.6297836
+883,Epithelial / tumor · ECM-remodeling markers,0.35512254,0.002206852,0.78883994
+885,Epithelial / tumor,0.44613773,0.020340204,0.5299014
+886,Epithelial / tumor,0.32732242,-3.0,0.23400232
+888,Epithelial / tumor,0.34173155,0.18237455,0.45330352
+889,Epithelial / tumor,-0.18055888,0.36468172,0.5732895
+890,Epithelial / tumor · IFN-response markers,1.3464305,-3.0,0.18645379
+891,Epithelial / tumor · IFN-response markers,0.7748009,-3.0,0.69533455
+892,Epithelial / tumor,0.45021328,0.015119531,-0.10747032
+893,Epithelial / tumor · ECM-remodeling markers,0.0059800385,-3.0,0.8652693
+894,Epithelial / tumor · ECM-remodeling markers,-0.07951626,-3.0,0.8212948
+896,Epithelial / tumor,0.28516906,-3.0,-0.16988936
+898,Epithelial / tumor · IFN-response markers,0.701647,0.085151784,-0.6038043
+899,Epithelial / tumor · IFN-response markers,0.74326575,-3.0,0.1612315
+900,Epithelial / tumor,0.16513214,-3.0,-0.552472
+902,Epithelial / tumor · ECM-remodeling markers,0.7105797,-3.0,0.71839875
+904,Epithelial / tumor,0.24956448,-0.053046186,0.015561569
+905,Epithelial / tumor,-0.04220724,0.056181077,-0.41507936
+906,Epithelial / tumor,0.5325682,0.041888658,-0.68652064
+907,Epithelial / tumor,0.41547665,-3.0,0.36188975
+908,Epithelial / tumor,0.6214427,0.06610849,0.1351771
+909,Epithelial / tumor,-0.48613134,-0.00088605034,-0.5878023
+910,Epithelial / tumor,0.5472845,-3.0,0.16368979
+911,Epithelial / tumor,-0.26360375,-3.0,-0.51504445
+912,Epithelial / tumor,0.009942683,-0.07977117,-0.70618194
+913,Epithelial / tumor,-0.0018438727,-0.008677922,-0.76834863
+914,Epithelial / tumor,-0.07247956,-0.042121824,-0.23851839
+915,Epithelial / tumor · IFN-response markers,0.9153498,0.084469855,-0.60180295
+916,Epithelial / tumor,0.28846383,-0.028707208,-0.46956864
+917,Epithelial / tumor,0.22821966,0.04616207,-0.7475059
+918,Epithelial / tumor,-0.19026515,0.19984369,-0.04369271
+919,Epithelial / tumor,0.13489963,-3.0,-0.09931575
+920,Epithelial / tumor,0.137674,-0.0821778,-0.57613546
+921,Epithelial / tumor,-0.25113338,-3.0,-0.35988873
+922,Epithelial / tumor,0.18781848,-0.074617766,-0.5575019
+923,Epithelial / tumor,0.15371488,-3.0,-0.28356516
+924,Epithelial / tumor,-0.1748604,-3.0,-0.07753675
+925,Epithelial / tumor,0.16959068,0.025164047,-0.10458406
+926,Epithelial / tumor,0.27817273,-0.05340908,0.07626358
+927,Epithelial / tumor,0.32278475,-3.0,-0.00018091648
+928,Epithelial / tumor,0.63205945,-3.0,-0.29592296
+929,Epithelial / tumor,0.41278163,-3.0,-0.07828605
+930,Epithelial / tumor,0.24010196,-3.0,0.28422529
+931,Epithelial / tumor,0.31684205,0.17426942,0.033931673
+932,Epithelial / tumor,-0.3120216,-0.014307854,-0.76931274
+934,Epithelial / tumor,-0.016353982,0.0190052,-0.12713996
+935,Epithelial / tumor,-0.007759556,-3.0,-0.31247213
+936,Epithelial / tumor,0.18418472,-3.0,0.11604571
+937,Epithelial / tumor,-0.029563945,0.047801215,-0.026775533
+938,Epithelial / tumor,-0.05351623,-3.0,-0.015871339
+939,Epithelial / tumor,0.031240756,-3.0,0.113244295
+940,Epithelial / tumor,0.001319167,-0.010692564,-0.62600225
+941,Epithelial / tumor,0.52682364,0.031963732,-0.3395848
+942,Epithelial / tumor,-0.08328746,-3.0,-0.014520896
+945,Epithelial / tumor,-0.2816448,-3.0,-0.46054512
+946,Epithelial / tumor,0.050542235,0.011450335,-0.5738484
+947,Epithelial / tumor,0.31812572,0.1757415,0.1692892
+948,Epithelial / tumor,-0.060982596,-3.0,0.5011967
+949,Epithelial / tumor,0.030031357,-0.014199222,-0.29907712
+950,Epithelial / tumor,0.12600788,0.21088706,0.2880396
+951,Epithelial / tumor,0.33549994,-3.0,0.0690244
+952,Epithelial / tumor,-0.010839522,0.06621204,-0.5304745
+953,Epithelial / tumor,0.20367579,0.06714155,-0.56418025
+954,Epithelial / tumor,-0.5086789,-3.0,-0.2639956
+955,Epithelial / tumor · IFN-response markers,1.3932,0.056538776,-0.5418653
+957,Epithelial / tumor · IFN-response markers,0.9198,-3.0,-0.18544091
+959,Epithelial / tumor · IFN-response markers,1.3164535,-3.0,0.31349415
+960,Epithelial / tumor,0.08294244,-3.0,0.5287583
+961,Epithelial / tumor · IFN-response markers,1.9951746,-3.0,-0.6703828
+962,Epithelial / tumor,-0.576928,-3.0,0.37139636
+963,Epithelial / tumor · IFN-response markers,1.5904593,-3.0,-0.65659106
+964,Epithelial / tumor,0.18186983,-3.0,-0.2149729
+965,Epithelial / tumor · ECM-remodeling markers,-0.21584764,-3.0,0.68735445
+966,Epithelial / tumor,0.52504355,0.092804395,-0.57131374
+967,Epithelial / tumor,-0.015862722,-3.0,0.061330818
+970,Epithelial / tumor,-0.8510529,-3.0,0.093760885
+972,Epithelial / tumor,0.07148539,-0.08412889,-0.6116713
+974,Epithelial / tumor,0.3727122,-3.0,-0.1312745
+976,Epithelial / tumor,0.2713699,0.006559352,-0.25352257
+977,Epithelial / tumor,0.29857188,0.10077685,-0.5814106
+984,Epithelial / tumor,-0.06826644,-3.0,-0.069499716
+985,Epithelial / tumor,-0.048078787,-3.0,-0.5141524
+986,Epithelial / tumor,0.41088733,-3.0,-0.6306995
+987,Epithelial / tumor,0.05407347,-3.0,0.17782457
+988,Epithelial / tumor,0.18177363,0.0011841232,-0.055735886
+989,Epithelial / tumor,0.12911819,0.004448846,0.10678639
+991,Epithelial / tumor,0.05399262,-3.0,0.6366421
+995,Epithelial / tumor · IFN-response markers,1.7639354,0.19981228,-0.7754383
+996,Epithelial / tumor,-0.14022824,0.24280404,0.341745
+998,Epithelial / tumor,-0.2762244,-3.0,0.47106352
+1001,Epithelial / tumor,0.44097948,-3.0,-0.41692203
+1002,Epithelial / tumor,0.13831833,-3.0,-0.58299583
+1003,Epithelial / tumor,0.0043959855,-3.0,-0.5398424
+1004,Epithelial / tumor,0.37863687,0.03531104,-0.5436491
+1005,Epithelial / tumor,-0.05073756,-3.0,-0.047086906
+1008,Epithelial / tumor,0.25222263,-3.0,-0.27657193
+1010,Epithelial / tumor,0.16903332,-3.0,-0.13617721
+1012,Epithelial / tumor,-0.10576494,-3.0,-0.16151734
+1017,Epithelial / tumor,-0.79961514,-3.0,0.42226267
+1019,Epithelial / tumor,-0.9701811,-3.0,-0.33454764
+1020,Unresolved,-0.62022877,-3.0,-0.09001511
+1023,Epithelial / tumor,0.4778164,-3.0,-3.0
+1024,Epithelial / tumor,-3.0,-3.0,-0.075066105
+1025,Epithelial / tumor,-0.6091715,-3.0,0.2384208
+1026,Epithelial / tumor,-0.644208,-3.0,0.3551557
+1027,Epithelial / tumor,-0.08404868,0.55045193,0.26922137
+1028,Epithelial / tumor,-0.15457709,-3.0,0.34212
+1030,Epithelial / tumor,-0.45576364,-3.0,0.22810805
+1031,Epithelial / tumor,0.06512481,-0.06558756,0.20178553
+1032,Epithelial / tumor · ECM-remodeling markers,-0.09070375,-3.0,0.7331054
+1033,Epithelial / tumor · IFN-response markers,1.462614,-3.0,0.682262
+1038,Epithelial / tumor,0.5962661,-3.0,0.19594282
+1039,Epithelial / tumor · ECM-remodeling markers,0.21979375,-3.0,0.71948594
+1040,Epithelial / tumor · IFN-response markers,1.5761182,0.45492363,-0.17809281
+1041,Epithelial / tumor,0.39465693,0.22380413,0.42692608
+1042,Epithelial / tumor,-0.12228395,0.5743558,0.1373063
+1044,Epithelial / tumor,-0.21349517,-3.0,0.49003157
+1045,Epithelial / tumor,0.24289866,-3.0,0.21495748
+1046,Epithelial / tumor,0.41057092,-3.0,-0.22899468
+1048,Epithelial / tumor · IFN-response markers,1.0526637,-3.0,-0.023115134
+1050,Epithelial / tumor,0.24955003,-3.0,0.508763
+1051,Epithelial / tumor · Stress-response markers,-0.04802636,0.83775663,-0.48036727
+1053,Epithelial / tumor,0.4899207,-3.0,0.5741629
+1055,Epithelial / tumor,0.07281802,-3.0,0.2080683
+1056,Epithelial / tumor,-0.42222062,-3.0,-0.026731133
+1060,Epithelial / tumor,-0.0041262386,-3.0,0.3523739
+1062,Epithelial / tumor · ECM-remodeling markers,-0.059473485,-3.0,0.8093702

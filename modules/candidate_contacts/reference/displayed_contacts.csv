@@ -1,0 +1,3 @@
+event,source_raw_row,target_raw_row,source_root,source_identity,target_root,target_identity,ligand,receptor,distance_um,descriptive_contact_score,hypothesis,formal_call
+E1,82482,82480,R0,Stromal,R1,B_cell,CXCL12,CXCR4,7.111808010557947,3.147775225477724,Recruitment-like hypothesis,False
+E2,134191,10303,R2,Malignant_epithelial,R1,CD8_T,CD274,PDCD1,48.9432982369439,0.1561255248470486,Inhibition-like hypothesis,False

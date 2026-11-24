@@ -18,3 +18,4 @@ data/
 *.npz
 *.zip
 *.log
+restored_artifacts/

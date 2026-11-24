@@ -1,0 +1,25 @@
+cohort,root_id,identity,step,n_units,n_observed_cells,term,module,evidence,competitive_q,top_program_score
+R0-b0,R0,Stromal,0,650,4640,Regulation Of Cell Migration Involved In Sprouting Angiogenesis (GO:0090049),Tissue remodelling,Competitive enrichment q<=0.05,0.0025668698288261707,0.9535534679571632
+R0-b0,R0,Stromal,1,649,4645,Hallmark_2020::KRAS Signaling Up,Growth / secretion,Competitive enrichment q<=0.05,0.023402745598065298,0.9753186139921268
+R0-b0,R0,Stromal,2,650,4654,Hallmark_2020::Epithelial Mesenchymal Transition,Tissue remodelling,descriptive score only,,1.028145259595505
+R0-b0,R0,Stromal,3,650,4550,Hallmark_2020::Xenobiotic Metabolism,Metabolic,Competitive enrichment q<=0.05,0.000403277861789384,1.095895577793669
+R1-b0,R1,B_cell,0,110,575,external_curated::B_CELL,Immune identity,descriptive score only,,3.7412616509164667
+R1-b0,R1,B_cell,1,109,514,external_curated::B_CELL,Immune identity,descriptive score only,,3.5751783862056175
+R1-b0,R1,B_cell,2,110,370,Hallmark_2020::G2-M Checkpoint,Cell cycle,Competitive enrichment q<=0.05,0.02161759463570275,3.6388767101006394
+R1-b0,R1,B_cell,3,110,178,"Synthesis, Secretion, And Deacylation Of Ghrelin R-HSA-422085",Growth / secretion,Competitive enrichment q<=0.05,0.0024567077678650366,2.8903475874751474
+R1-b1,R1,CD8_T,0,171,1102,Hallmark_2020::TNF-alpha Signaling via NF-kB,Immune signalling,Competitive enrichment q<=0.05,0.004515933111308961,1.868229520377695
+R1-b1,R1,CD8_T,1,170,1050,external_curated::T_CELL_CORE,Immune identity,descriptive score only,,1.8545726893928332
+R1-b1,R1,CD8_T,2,170,948,Antigen Receptor-Mediated Signaling Pathway (GO:0050851),Immune identity,Competitive enrichment q<=0.05,0.04202911652479378,1.8825878528646867
+R1-b1,R1,CD8_T,3,171,611,external_curated::T_CELL_CORE,Immune identity,descriptive score only,,1.8170447858057572
+R1-b2,R1,Macrophage,0,286,1520,Positive Regulation Of Lymphocyte Migration (GO:2000403),Immune identity,Competitive enrichment q<=0.05,0.00014716563008656077,2.209780151232875
+R1-b2,R1,Macrophage,1,286,1370,Mast Cell Mediated Immunity (GO:0002448),Immune identity,Competitive enrichment q<=0.05,0.000502184031871084,2.3153444264996708
+R1-b2,R1,Macrophage,2,286,1261,Regulation Of Lipid Metabolism By PPARalpha R-HSA-400206,Metabolic,Competitive enrichment q<=0.05,0.049839983817055386,2.4024743038650986
+R1-b2,R1,Macrophage,3,287,1211,Hallmark_2020::Cholesterol Homeostasis,Metabolic,Competitive enrichment q<=0.05,5.797798885584016e-09,2.3333564085255842
+R2-b0,R2,Malignant_epithelial,0,2075,10952,Regulation Of Stress Fiber Assembly (GO:0051492),Stress / damage,Competitive enrichment q<=0.05,1.5617967569122753e-05,0.527850061486448
+R2-b0,R2,Malignant_epithelial,1,2074,13247,Hallmark_2020::Adipogenesis,Metabolic,Competitive enrichment q<=0.05,0.007199314989818662,0.5099867852344364
+R2-b0,R2,Malignant_epithelial,2,2074,14559,Monocarboxylic Acid Transport (GO:0015718),Growth / secretion,Competitive enrichment q<=0.05,0.0018296677411096874,0.7104961679239665
+R2-b0,R2,Malignant_epithelial,3,2075,12713,Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829,Metabolic,Competitive enrichment q<=0.05,2.04794813572684e-08,0.663824703233245
+R2-b1,R2,Stromal,0,669,4886,Hallmark_2020::KRAS Signaling Up,Growth / secretion,Competitive enrichment q<=0.05,1.2241383049104856e-06,0.9622775842939245
+R2-b1,R2,Stromal,1,668,4718,Hallmark_2020::Angiogenesis,Tissue remodelling,descriptive score only,,0.9631331422536473
+R2-b1,R2,Stromal,2,669,4794,Hallmark_2020::Epithelial Mesenchymal Transition,Tissue remodelling,Competitive enrichment q<=0.05,0.009331265200142061,1.0018802662803628
+R2-b1,R2,Stromal,3,669,4706,Peptide Hormone Metabolism R-HSA-2980736,Metabolic,Competitive enrichment q<=0.05,3.964033593462025e-05,1.1055146414666093

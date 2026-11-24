@@ -1,0 +1,12 @@
+node_id,label,score_Cycling,score_Cytotoxic markers,score_IFN-response markers,score_Stress-response markers,score_ECM-remodeling markers
+1,Epithelial / tumor,-0.029577633,0.10726287,0.09914442,0.08755454,-0.38202804
+4,Epithelial / tumor · Stress-response markers,-0.82996386,-0.19266327,0.5940724,1.2059075,0.020141851
+5,Epithelial / tumor,-0.003491665,-0.04861185,0.26398456,-0.043695267,-0.30469567
+7,Epithelial / tumor,-0.09455123,-0.27848974,-0.4463608,-0.1370908,-0.40264955
+10,Epithelial / tumor,0.016991884,0.14570855,-0.2641511,-0.29353687,0.006604171
+11,Epithelial / tumor,0.2583897,0.06877527,-0.2604184,-0.049234748,0.4463423
+17,Epithelial / tumor · Cycling,0.8014148,-0.2015758,0.360703,-0.18766905,0.08164644
+18,Epithelial / tumor · IFN-response markers,0.019142577,0.6369893,1.1770635,0.38506657,-0.253128
+19,Epithelial / tumor · ECM-remodeling markers,0.2921293,0.0065463707,-0.6960737,0.046315208,1.0966032
+20,Epithelial / tumor,-0.11743659,-0.6037013,0.015152316,0.22005227,0.1830914
+21,Epithelial / tumor · ECM-remodeling markers,-0.08251598,0.3245215,-0.6297299,-0.0068340227,1.2550141

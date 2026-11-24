@@ -1,0 +1,111 @@
+[
+  {
+    "path": "figures/main/Figure_02_AMCP_roots.png",
+    "bytes": 3995213,
+    "sha256": "c136d9c3705b540bc8e5bcf58edc363e679c212da90dc98d5cb7c2ed0c52577c",
+    "parts": [
+      "archive/figures/main/Figure_02_AMCP_roots.png/001.part",
+      "archive/figures/main/Figure_02_AMCP_roots.png/002.part",
+      "archive/figures/main/Figure_02_AMCP_roots.png/003.part"
+    ]
+  },
+  {
+    "path": "figures/main/Figure_03_breast_trajectories.png",
+    "bytes": 3477836,
+    "sha256": "5fc1bf42cc1047afb4bed1a4645c3ec7b1e272e8a5b0f7a547d3748e5dd26a7b",
+    "parts": [
+      "archive/figures/main/Figure_03_breast_trajectories.png/001.part",
+      "archive/figures/main/Figure_03_breast_trajectories.png/002.part",
+      "archive/figures/main/Figure_03_breast_trajectories.png/003.part"
+    ]
+  },
+  {
+    "path": "figures/main/Figure_05_simulation_benchmark.png",
+    "bytes": 3447021,
+    "sha256": "ec243836f310937da6c2df6c465121c105c88c6b11a5c8225d98bc1f4aeedf1c",
+    "parts": [
+      "archive/figures/main/Figure_05_simulation_benchmark.png/001.part",
+      "archive/figures/main/Figure_05_simulation_benchmark.png/002.part",
+      "archive/figures/main/Figure_05_simulation_benchmark.png/003.part"
+    ]
+  },
+  {
+    "path": "figures/main/Figure_06_breast_biological_programmes.png",
+    "bytes": 3390120,
+    "sha256": "58e3473e7c2514de7d14d8d649112ead51f28153ebc87ab4f69358f2a83a8e49",
+    "parts": [
+      "archive/figures/main/Figure_06_breast_biological_programmes.png/001.part",
+      "archive/figures/main/Figure_06_breast_biological_programmes.png/002.part",
+      "archive/figures/main/Figure_06_breast_biological_programmes.png/003.part"
+    ]
+  },
+  {
+    "path": "figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf",
+    "bytes": 12067348,
+    "sha256": "29d9c70654c3f76aa660cff705d970c10e3c05a3b364015f70c6a7484bf0365c",
+    "parts": [
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/001.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/002.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/003.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/004.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/005.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/006.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/007.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.pdf/008.part"
+    ]
+  },
+  {
+    "path": "figures/supplementary/Supplement_B_all_datasets_merged_trajectories.png",
+    "bytes": 7125512,
+    "sha256": "a1849bbf415038a1db7f7e434378273313c6bc5ebb03b7bcee486f50c756e46e",
+    "parts": [
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.png/001.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.png/002.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.png/003.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.png/004.part",
+      "archive/figures/supplementary/Supplement_B_all_datasets_merged_trajectories.png/005.part"
+    ]
+  },
+  {
+    "path": "figures/supplementary/Supplement_C_all_datasets_spatial_biology.pdf",
+    "bytes": 6822351,
+    "sha256": "79cf5f9a28d9a61c511a67c131cda4d2c910152ca201237b00b58da01743a923",
+    "parts": [
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.pdf/001.part",
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.pdf/002.part",
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.pdf/003.part",
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.pdf/004.part",
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.pdf/005.part"
+    ]
+  },
+  {
+    "path": "figures/supplementary/Supplement_C_all_datasets_spatial_biology.png",
+    "bytes": 6224054,
+    "sha256": "b13c2efd902184e01803830bebdaf68881c4c172ddad40fabdcf20e1ae4e2075",
+    "parts": [
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.png/001.part",
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.png/002.part",
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.png/003.part",
+      "archive/figures/supplementary/Supplement_C_all_datasets_spatial_biology.png/004.part"
+    ]
+  },
+  {
+    "path": "results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv",
+    "bytes": 4095097,
+    "sha256": "457d5c17ecae7e2734fde09631f02cea529861688bb6c6743a98b9f8d54becbe",
+    "parts": [
+      "archive/results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/001.part",
+      "archive/results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/002.part",
+      "archive/results/breast_v70/figure_06_source_tables/ALL_COMPETITIVE_SPATIAL_BLOCK_GENE_SET_TESTS.csv/003.part"
+    ]
+  },
+  {
+    "path": "results/breast_v70/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv",
+    "bytes": 2816883,
+    "sha256": "3cb510dfc58247f48e4714e7fdb96c3bd8413e233feb9db11aeea618e1c225b6",
+    "parts": [
+      "archive/results/breast_v70/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv/001.part",
+      "archive/results/breast_v70/figure_06_source_tables/FROZEN_COHORT_STEP_ASSIGNMENTS.csv/002.part"
+    ]
+  }
+]
