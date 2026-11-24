@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite this software and the original data sources used in your analysis."
+title: "MORPH (NicheForest)"
+type: software
+version: "submission-baseline-2026-11-24"
+repository-code: "https://github.com/YangruoZHANG/MORPH"
+authors:
+  - family-names: Zhang
+    given-names: Yangruo
+  - family-names: Zhang
+    given-names: Yawen
+  - family-names: Deng
+    given-names: Xingyi
+  - family-names: Han
+    given-names: Chengxu
+  - family-names: Chen
+    given-names: Jiaxing
